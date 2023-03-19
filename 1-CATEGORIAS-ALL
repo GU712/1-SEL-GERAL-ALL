@@ -13,7 +13,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[B][COLOR white]FILMES[/COLOR][/B]</name>
-<externallink>https://raw.githubusercontent.com/GU712/B1-MENU-LS-CAT-MTX/main/B-SEL-FLMS-MTX</externallink>
+<externallink><LINKPARACATEGORIA></externallink>
 <thumbnail>https://i.ibb.co/9nGGXZb/FLMS-ALL.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
 <info>O MELHOR DA SÉTIMA ARTE</info>
@@ -25,7 +25,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[B][COLOR white]SÉRIES[/COLOR][/B]</name>
-<externallink>https://raw.githubusercontent.com/GU712/B1-MENU-LS-CAT-MTX/main/C-SEL-SRS-ALL-MTX</externallink>
+<externallink><LINKPARACATEGORIA></externallink>
 <thumbnail>https://i.ibb.co/GkWfkm0/SRS-ALL.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
 <info>SUA MARATONA ESTA AQUI</info>
@@ -48,7 +48,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[B][COLOR white]SEÇÕES ESPECIAIS[/COLOR][/B]</name>
-<externallink>https://raw.githubusercontent.com/GU712/B1-MENU-LS-CAT-MTX/main/E-SEL-SPCS-MTX</externallink>
+<externallink><LINKPARACATEGORIA></externallink>
 <thumbnail>https://i.ibb.co/Xb4zpLG/ESPECIAIS.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
 <info>OS DESTAQUES DA SÉTIMA ARTE</info>
@@ -60,7 +60,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]SEÇÃO NOSTALGIA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/7-NOST-ALL-LS/main/B-SEL-NOST-ALL-MTX</externallink>
+<externallink><LINKPARACATEGORIA></externallink>
 <thumbnail>https://i.ibb.co/GJdfPjf/NOSTALGIA.png</thumbnail
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
 <info>MATERIAIS RAROS  DIFÍCEIS DE ENCONTRAR NA WEB</info>
@@ -72,7 +72,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[B][COLOR white]NOVIDADES DA SEMANA[/COLOR][/B]</name>
-<externallink>https://raw.githubusercontent.com/GU712/B1-MENU-LS-CAT-MTX/main/D-SEL-NEWS-MTX</externallink>
+<externallink><LINKPARACATEGORIA></externallink>
 <thumbnail>https://i.ibb.co/VQWgW1C/NOVIDADES.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
 <info>ADIÇÕES RECENTES</info>
@@ -84,7 +84,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]FILMES COM LINK DIRETO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/B1-MENU-LS-CAT-MTX/main/B3-SEL-FLMS-LD-MTX</externallink>
+<externallink><LINKPARACATEGORIA></externallink>
 <thumbnail>https://i.ibb.co/8ghN7pG/LINK-DIRETO-FILM.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
 <info>MUITAS LISTAS DE FILMES EM DIVERSOS SERVIDORES PARA EXPLORAR E DESFRUTAR </info>
