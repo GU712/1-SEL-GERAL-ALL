@@ -12,7 +12,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[B][COLOR white]FILMES[/COLOR][/B]</name>
+<name>[COLOR white][B]FILMES[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/2-SEL-FLMS-ALL</externallink>
 <thumbnail>https://i.ibb.co/9nGGXZb/FLMS-ALL.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
@@ -24,7 +24,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[B][COLOR white]SÉRIES[/COLOR][/B]</name>
+<name>[COLOR white][B]SÉRIES[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/3-SEL-SRS-ALL</externallink>
 <thumbnail>https://i.ibb.co/GkWfkm0/SRS-ALL.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
@@ -36,7 +36,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[B][COLOR white]TVs ONLINE[/COLOR][/B]</name>
+<name>[COLOR white][B]TVs ONLINE[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/6-SEL-TVs-ALL</externallink>
 <thumbnail>https://i.ibb.co/bbG5H9g/TV-ONLINE.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
@@ -48,7 +48,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[B][COLOR white]SEÇÕES ESPECIAIS[/COLOR][/B]</name>
+<name>[COLOR white][B]SEÇÕES ESPECIAIS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/4-SEL-ESPC-ALL</externallink>
 <thumbnail>https://i.ibb.co/Xb4zpLG/ESPECIAIS.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
@@ -72,7 +72,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[B][COLOR white]NOVIDADES DA SEMANA[/COLOR][/B]</name>
+<name>[COLOR white][B]NOVIDADES DA SEMANA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/7-SEL-NEWS-ALL</externallink>
 <thumbnail>https://i.ibb.co/VQWgW1C/NOVIDADES.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
@@ -84,7 +84,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[B][COLOR white]ACESSE CONTEUDO NO YOUTUBE[/COLOR][/B]</name>
+<name>[COLOR white][B]ACESSE CONTEUDO NO YOUTUBE[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/9-YOUTB-ALL-LS/main/B-SEL-YOUTB-LS-MTX</externallink>
 <thumbnail>https://i.ibb.co/LPWxzrr/ICONEYOUTUBE.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
@@ -97,7 +97,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[B][COLOR white]PEDIDOS DO USUÁRIO[/COLOR][/B]</name>
+<name>[COLOR white][B]PEDIDOS DO USUÁRIO[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/REPOINFOS/master/1A5-ACESSRESTR-PEDIDOSDO%20USUARIO</externallink>
 <thumbnail>https://i.ibb.co/Jng1TJ0/ICONEPEDIDOS.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
@@ -109,7 +109,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 
-<name>[B][COLOR white]ESPECIAL DE NATAL LUMINART[/COLOR][/B]</name>
+<name>[COLOR white][B]ESPECIAL DE NATAL LUMINART[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/REPOTESTES-LUMINART/main/ESP-DE-NATAL-LS</externallink>
 <thumbnail>https://i.ibb.co/GdDHrm9/ICON-NATALS.png</thumbnail>
 <fanart>https://i.ibb.co/K7xpBhw/FAN-NATAL.png</fanart>
@@ -122,7 +122,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[B][COLOR black].[/COLOR][/B]</name>
+<name>[B][COLOR black].[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/6-SEL-ALT-ALL/main/3Z-XXX-S2-ALL</externallink>
 <thumbnail>https://i.pinimg.com/222x/6e/72/b2/6e72b2589de1d422b69012e40eff2c15.jpg</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
@@ -135,7 +135,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[B][COLOR black].[/COLOR][/B]</name>
+<name>[B][COLOR black].[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/REPOTESTES-LUMINART/main/TESTE%20ALEAT%C3%93RIO</externallink>
 <thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
