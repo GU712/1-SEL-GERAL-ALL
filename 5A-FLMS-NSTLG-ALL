@@ -1119,6 +1119,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>							
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 
+<item>
+<title>[COLOR white][B]O Engano (1991)[/B][/COLOR]</title>
+<link>plugin://plugin.video.tubemusic/?video_id=ywRy1vBQSSU$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Engano[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Goldie.Hawn/FLMS/LS-O.Engano.1991.FHD.DUAL.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Engano - FHD DUAL[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hL6iFhKp4C3EsAdMHKdABrOiSHl.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4VxtZORDRxVc7uz0JWlHV1DSuQR.jpg</fanart>
+<info>Bem-sucedida restauradora de arte é casada com um marido devotado. ele morre em um acidente e ela descobre que ele usava um nome falso. </info>
+<genre>SUSPENSE</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <item>		
 <title>[B][COLOR white]O Expresso de Von Ryan (1965)[/COLOR][/B]</title>		
 <link>plugin://plugin.video.tubemusic/?video_id=m73YtZCKeeI$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Expresso de Von Ryan[/B][/COLOR]</link>		
@@ -1246,20 +1257,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR white][B]O Engano (1991)[/B][/COLOR]</title>
-<link>plugin://plugin.video.tubemusic/?video_id=ywRy1vBQSSU$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Engano[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Goldie.Hawn/FLMS/LS-O.Engano.1991.FHD.DUAL.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Engano - FHD DUAL[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/hL6iFhKp4C3EsAdMHKdABrOiSHl.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/4VxtZORDRxVc7uz0JWlHV1DSuQR.jpg</fanart>
-<info>Bem-sucedida restauradora de arte é casada com um marido devotado. ele morre em um acidente e ela descobre que ele usava um nome falso. </info>
-<genre>SUSPENSE</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
 <title>[COLOR white][B]Os Heróis de Telemark (1965)[/B][/COLOR]</title>
 <link>plugin://plugin.video.tubemusic/?video_id=qWxW57Q20eQ$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Os Herois de Telemark[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/2GR/LS-The.Heroes.Of.Telemark.1965.FHD.LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Os Herois de Telemark - FHD LEG[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/CM-ES/LS-The.Heroes.Of.Telemark.1965.FHD.LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Os Herois de Telemark - FHD LEG[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/CM-ES/LS-The.Heroes.Of.Telemark.1965.FHD.DUAL+LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Os Herois de Telemark - FHD DUAL+LEG[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8ImS5zscIdyVU18dgiwzhXPOKhY.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/wivkKkt2yOe3LDXABMl3VZW0NXu.jpg</fanart>
 <info>A resistência norueguesa tenta sabotar os esforços alemães para produzir um componente da bomba atômica durante a segunda guerra mundial.</info>
