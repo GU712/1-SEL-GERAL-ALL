@@ -147,6 +147,25 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
+<name>[COLOR white][B]Canavial de Paixões (2003) - BR - COMPLETA[/B][/COLOR]</name>
+<externallink><LINKRAWPAGEALVO></externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/2xjeJD8Pxr2fiRnWHoMEyMAo28S.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jQ5OrRJ6jdag23JcILChHlvOLaf.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Canavial de Paixões
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANO - 2003
+[COLOR orange]NOVELAS
+[COLOR orange]01 TEMPs - 116 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Teresa faz de tudo para manter sua família afastada da família Santos, mas isso não vai impedir que seu filho Paulo se apaixone pela filha de Débora, a bela Clara.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
 <name>[COLOR white][B]Caras e Bocas (2009) - COMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/B1N-NVLS-LS-MTX/main/B23-NVLS-Caras.Bocas-MTX</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/pVh1kb32ZLqdyxOuHPjPZgrlrYM.jpg</thumbnail>
@@ -456,10 +475,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <externallink>https://raw.githubusercontent.com/GU712/5-SEL-NVLS-ALL/main/A1-SRS-Verao.90-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/5gmXrKIBgcJEBwBPzOeCMDgemzh.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/cs4YATUGz7WDlPZ6l8bQehpe70I.jpg</fanart>
-<info>Assista a série Verão 90. 
-[COLOR orange][B]NOVELAS[/B][/COLOR]
-[COLOR orange][B]01 TEMP - 154 EPs[/B][/COLOR]
-[COLOR orange][B]ANO - 2019[/B][/COLOR]</info>
+<info>[COLOR white]Assista aqui a série: 
+[B]Verão 90
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANO - 2019
+[COLOR orange]NOVELAS
+[COLOR orange]01 TEMP - 154 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Com o fim do Patotinha Mágica, Manuzita e os irmãos João e Jerônimo se separam. Em 1990 o destino resolve agir novamente.
+[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -547,6 +570,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
+<name>[COLOR white][B]VOLTAR AO MENU DE NOVELAS LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/3A4-SEL-NVLS-LS-ALL</externallink>
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
 <name>[COLOR white][B]VOLTAR AO MENU DE SÉRIES LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/3A-SEL-SRS-LS-ALL</externallink>
 <thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
@@ -622,3 +656,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+
