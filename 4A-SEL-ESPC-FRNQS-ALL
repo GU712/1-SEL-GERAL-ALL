@@ -108,6 +108,22 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
+<name>[COLOR white][B]Tarzan (Filmes - Séries - Desenhos)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESP-ALL/main/8-SEL-TARZAN-ALL</externallink>
+<thumbnail>https://i.ibb.co/hBStmqd/ESP-TARZAN-ICON-ALL-ALL.png</thumbnail>
+<fanart>https://i.ibb.co/vc0CNgj/ESP-TARZAN-FAN-ALL.png</fanart>
+<info>[COLOR white]Assista o especial a coleção: 
+[B]Tarzan
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]INCOMPLETA
+[COLOR orange]AVENTURA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você pode assistir o que já conseguimos sobre Tarzan.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
 <name>[COLOR white][B]SEÇÃO 007 - JAMES BOND[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/B6-ESPC-LS-MTX/main/A-ESP-007-JAMESBOND-MTX</externallink>
 <thumbnail>https://i.ibb.co/ncXdf2C/007-ESP.png</thumbnail>
