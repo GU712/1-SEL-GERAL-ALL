@@ -20,9 +20,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [B]Batman. 
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange][B]SUPER-HERÓIS
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você pode assistir o que já conseguimos sobre Conan.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você pode assistir o que já conseguimos sobre Batman.
 Não encontrou o que queria ?
-Solicite ao SUPORTE AO USUÁRIO
+Solicite ao SUPORTE AO USUÁRIO .
 [/COLOR]</info>
 </channel>
 </channels>
@@ -56,7 +56,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [B]Homem-Aranha
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange][B]SUPER-HERÓIS
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você pode assistir o que já conseguimos sobre Conan.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você pode assistir o que já conseguimos sobre Homem-Aranha.
 Não encontrou o que queria ?
 Solicite ao SUPORTE AO USUÁRIO .
 [/COLOR]</info>
@@ -74,7 +74,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [B]Os Waltons
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange]DRAMA
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você pode assistir o que já conseguimos sobre Conan.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você pode assistir o que já conseguimos sobre Os Waltons.
 Não encontrou o que queria ?
 Solicite ao SUPORTE AO USUÁRIO .
 [/COLOR]</info>
@@ -92,7 +92,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [B]Pica-Pau
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange][B]COMÉDIA
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você pode assistir o que já conseguimos sobre Conan.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você pode assistir o que já conseguimos sobre Pica-Pau.
 Não encontrou o que queria ?
 Solicite ao SUPORTE AO USUÁRIO .
 [/COLOR]</info>
@@ -110,7 +110,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [B]Star Trek
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange]FICÇÃO E FANTASIA
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você pode assistir o que já conseguimos sobre Conan.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você pode assistir o que já conseguimos sobre Star Trek.
 Não encontrou o que queria ?
 Solicite ao SUPORTE AO USUÁRIO .
 [/COLOR]</info>
@@ -128,7 +128,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [B]Tarzan
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange]AVENTURA
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você pode assistir o que já conseguimos sobre Conan.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você pode assistir o que já conseguimos sobre Tarzan.
 Não encontrou o que queria ?
 Solicite ao SUPORTE AO USUÁRIO .
 [/COLOR]</info>
@@ -323,7 +323,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]SEÇÃO OS TRAPALHÕES[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/B6-ESPC-LS-MTX/main/L2-SEL-SRS-TRAPALHOES-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/B6-ESPC-LS-MTX/main/L-SEL-ESP-TRAPALHOES-MTX</externallink>
 <thumbnail>https://i.ibb.co/k9JkdmQ/TRAPA-ALL.png</thumbnail>
 <fanart>https://i.ibb.co/379JxKp/TRAPA-FAN.png</fanart>
 <info>A TURMA DE HUMORISTAS QUE MARCOU ÉPOCA NO BRASIL.</info>
@@ -331,8 +331,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
+
 <name>[COLOR white][B]DOCUMENTÁRIOS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESP-ALL/main/B-SEL-DOCS-ALL</externallink>
 <thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
