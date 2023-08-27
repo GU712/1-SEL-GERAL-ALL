@@ -12,8 +12,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]TV Pluto[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/7-SEL-TVs-ALL/main/A1-TV.Pluto.ALL</externallink>
+<name>[COLOR white][B]TV PLUTO[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/6A-TV-PLUTO-ALL</externallink>
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+<name>[COLOR white][B]SERVERs NUMÉRICOS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/6B-SEL-HLSRETRY-ALL</externallink>
 [/COLOR]</info>
 </channel>
 </channels>
@@ -21,7 +29,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]SERVER ALTERNATIVO[/B][/COLOR]</name>
+<name>[COLOR white][B]SERVERs ALTERNATIVOS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/6B-SEL-HLSRETRY-ALL</externallink>
 [/COLOR]</info>
 </channel>
