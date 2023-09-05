@@ -66,6 +66,24 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
+<name>[COLOR white][B]James Bond Agente 007 (Filmes - Desenhos)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESP-ALL/main/A1-SEL-J.B.007-ALL</externallink>
+<thumbnail>https://i.ibb.co/nQ70TZ2/ESP-007-ICON-FLM-ALL.png</thumbnail>
+<fanart>https://i.ibb.co/DzZhnMS/COL-007-FAN-ALL.png</fanart>
+<info>[COLOR white]Conheça a seção especial: 
+[B]James Bond Agente 007
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange][B]AÇÃO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você pode assistir o que já conseguimos sobre James Bond Agente 007.
+Não encontrou o que queria ?
+Solicite ao SUPORTE AO USUÁRIO .
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
 <name>[COLOR white][B]Superman (Filmes - Séries - Desenhos)[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESP-ALL/main/9-SEL-SUPERMAN-ALL</externallink>
 <thumbnail>https://i.ibb.co/0jfGM9L/ESP-SUPERMAN-ICON-ALL.png</thumbnail>
@@ -168,17 +186,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 Não encontrou o que queria ?
 Solicite ao SUPORTE AO USUÁRIO .
 [/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]SEÇÃO 007 - JAMES BOND[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/B6-ESPC-LS-MTX/main/A-ESP-007-JAMESBOND-MTX</externallink>
-<thumbnail>https://i.ibb.co/ncXdf2C/007-ESP.png</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/dOSECZImeyZldoq0ObieBE0lwie.jpg</fanart>
-<info>O CARISMÁTICO AGENTE SECRETO EM SUAS INCRÍVEIS MISSÕES. </info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
