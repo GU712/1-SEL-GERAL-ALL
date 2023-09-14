@@ -156,6 +156,24 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
+<name>[COLOR white][B]Shaun o Carneiro (Filmes - Séries)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/A3-SEL-SHAUN-ALL</externallink>
+<thumbnail>https://i.ibb.co/cbJdz9c/SHAUN-ALL.png</thumbnail>
+<fanart><fanart>https://i.ibb.co/rdGGdmS/SHAUN-FAN.png</fanart>	</fanart>
+<info>[COLOR white]Conheça a seção especial: 
+[B]Shaun o Carneiro
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]COMÉDIA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você pode assistir o que já conseguimos sobre Shaun o Carneiro.
+Não encontrou o que queria ?
+Solicite ao SUPORTE AO USUÁRIO .
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
 <name>[COLOR white][B]Star Trek (Filmes - Séries - Desenhos)[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESP-ALL/main/2-SEL-STARTREK-ALL</externallink>
 <thumbnail>https://i.ibb.co/q0kq49K/ESP-STARTREK-ICON-ALL-ALL.png</thumbnail>
@@ -215,17 +233,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail>https://i.ibb.co/xFC7ysp/SCOOBY-DOO-ALL.png</thumbnail>
 <fanart>https://i.ibb.co/mGR5K5m/SCOOBY-DOO-FAN.png</fanart>
 <info>O CÃO MAIS ATRAPALHADO E AMADO DOS DESENHOS ,EM AVENTURAS ASSUSTADORAS</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]SEÇÃO SHAUN O CARNEIRO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/B6-ESPC-LS-MTX/main/1A-SEL-ESP-SHAUN</externallink>
-<thumbnail>https://i.ibb.co/cbJdz9c/SHAUN-ALL.png</thumbnail>
-<fanart><fanart>https://i.ibb.co/rdGGdmS/SHAUN-FAN.png</fanart>	</fanart>
-<info>A FAZENDA MAIS DIVERTIDA E SEUS PERSONAGENS MALUCOS</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
