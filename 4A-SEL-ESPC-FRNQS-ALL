@@ -174,6 +174,24 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
+<name>[COLOR white][B]Star Wars (Filmes - Séries - Desenhos)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/B2-STARWARS</externallink>
+<thumbnail>https://i.ibb.co/pPmTVH7/ESP-STARWARS-ICON-ALL-ALL.png</thumbnail>
+<fanart>https://i.ibb.co/NjnDp5V/ESP-STARWRS-FAN-ALL.png</fanart>
+<info>[COLOR white]Conheça a seção especial: 
+[B]Star Wars
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]FICÇÃO E FANTASIA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você pode assistir o que já conseguimos sobre Star Wars.
+Não encontrou o que queria ?
+Solicite ao SUPORTE AO USUÁRIO .
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
 <name>[COLOR white][B]Superman (Filmes - Séries - Desenhos)[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/B1-SEL-SUPERMAN-ALL</externallink>
 <thumbnail>https://i.ibb.co/0jfGM9L/ESP-SUPERMAN-ICON-ALL.png</thumbnail>
@@ -240,17 +258,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 Não encontrou o que queria ?
 Solicite ao SUPORTE AO USUÁRIO .
 [/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]STAR WARS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESP-ALL/main/1-SEL-STARWARS-ALL</externallink>
-<thumbnail>https://i.ibb.co/7g2y5NY/STAR-WARS-ESP.png</thumbnail>
-<fanart>https://i.ibb.co/z2ZVjX7/STARWARS-FAN.png</fanart>
-<info>A SAGA MAIS EMBLEMÁTICA DO CINEMA ESTA AQUI PARA SUA MARATONA STAR WARS</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
