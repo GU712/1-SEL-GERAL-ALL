@@ -30,6 +30,24 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
+<name>[COLOR white][B]Chico Anisio (Filmes - Séries)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/B6-SEL-CHICO.ANISIO-ALL</externallink>
+<thumbnail>https://i.ibb.co/RYMDy8T/ESP-CHICO-AN-ICON-ALL-ALL.png</thumbnail>
+<fanart>https://i.ibb.co/3pJ3yx2/ESP-CHICO-AN-FAN-ALL.png</fanart>
+<info>[COLOR white]Conheça a seção especial: 
+[B]Chico Anisio
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]COMÉDIA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você pode assistir o que já conseguimos sobre Chico Anisio.
+Não encontrou o que queria ?
+Solicite ao SUPORTE AO USUÁRIO .
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
 <name>[COLOR white][B]Conan (Filmes - Desenhos)[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/A7-SEL-CONAN-ALL</externallink>
 <thumbnail>https://i.ibb.co/xXWpLPB/ESP-CONAN-ICON-ALL-ALL.png</thumbnail>
@@ -294,20 +312,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 Não encontrou o que queria ?
 Solicite ao SUPORTE AO USUÁRIO .
 [/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
-
-<channels>
-<channel>
-<name>[COLOR white][B]SEÇÃO CHICO ANYSIO (1973-1980)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/B6-ESPC-LS-MTX/main/N-ESP-Chico.Anisio-ALL</externallink>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Chico_Anysio-cropped.jpg/640px-Chico_Anysio-cropped.jpg</thumbnail>
-<fanart>http://4.bp.blogspot.com/-1IoQnwJzaEA/T22sNJLgXUI/AAAAAAAACuc/0SzVgCAKqqA/s1600/CHICO%2BGERAL.jpg</fanart>
-<info>Conheça a seção especial Chico Anisio. 
-[COLOR orange][B]COMÉDIA[/B][/COLOR]
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
