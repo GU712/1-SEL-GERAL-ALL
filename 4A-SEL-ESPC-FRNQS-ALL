@@ -84,6 +84,21 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
+<name>[COLOR white][B]Mazzaropi (34 Filmes)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/B3-COL-Mazzaropi-ALL</externallink>
+<thumbnail>https://i.ibb.co/PWDzbJ4/COL-MAZZAROPI-ICON-ALL.png</thumbnail>
+<fanart>https://i.ibb.co/30GjBLG/COL-MAZZAROPI-FAN-ALL.png</fanart>
+<info>Assista a coleção 
+Mazzaropi. 
+[COLOR orange][B]COMÉDIA[/B][/COLOR]
+[COLOR orange][B]34 FILMES[/B][/COLOR]
+[COLOR orange][B]ANOS - 1952 a 1980[/B][/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
 <name>[COLOR white][B]Os Waltons (Filme e Série)[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESP-ALL/main/6-SEL-WALTONS-ALL</externallink>
 <thumbnail>https://i.ibb.co/44PyHpb/ESP-WALTONS-ICON-ALL.png</thumbnail>
@@ -246,7 +261,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]O Planeta dos Macacos (Filmes - Séries - Desenhos)[/B][/COLOR]</name>
+<name>[COLOR white][B]Planeta dos Macacos (Filmes - Séries - Desenhos)[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/A6-SEL-P.MACACOS-ALL</externallink>
 <thumbnail>https://i.ibb.co/q05q2pW/ESP-P-MAC-ICON-ALL-ALL.png</thumbnail>
 <fanart>https://i.ibb.co/8gkkLgt/ESP-P-MAC-FAN-ALL.png</fanart>
@@ -300,6 +315,23 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
+<name>[COLOR white][B]Zé do Caixão (29 Filmes)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/B12-COL-Ze.Caixao-ALL</externallink>
+<thumbnail>https://i.ibb.co/jH7mTwm/COL-ZECAIXAO-ICON-ALL-ALL.png</thumbnail>
+<fanart>https://i.ibb.co/GpzFGZF/COL-ZECAIXAO-FAN-ALL.png</fanart>
+<info>Assista aqui a coleção:
+[B]Zé do Caixão
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange][B]SUSPENSE E TERROR
+[COLOR orange][B]29 FILMES
+[COLOR orange][B]ANOS - (1958 a 2015)
+[/B][/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
 <name>[COLOR white][B]SEÇÃO CHICO ANYSIO (1973-1980)[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/B6-ESPC-LS-MTX/main/N-ESP-Chico.Anisio-ALL</externallink>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Chico_Anysio-cropped.jpg/640px-Chico_Anysio-cropped.jpg</thumbnail>
@@ -312,92 +344,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]SEÇÃO MAZZAROPI[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/B6-ESPC-LS-MTX/main/B-ESP-MAZZAROPI-MTX</externallink>
-<thumbnail>https://i.ibb.co/r2wZj6T/MAZZAROPI-ESP.png</thumbnail>
-<fanart>https://i.ibb.co/FW5sp4L/MAZZAROPI-FAN.png</fanart>
-<info>O GRANDE CINEASTA BRASILEIRO E SUAS NOTÓRIAS OBRAS QUE MOSTRAM UM BRASIL COMO NUNCA SE VIU.</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
 <name>[COLOR white][B]SEÇÃO O GORDO E O MAGRO[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/B6-ESPC-LS-MTX/main/C-ESP-OGORDOEOMAGRO-MTX</externallink>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/4e/Laurel_and_Hardy.png</thumbnail>
 <fanart>https://www.devotudoaocinema.com.br/content/uploads/2018/08/68339-hksibrgtra-1505306914-696x365.jpg</fanart>
 <info>OS INESQUECÍVEIS COMEDIANTES DO PASSADO E SEUS HILÁRIOS FILMES.</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
-<name>[COLOR white][B]SAGA CREPÚSCULO[/B][/COLOR]</name>
-<externallink><LINKPARAPAGINAALVO></externallink>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sgxHeCZE3H9n5jQFumQPs9HBnTV.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/416GIIuwkByiKurQB3c6ASfdZm4.jpg</fanart>
-<info>VAMPIROS E LOBISOMENS NA SAGA MAIS TEEN DO CINEMA</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
-<name>[COLOR white][B]SEÇÃO THE WALKING DEAD [/B][/COLOR]</name>
-<externallink><LINKPARAPAGINAALVO></externallink>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rBxb1vzBdqHppVcP2a3sk2G7o2E.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/sZdtZAYlXGTwAzCei70jQw6b7Bh.jpg</fanart>
-<info>OS ZUMBIS DOMINAM A TERRA EM SUA SÉRIE MAIS ICÔNICA</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
-<name>[COLOR white][B]SEÇÃO FEAR THE WALKING DEAD [/B][/COLOR]</name>
-<externallink><LINKPARAPAGINAALVO></externallink>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lZMb3R3e5vqukPbeDMeyYGf2ZNG.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/nUXzdD2Jo3wV9Q7mIZjK46Yyty4.jpg</fanart>
-<info>OS ZUMBIS DOMINAM A TERRA EM SUA SÉRIE MAIS MODERNA</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
-<name>[COLOR white][B]SEÇÃO DOIS HOMENS E MEIO  [/B][/COLOR]</name>
-<externallink><LINKPARAPAGINAALVO></externallink>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dPCv0RaOj2pRxZcUDOoqXFe7Pqn.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/nMJO71S7r7bn1ABvARtfuUQJbcS.jpg</fanart>
-<info>MUITAS RISADAS NESSA COMÉDIA DE SITUAÇÃO</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
-<name>[COLOR white][B]SEÇÃO GAME OF THRONES  [/B][/COLOR]</name>
-<externallink><LINKPARAPAGINAALVO></externallink>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mQ9cyw1gfpK1M3a69cgXFHvWkih.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/wXSnajAZ5ppTKa8Z5zzWGOK85YH.jpg</fanart>
-<info>A SÉRIE PARA SUA MARATONA ,UMA AVENTURA EXTRAORDINÁRIA</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
-<name>[COLOR white][B]SEÇÃO SOB PRESSÃO[/B][/COLOR]</name>
-<externallink><LINKPARAPAGINAALVO></externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/bnPqMu7zTC6YsMMRmbdtjK6tGB9.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/A9U6vKYK8PhK71lCHrENPxaA2oE.jpg</fanart>
-<info>UM HOSPITAL E SUAS DOENÇAS DISSECADAS A FUNDO .</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
-<name>[COLOR white][B]SEÇÃO TONY JAA[/B][/COLOR]</name>
-<externallink><LINKPARAPAGINAALVO></externallink>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cs5NAQxyfAkUpWBZaLCbqE5LsMj.jpg</thumbnail>
-<fanart>https://img.wallpapersafari.com/desktop/800/450/90/36/PiuQMl.jpg</fanart>
-<info>UM GRANDE ATOR E MESTRE NAS ARTES MARCIAIS E SEUS FILMES REPLETOS DE AÇÃO E LUTAS.</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
