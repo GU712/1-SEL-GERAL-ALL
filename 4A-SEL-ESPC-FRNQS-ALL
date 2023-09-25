@@ -84,21 +84,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Mazzaropi (34 Filmes)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/B3-COL-Mazzaropi-ALL</externallink>
-<thumbnail>https://i.ibb.co/PWDzbJ4/COL-MAZZAROPI-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/30GjBLG/COL-MAZZAROPI-FAN-ALL.png</fanart>
-<info>Assista a coleção 
-Mazzaropi. 
-[COLOR orange][B]COMÉDIA[/B][/COLOR]
-[COLOR orange][B]34 FILMES[/B][/COLOR]
-[COLOR orange][B]ANOS - 1952 a 1980[/B][/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
 <name>[COLOR white][B]Os Waltons (Filme e Série)[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESP-ALL/main/6-SEL-WALTONS-ALL</externallink>
 <thumbnail>https://i.ibb.co/44PyHpb/ESP-WALTONS-ICON-ALL.png</thumbnail>
@@ -313,22 +298,7 @@ Solicite ao SUPORTE AO USUÁRIO .
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR white][B]Zé do Caixão (29 Filmes)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/B12-COL-Ze.Caixao-ALL</externallink>
-<thumbnail>https://i.ibb.co/jH7mTwm/COL-ZECAIXAO-ICON-ALL-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/GpzFGZF/COL-ZECAIXAO-FAN-ALL.png</fanart>
-<info>Assista aqui a coleção:
-[B]Zé do Caixão
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange][B]SUSPENSE E TERROR
-[COLOR orange][B]29 FILMES
-[COLOR orange][B]ANOS - (1958 a 2015)
-[/B][/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 
 <channels>
 <channel>
@@ -338,17 +308,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>http://4.bp.blogspot.com/-1IoQnwJzaEA/T22sNJLgXUI/AAAAAAAACuc/0SzVgCAKqqA/s1600/CHICO%2BGERAL.jpg</fanart>
 <info>Conheça a seção especial Chico Anisio. 
 [COLOR orange][B]COMÉDIA[/B][/COLOR]
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]SEÇÃO O GORDO E O MAGRO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/B6-ESPC-LS-MTX/main/C-ESP-OGORDOEOMAGRO-MTX</externallink>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/4e/Laurel_and_Hardy.png</thumbnail>
-<fanart>https://www.devotudoaocinema.com.br/content/uploads/2018/08/68339-hksibrgtra-1505306914-696x365.jpg</fanart>
-<info>OS INESQUECÍVEIS COMEDIANTES DO PASSADO E SEUS HILÁRIOS FILMES.</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
