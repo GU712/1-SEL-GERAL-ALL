@@ -31,6 +31,10 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6524015fd1a125379bd
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1ee63fa0d91e8a7689aeca8574721792f72af51b
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/xdlQpELWxJBQ7HQeq2iGCbSUrNI.jpg" group-title="[COLOR white][B]Ahsoka (2023)[/B][/COLOR]",[COLOR orange][B]TOR-T01E05[COLOR yellow] -> [COLOR white]Guerreiro das Sombras[/B][/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:616859e1862f65c31d2192be4b61d9899f85e1d2
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/xdlQpELWxJBQ7HQeq2iGCbSUrNI.jpg" group-title="[COLOR white][B]Ahsoka (2023)[/B][/COLOR]",[COLOR orange][B]TOR-T01E06[COLOR yellow] -> [COLOR white]Muito, Muito distante[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:72NX7QUKJ6NKZOOFUT3AJBRDATGOQ5OY
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/xdlQpELWxJBQ7HQeq2iGCbSUrNI.jpg" group-title="[COLOR white][B]Ahsoka (2023)[/B][/COLOR]",[COLOR orange][B]TOR-T01E07[COLOR yellow] -> [COLOR white]Sonhos e Loucura[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CF3MVTL6MGMUCFQTJNVKD4OYGIUMB6V5
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Ahsoka (2023)[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
@@ -202,6 +206,30 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA O				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qNsHjhHKsslok9d3eu2aBChzWya.jpg" group-title="[COLOR white][B] O Continental: Do Mundo de John Wick (2023) [/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qNsHjhHKsslok9d3eu2aBChzWya.jpg" group-title="[COLOR white][B] O Continental: Do Mundo de John Wick (2023) [/B][/COLOR]",[COLOR orange][B]TEMPORADA 01 - HD DUB[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qNsHjhHKsslok9d3eu2aBChzWya.jpg" group-title="[COLOR white][B] O Continental: Do Mundo de John Wick (2023) [/B][/COLOR]",[COLOR orange][B]TOR-E01[COLOR yellow] -> [COLOR white]Parte 1[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:XE7ZL6DSYLUT6AUTTFYKULBAQNT2GY6F
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qNsHjhHKsslok9d3eu2aBChzWya.jpg" group-title="[COLOR white][B] O Continental: Do Mundo de John Wick (2023) [/B][/COLOR]",[COLOR orange][B]TOR-E02[COLOR yellow] -> [COLOR white]Parte 2[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:SXKCIGURSLSW6FGKPDJP45YDP5KFBNSY
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B] O Continental: Do Mundo de John Wick (2023) [/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
+LINKDOFILME					
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B] O Continental: Do Mundo de John Wick (2023) [/B][/COLOR]",[COLOR orange][B]O VIDEO NAO ABRIU ?[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B] O Continental: Do Mundo de John Wick (2023) [/B][/COLOR]",[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/lSJi7YqDenlaRyFBq83w4Hij4VX.jpg" group-title="[COLOR white][B]Operação Lioness (2023)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
