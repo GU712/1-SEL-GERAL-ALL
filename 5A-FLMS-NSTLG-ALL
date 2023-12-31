@@ -1,33 +1,46 @@
 <channels>
-<channel>
-<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/5A-FLMS-NSTLG-ALL</externallink>
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+<channel>				
+<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>				
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/1-CATEGORIAS-ALL</externallink>			
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>				
+<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>				
 </channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+</channels>			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 
 <channels>
 <channel>
-<name>[B][COLOR white]NOSTALGIA FILMES -> SERVER LS[/COLOR][/B]</name>
+<name>[COLOR white][B]NOSTALGIA FILMES -> SERVER LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/7-NOST-ALL-LS/main/2A-SEL-FLM-NOST-LS-ALL</externallink>
 <thumbnail>https://i.ibb.co/ccFdb9q/FLMS-OLD.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
-<info>OS MELHORES FILMES ANTIGOS ESTÃO AQUI</info>
+<info>[COLOR white]Conheça a seção: 
+[B]NOSTALGIA FILMES -> SERVER LS
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]FILME: Produto audiovisual finalizado, com certa duração para ser exibido no cinema, na televisão ou em algum outro veículo, podem ser curtas ou longas. A Seção de FILMES disponibiliza conteúdo em diversos servidores.
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE e nos estimula a seguir em frente ... OBRIGADO.
+Precisa de ajuda ? 
+Peça ao SUPORTE AO USUÁRIO
+[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[B][COLOR white]NOSTALGIA FILMES -> SERVER ALT[/COLOR][/B]</name>
+<name>[COLOR white][B]NOSTALGIA FILMES -> SERVER ALT[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/7-NOST-ALL-LS/main/3A-SEL-FLM-NOST-ALT-ALL</externallink>
 <thumbnail>https://i.ibb.co/ccFdb9q/FLMS-OLD.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
-<info>OS MELHORES FILMES ANTIGOS ESTÃO AQUI</info>
+<info>[COLOR white]Conheça a seção: 
+[B]NOSTALGIA FILMES -> SERVER ALT
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]FILME: Produto audiovisual finalizado, com certa duração para ser exibido no cinema, na televisão ou em algum outro veículo, podem ser curtas ou longas. A Seção de FILMES disponibiliza conteúdo em diversos servidores.
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE e nos estimula a seguir em frente ... OBRIGADO.
+Precisa de ajuda ? 
+Peça ao SUPORTE AO USUÁRIO
+[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
