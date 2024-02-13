@@ -1,7 +1,7 @@
 <channels>
 <channel>
 <name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/4A-SEL-ESPC-FRNQS-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/1-SEL-ESPC-ABAS-ALL</externallink>
 <thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
@@ -12,48 +12,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Bela e a Fera (Filmes - Séries)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/B9-SEL-BELA.E.FERA-ALL</externallink>
-<thumbnail>https://i.ibb.co/zHLqQ5p/ESP-BELA-FERA-ICON-ALL-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/Tvkg550/ESP-BELA-FERA-FAN-ALL.png</fanart>
-<info>[COLOR white]Conheça o especial: 
-[B]A Bela e a Fera
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]DRAMA
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
-Peça ao SUPORTE AO USUÁRIO
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Batman (Filmes - Séries - Desenhos)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/A9-SEL-BATMAN-ALL</externallink>
-<thumbnail>https://i.ibb.co/tmvVSd1/ESP-BATMAN-ICON-ALL-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/Mh8Gfr1/ESP-BATMAN-FAN-ALL.png</fanart>
-<info>[COLOR white]Conheça a seção especial: 
-[B]Batman. 
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUPER-HERÓIS
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
-Peça ao SUPORTE AO USUÁRIO
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Charles Bronson (Filmes)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/B10-COL-Charles.Bronson-ALL</externallink>
-<thumbnail>https://i.ibb.co/mcgs9fB/COL-BRONSON-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/42kbtZM/COL-BRONSON-FAN-ALL.png</fanart>
-<info>[COLOR white]Conheça a coleção: 
-[B]Charles Bronson
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]The Best Of -> ATORES[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/1A-SEL-ATORES-ALL</externallink>
+<thumbnail>https://i.ibb.co/mTHfN6v/ABA-ATORES-ICON-ALL.png</thumbnail>
+<fanart>https://i.ibb.co/gmd9G8h/ABA-ATORES-FAN-ALL.png</fanart>
+<info>[COLOR white]Conheça o Melhor de: 
+[B]ATORES
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ATORES
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
@@ -66,210 +30,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Chico Anysio (Filmes - Séries)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/B6-SEL-CHICO.ANISIO-ALL</externallink>
-<thumbnail>https://i.ibb.co/RYMDy8T/ESP-CHICO-AN-ICON-ALL-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/3pJ3yx2/ESP-CHICO-AN-FAN-ALL.png</fanart>
-<info>[COLOR white]Conheça a seção especial: 
-[B]Chico Anisio
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
-Peça ao SUPORTE AO USUÁRIO
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Conan (Filmes - Desenhos)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/A7-SEL-CONAN-ALL</externallink>
-<thumbnail>https://i.ibb.co/xXWpLPB/ESP-CONAN-ICON-ALL-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/ygdPHSk/ESP-CONAN-FAN-ALL.png</fanart>
-<info>[COLOR white]Conheça a seção especial: 
-[B]Conan
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AVENTURA
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
-Peça ao SUPORTE AO USUÁRIO
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Homem-Aranha (Filmes - Séries - Desenhos)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/A8-SEL-H.ARANHA-ALL</externallink>
-<thumbnail>https://i.ibb.co/0cMdYKy/ESP-H-ARANHA-ICON-ALL-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/bJ3Cwtf/ESP-H-ARANHA-FAN-ALL.png</fanart>
-<info>[COLOR white]Conheça a seção especial: 
-[B]Homem-Aranha
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUPER-HERÓIS
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
-Peça ao SUPORTE AO USUÁRIO
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]James Bond Agente 007 (Filmes - Desenhos)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/A1-SEL-J.B.007-ALL</externallink>
-<thumbnail>https://i.ibb.co/QjtgLnq/ESP-007-ICON-ALL-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/DzZhnMS/COL-007-FAN-ALL.png</fanart>
-<info>[COLOR white]Conheça a seção especial: 
-[B]James Bond Agente 007
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
-Peça ao SUPORTE AO USUÁRIO
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Lobisomem (Filmes - Séries - Desenhos)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/B8-SEL-LOBISOMEM-ALL</externallink>
-<thumbnail>https://i.ibb.co/qYL8NBw/ESP-LOBISOMEM-ICON-ALL-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/Kr2M0BP/ESP-LOBISOMEM-FAN-ALL.png</fanart>
-<info>[COLOR white]Conheça o especial: 
-[B]Lobisomem
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]TERROR
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
-Peça ao SUPORTE AO USUÁRIO
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Mulher Maravilha (Filmes - Séries)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/C2-SEL-MULHER.MARAVILHA-ALL</externallink>
-<thumbnail>https://i.ibb.co/thkW0TJ/ESP-M-MARAVA-ICON-ALL-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/54gP7vr/ESP-M-MARAVA-FAN-ALL.png</fanart>
-<info>[COLOR white]Conheça o especial: 
-[B]Mulher Maravilha
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUPER-HERÓIS
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
-Peça ao SUPORTE AO USUÁRIO
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Incrível Hulk (Filmes - Séries - Desenhos)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/B4-SEL-HULK-ALL</externallink>
-<thumbnail>https://i.ibb.co/X4N0f21/ESP-HULK-ICON-ALL-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/DQFX2x0/ESP-HULK-FAN-ALL.png</fanart>
-<info>[COLOR white]Conheça o especial: 
-[B]O Incrível Hulk
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUPER-HERÓIS
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
-Peça ao SUPORTE AO USUÁRIO
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Os Waltons (Filme e Série)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESP-ALL/main/6-SEL-WALTONS-ALL</externallink>
-<thumbnail>https://i.ibb.co/44PyHpb/ESP-WALTONS-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/RCXZTMF/ESP-WALTONS-FAN-ALL.png</fanart>
-<info>[COLOR white]Conheça a seção especial:
-[B]Os Waltons
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]DRAMA
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
-Peça ao SUPORTE AO USUÁRIO
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Pica-Pau (Filme e Desenhos)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESP-ALL/main/3-SEL-PICAPAU-ALL</externallink>
-<thumbnail>https://i.ibb.co/RYyWw5b/ESP-PICAPAU-ICON-ALL-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/DbQTfF8/ESP-PICAPAU-FAN-ALL.png</fanart>
-<info>[COLOR white]Conheça a seção especial: 
-[B]Pica-Pau
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
-Peça ao SUPORTE AO USUÁRIO
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Scooby-Doo (Filmes - Desenhos)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/A4-SEL-SCOOBY-ALL</externallink>
-<thumbnail>https://i.ibb.co/WfYTb58/ESP-SCOOBY-ICON-ALL-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/xS92GMr/ESP-SCOOBY-FAN-ALL.png</fanart>
-<info>[COLOR white]Conheça a seção especial: 
-[B]Scooby-Doo
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
-Peça ao SUPORTE AO USUÁRIO
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Shaun o Carneiro (Filmes - Séries)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/A3-SEL-SHAUN-ALL</externallink>
-<thumbnail>https://i.ibb.co/0ZKvCZJ/ESP-SHAUN-ALL-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/XzJcwQX/ESP-SHAUN-FAN-ALL.png</fanart>
-<info>[COLOR white]Conheça a seção especial: 
-[B]Shaun o Carneiro
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
-Peça ao SUPORTE AO USUÁRIO
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Star Trek (Filmes - Séries - Desenhos)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/A5-SEL-STARTREK-ALL</externallink>
-<thumbnail>https://i.ibb.co/q0kq49K/ESP-STARTREK-ICON-ALL-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/SvXzk7K/ESP-STARTREK-FAN-ALL.png</fanart>
-<info>[COLOR white]Conheça a seção especial: 
-[B]Star Trek
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]The Best Of -> FICÇÃO[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/2A-SEL-FIC-ALL</externallink>
+<thumbnail>https://i.ibb.co/JcHFxGy/ABA-FIC-ICON-ALL.png</thumbnail>
+<fanart>https://i.ibb.co/YpccpgV/ABA-FIC-FAN-ALL.png</fanart>
+<info>[COLOR white]Conheça o Melhor da: 
+[B]FICÇÃO
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
@@ -282,14 +48,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Star Wars (Filmes - Séries - Desenhos)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/B2-SEL-STARWARS-ALL</externallink>
-<thumbnail>https://i.ibb.co/pPmTVH7/ESP-STARWARS-ICON-ALL-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/NjnDp5V/ESP-STARWRS-FAN-ALL.png</fanart>
-<info>[COLOR white]Conheça a seção especial: 
-[B]Star Wars
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]The Best Of -> ANIMAÇÃO[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/3A-SEL-ANIMA-ALL</externallink>
+<thumbnail>https://i.ibb.co/HdTMchL/ABA-ANIMA-ICON-ALL.png</thumbnail>
+<fanart>https://i.ibb.co/DMyk4YL/ABA-ANIMA-FAN-ALL.png</fanart>
+<info>[COLOR white]Conheça o Melhor de: 
+[B]ANIMAÇÃO
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ANIMAÇÃO
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
 Não encontrou o que queria ? 
 Peça ao SUPORTE AO USUÁRIO
@@ -300,14 +66,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Superman (Filmes - Séries - Desenhos)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/B1-SEL-SUPERMAN-ALL</externallink>
-<thumbnail>https://i.ibb.co/0jfGM9L/ESP-SUPERMAN-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/mNpSc9P/ESP-SUPERMAN-FAN-ALL.png</fanart>
-<info>[COLOR white]Conheça a seção especial: 
-[B]Superman
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]The Best Of -> MONSTROS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/4A-SEL-FEAR-ALL</externallink>
+<thumbnail>https://i.ibb.co/8c3cwMd/ABA-FEAR-ICON-ALL.png</thumbnail>
+<fanart>https://i.ibb.co/59rGVjL/ABA-FEAR-FAN-ALL.png</fanart>
+<info>[COLOR white]Conheça o Melhor de: 
+[B]MONSTROS
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUPER-HERÓIS
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]MONSTROS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
 Não encontrou o que queria ? 
 Peça ao SUPORTE AO USUÁRIO
@@ -318,84 +84,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Super-Mario-Nation (Filmes - Séries)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2G-LS-ANM-ALL/main/B7-SEL-ESP-MARIONATION-ALL</externallink>
-<thumbnail>https://i.ibb.co/YcPKmHV/PUPPIES-ALL-ALL-png.png</thumbnail>
-<fanart>https://i.ibb.co/4S524ds/PUPPIES-FAN-ALL.png</fanart>
-<info>[COLOR white]Conheça a seção especial: 
-[B]Super-Mario-Nation
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ACTION-MOTION
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
-Peça ao SUPORTE AO USUÁRIO
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Tarzan (Filmes - Séries - Desenhos)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/B5-SEL-TARZAN-ALL</externallink>
-<thumbnail>https://i.ibb.co/hBStmqd/ESP-TARZAN-ICON-ALL-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/vc0CNgj/ESP-TARZAN-FAN-ALL.png</fanart>
-<info>[COLOR white]Conheça a seção especial: 
-[B]Tarzan
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AVENTURA
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
-Peça ao SUPORTE AO USUÁRIO
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Planeta dos Macacos (Filmes - Séries - Desenhos)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/A6-SEL-P.MACACOS-ALL</externallink>
-<thumbnail>https://i.ibb.co/q05q2pW/ESP-P-MAC-ICON-ALL-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/8gkkLgt/ESP-P-MAC-FAN-ALL.png</fanart>
-<info>[COLOR white]Conheça a seção especial: 
-[B]O Planeta dos Macacos
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
-Peça ao SUPORTE AO USUÁRIO
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Os Trapalhões (Filmes - Séries)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/A2-SEL-TRAPALHOES-ALL</externallink>
-<thumbnail>https://i.ibb.co/crgKfqL/ESP-TRAPA-ICON-ALL-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/1QCc63Y/ESP-TRAPA-FAN-ALL.png</fanart>
-<info>[COLOR white]Conheça a seção especial: 
-[B]Os Trapalhões
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
-Peça ao SUPORTE AO USUÁRIO
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]X-Men (Filmes - Séries - Desenhos)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/B3-SEL-X.MEN-ALL</externallink>
-<thumbnail>https://i.ibb.co/gV7DTtw/ESP-XMEN-ICON-ALL-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/3CXdPbC/ESP-XMEN-FAN-ALL.png</fanart>
-<info>[COLOR white]Conheça a seção especial: 
-[B]X-Men
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]The Best Of -> SUPER-HERÓIS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/6A-SEL-HERO-ALL</externallink>
+<thumbnail>https://i.ibb.co/cy275wf/ABA-HERO-ICON-ALL.png</thumbnail>
+<fanart>https://i.ibb.co/k8bz9tX/ABA-HERO-FAN-ALL.png</fanart>
+<info>[COLOR white]Conheça o Melhor de: 
+[B]SUPER-HERÓIS
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUPER-HERÓIS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
@@ -408,14 +102,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Zumbi (Filmes - Séries)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/B7-SEL-ZUMBI-ALL</externallink>
-<thumbnail>https://i.ibb.co/YN349ks/ESP-ZUMBI-ICON-ALL-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/CnZ1V8v/ESP-ZUMBI-FAN-ALL.png</fanart>
-<info>[COLOR white]Conheça o especial: 
-[B]Zumbi
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]The Best Of -> PERSONAGENS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/5A-SEL-PERSON-ALL</externallink>
+<thumbnail>https://i.ibb.co/6mn3hkR/ABA-PERSON-ICON-ALL.png</thumbnail>
+<fanart>https://i.ibb.co/ZfBfXHZ/ABA-PERSON-FAN-ALL.png</fanart>
+<info>[COLOR white]Conheça o Melhor de: 
+[B]PERSONAGENS
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]TERROR
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]PERSONAGENS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
 Não encontrou o que queria ? 
 Peça ao SUPORTE AO USUÁRIO
@@ -426,34 +120,26 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]SEÇÃO LONE RANGER[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/B6-ESPC-LS-MTX/main/G-ESP-LONE.RANGER-MTX</externallink>
-<thumbnail>https://i.ibb.co/t41CF4g/LONERANGER-ICON.png</thumbnail>
-<fanart>https://i.ibb.co/4jpcgJ0/LONERANGER-FAN.png</fanart>
-<info>Conheça aqui nosso Especial Lone Ranger - O Zorro. 
-[COLOR orange][B]WESTERN[/B][/COLOR]
-[COLOR orange][B]SÉRIE - FILMES[/B][/COLOR]
-[COLOR orange][B]ANOS - 1949 a 1958[/B][/COLOR]</info>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]The Best Of -> HUMORÍSTICOS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/7A-SEL-HUMOR-ALL</externallink>
+<thumbnail>https://i.ibb.co/cXK2X6F/ABA-HUMOR-ICON-ALL.png</thumbnail>
+<fanart>https://i.ibb.co/D83Z3ZS/ABA-HUMOR-FAN-ALL.png</fanart>
+<info>[COLOR white]Conheça o Melhor de: 
+[B]HUMORÍSTICOS
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]HUMORÍSTICOS
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+Não encontrou o que queria ? 
+Peça ao SUPORTE AO USUÁRIO
+[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]DOCUMENTÁRIOS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESP-ALL/main/B-SEL-DOCS-ALL</externallink>
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
-<info>SEÇÃO DEDICADA A FILMES E SÉRIES DE CUBHO DOCUMENTÁRIO OU BIBLIOGRÁFICO.</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 
 <channels>
 <channel>
 <name>[COLOR black].[/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/4A-SEL-ESPC-FRNQS-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/1-SEL-ESPC-ABAS-ALL</externallink>
 <thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
 </channel>
@@ -463,7 +149,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR orange][B]MENU DE RETORNO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/4A-SEL-ESPC-FRNQS-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/1-SEL-ESPC-ABAS-ALL</externallink>
 <thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
