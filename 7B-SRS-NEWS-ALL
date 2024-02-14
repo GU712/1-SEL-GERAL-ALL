@@ -1,351 +1,201 @@
-<channels>
-<channel>
-<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO [/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/7B-SRS-NEWS-ALL</externallink>
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>				
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>				
+<link>NOLINK</link>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>				
+<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>				
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Chapolin Colorado (1973-1979) - INCOMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C3-SRS-Chapolin.Colorado-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/ibBCgYw7HqcO4Vjconmzmhli0ha.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/lrh8reksSZ5XC91Vpnfb2ZJs1bd.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]Chapolin Colorado
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1973 a 1979
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Natal Vermelho (2016) - FHD LEG[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/FLMS/11SPTR-FM/LS-Red.Christmas.2016.FHD.LEG.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/ciIw38jSMd2jFHfCMIBuo9k0zmJ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/lLg1GSevR42J94csuxlXn3cdIwb.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Natal Vermelho
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD LEG
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2016
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]TERROR
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Uma mãe deve proteger sua família no dia de Natal de um estranho demente que está determinado a destruí-las.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Aventuras em Marte (1981) - HD DUB[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/4-CMD/Chapolin/1981.Aventuras.em.Marte.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/ibBCgYw7HqcO4Vjconmzmhli0ha.jpg</thumbnail>
+<fanart>https://www.forumchaves.com.br/listach/imagens/chespirito/chespirito8125_480.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Aventuras em Marte
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]HD DUB
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1981
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]07 TEMPS - 291 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O Chapolin Colorado é um herói atrapalhado, medroso e desastrado, que sempre aparece quando alguém precisa. Com sua marreta biônica e a pílula encolhedora, ele, muitas vezes, provoca mais confusão do que necessariamente ajuda.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Edgar é um cientista que tem um projeto para chegar no planeta Marte, por um caminho diferente do habitual. Como os outros não aprovam este projeto, o cientista decide chamar o Chapolin para ajudá-lo.
 [/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]John Wayne (Filmes)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2E-LS-WST-ALL/main/B5-COL-John.Wayne-ALL</externallink>
-<thumbnail>https://i.ibb.co/RQkcVFX/COL-WAYNE-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/chrYwzp/COL-WAYNE-FAN-ALL.png</fanart>
-<info>[COLOR white]Conheça a coleção: 
-[B]John Wayne
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ATORES
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
-Peça ao SUPORTE AO USUÁRIO
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Charrito um Herói Mexicano (1984) - FHD DUAL[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/4-CMD/Chapolin/1984.Charrito.Um.Heroi.Mexicano.FHD.DUAL.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/uyvuDtRuF7FaUACWh48g02pVvo3.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/gfyZRbSGF3t0ZB46V9514TGQLTm.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Charrito um Herói Mexicano
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1984
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Edgar é um cientista que tem um projeto para chegar no planeta Marte, por um caminho diferente do habitual. Como os outros não aprovam este projeto, o cientista decide chamar o Chapolin para ajudá-lo.
 [/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Mamonas Assasinas (05 Filmes)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2L-LS-DOCS-ALL/main/B1-COL-Mamonas-ALL</externallink>
-<thumbnail>https://i.ibb.co/tqCGdp7/COL-MAMONAS-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/sFrmKVq/COL-MAMONAS-FAN-ALL.png</fanart>
-<info>[COLOR white]Conheça a coleção: 
-[B]Mamonas Assasinas
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]DOCUMENTÁRIOS
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
-Peça ao SUPORTE AO USUÁRIO
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]De Bico Calado (2005) - FHD DUAL[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/FLMS/4CMD-FM/De.Bico.Calado.(2005).FHD.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/nAKq2mqbw55iKtGiusQ7kT93HiS.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/kfp54nxdY1RXzjWGg364XLe8biT.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]De Bico Calado
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2005
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O vigário de uma pequena cidade do interior da Inglaterra. Walter é uma pessoa íntegra, que se dedica ao máximo ao seu ofício, o que o faz muitas vezes ser ausente como pai e marido.
 [/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Robert Langdon (03 Filmes)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/B18-COL-Robert.Langdon-ALL</externallink>
-<thumbnail>https://i.ibb.co/r0jv4m2/COL-ROB-LANG-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/MMsmK9D/COL-ROB-LANG-FAN-ALL.png</fanart>
-<info>[COLOR white]Conheça a coleção: 
-[B]Robert Langdon
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+<item><title>[COLOR orange][B]TOR[COLOR yellow] -> [COLOR white]Mavka: Aventura na Floresta (2023) - FHD DUAL[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:OQVQTO3MNXR36WIJROU72FQCJ5FF6AND</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/adyriBXnBuhdRgAllYAurnDQtQb.jpg</thumbnail><fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]TOR[COLOR yellow] -> [COLOR white]Aquaman 2: O Reino Perdido (2023) - FHD DUAL[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:Y2JNIGHL6NTW4FD2NAGKXRAAMKPLGRQF</link>
+<thumbnail>https://image.tmdb.org/t/p/original/84ispMxgLDRvQaA6zlM9i7sdAAI.jpg</thumbnail><fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Possuídos (1998) - FHD DUAL+LEG[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/FLMS/11SPTR-FM/LS-Possuidos.1998.FHD.DUAL+LEG-LS.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7xYrZ3BzABH32vKLNTNDk8n8oEB.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ltxyofM3Ua4MRCNxWW2CjthHBhI.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Possuídos
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1998
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUSPENSE
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
-Peça ao SUPORTE AO USUÁRIO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Após a execução de um serial killer, John Hobbes (Denzel Washington), um detetive, acredita que parte dos seus problemas terminaram, mas logo repara que pessoas na rua cantam a mesma melodia que o criminoso cantou na câmara de gás.
 [/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Os Mercenários (03 Filmes)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/B13-COL-Os.Mercenarios-ALL</externallink>
-<thumbnail>https://i.ibb.co/16F6Xwh/COL-MERCENARIOS-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/n17nNBs/COL-MERCENARIOS-FAN-ALL.png</fanart>
-<info>[COLOR white]Conheça a coleção: 
-[B]Os Mercenários
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
-Peça ao SUPORTE AO USUÁRIO
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Napoleão (2023) - FHD DUAL+LEG[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/FLMS/2EPC-FM/LS-Napoleao.2023.FHD.DUAL+LEG-LS.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/oaUS0YJN3cHpvin1BMNmmnv0gRX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/f1AQhx6ZfGhPZFTVKgxG91PhEYc.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Napoleão
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2023
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Um olhar pessoal sobre as origens do líder militar francês e sua rápida e implacável ascensão a imperador. A história é vista através do prisma do relacionamento dependente e volátil de Napoleão com sua esposa e amor verdadeiro, Josefina.
 [/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]John Wick (04 Filmes)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/B12-COL-John.Wick-ALL</externallink>
-<thumbnail>https://i.ibb.co/X3YB1mS/COL-J-WICK-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/nB88dW1/COL-J-WICK-FAN-ALL.png</fanart>
-<info>[COLOR white]Conheça a coleção: 
-[B]John Wick
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
-Peça ao SUPORTE AO USUÁRIO
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Duro de Matar (05 Filmes)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/B11-COL-Duro.de.Matar-ALL</externallink>
-<thumbnail>https://i.ibb.co/p0wt9CP/COL-DIE-HARD-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/tZ6jrpc/COL-DIE-HARD-FAN-ALL.png</fanart>
-<info>[COLOR white]Conheça a coleção: 
-[B]Duro de Matar
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
-Peça ao SUPORTE AO USUÁRIO
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Mestres do Ar (2023) - ATUALIZANDO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2C-LS-GRR-ALL/main/C10-SRS-Mestres.do.Ar-ALL</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/jM8VipSula8bZq9B3IrHAzWDhpg.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/menEyCOdkjXqwpJy3cwOH8kfZrj.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]Mestres do Ar
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2023
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]GUERRA
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 09 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Durante a Segunda Guerra Mundial, os aviadores arriscam suas vidas com o 100º Grupo de Bombardeiros, uma irmandade forjada pela coragem, perda e triunfo.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Charles Bronson (Filmes)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/B10-COL-Charles.Bronson-ALL</externallink>
-<thumbnail>https://i.ibb.co/mcgs9fB/COL-BRONSON-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/42kbtZM/COL-BRONSON-FAN-ALL.png</fanart>
-<info>[COLOR white]Conheça a coleção: 
-[B]Charles Bronson
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ATORES
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
-Peça ao SUPORTE AO USUÁRIO
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B][COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]King Kong (06 Filmes)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2F-LS-AVT-ALL/main/B7-COL-King.Kong-ALL</externallink>
-<thumbnail>https://i.ibb.co/0qQNDrm/COL-KING-KONG-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/S6JfFZM/COL-KING-KONG-FAN-ALL.png</fanart>
-<info>[COLOR white]Conheça a coleção: 
-[B]King Kong
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Roberto Carlos e o Diamante Cor-de-Rosa (1968) - SD DUB[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/FLMS/6AVT-CL/Roberto.Carlos/LS-1968.R.C.e.O.Diamante.Cor.de.Rosa.SD.DUB.mp4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2dhG29AN9WzqxPU7bNtTl5veNpI.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/j187KE8wdHMvi6ErvdHEsmMsnal.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Diamante Cor-de-Rosa
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1968
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AVENTURA
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
-Peça ao SUPORTE AO USUÁRIO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Roberto Carlos, Erasmo Carlos e Wanderléia estão no Japão, quando esta última resolve comprar uma estatueta antiga. Imediatamente ela e seus companheiros começam a ser perseguidos por Pierre, um homem misterioso que lidera uma quadrilha de lutadores orientais. 
 [/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]M - À Caça de um Assassino (2019) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/C44-SRS-M.A.Caza.de.um.Assassino-ALL</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/pIhwIWsEwGZ574vrVKWQ7HYakZ4.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/jCC1gUWctpX1uvhhkaOdROu2CJ4.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]M - À Caça de um Assassino
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2019
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]CRIME
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 06 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]É inverno em Viena, quando crianças desaparecem sem deixar vestígio. A polícia enfrenta dificuldades na investigação, abrindo uma brecha para o ambicioso ministro do Interior.
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Roberto Carlos em Ritmo de Aventura (1968) - FHD DUB[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/FLMS/6AVT-CL/Roberto.Carlos/LS-1968.R.C.em.Ritmo.de.Aventura.FHD.DUB.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pn7LCyRzVhIEoy1RZ4KWfEnxp2J.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/g3Gj86dufcEDGECNnm9VXFBHrWA.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Ritmo de Aventura 
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1968
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AVENTURA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Ídolo da música jovem brasileira, é perseguido por um bando que pretende utilizá-lo para a produção em massa de canções, com a ajuda de um cérebro eletrônico.
 [/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Jerry Lewis (21 Filmes)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/B6-COL-Jerry.Lewis-ALL</externallink>
-<thumbnail>https://i.ibb.co/hgwnGWL/COL-JERRY-LEWIS-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/R35CqJj/COL-JERRY-LEWIS-FAN-ALL.png</fanart>
-<info>[COLOR white]Conheça a coleção: 
-[B]Jerry Lewis
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
-Peça ao SUPORTE AO USUÁRIO
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Roberto Carlos a 300 Km por Hora (1971) - SD DUB[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/FLMS/6AVT-CL/Roberto.Carlos/LS-1972.R.C.a.300.Km.Por.Hora.HD.DUB.avi</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2Bzf43vUVtXBhClZrjLRK1JaPNU.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/a37JFvPc7WiTkOBy640SnK3Cooh.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]300 Km por Hora
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1971
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AVENTURA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Mecânico de carros de corridas, ambicionando tornar-se piloto, substitui um corredor traumatizado em acidente.
 [/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Bonanza (1959-1973) - ATUALIZANDO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2E-LS-WST-ALL/main/C8-SRS-Bonanza-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/Afbpw3U5hJCsteIZbsGV34wrPpp.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/sgCr36Emd8PgdUghmkxJ2uA1KHM.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]Bonanza
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1959 a 1973
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]14 TEMPS - 430 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]As aventuras em Alta Sierra de Ben Cartwright e seus filhos enquanto eles correm e defendem seu rancho enquanto ajudam a comunidade ao redor.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item><title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Jim das Selvas (1948)[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/6-AVT/Jim.das.Selvas/FLM/LS-1948.Jim.das.Selvas.FHD.LEG-LS.mkv</link>
+<thumbnail>https://img.melhoresfilmes.com.br/unsafe/320x480/https%3A%2F%2Fwww.melhoresfilmes.com.br%2Fstorage%2Fimgs%2Fposters%2F17932.jpg</thumbnail><fanart>http://entrementes.com.br/wp-content/uploads/2022/10/013.jpg</fanart></item>
 
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]The Fall (2013-2016) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/C43-SRS-The.Fall-ALL</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/77g1S4HFtvjbvaCqxLsqOSsp2cL.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/l8SEktEemmiCk8QT1su0wGCGgnj.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]The Fall
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2013 a 2016
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]CRIME
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]03 TEMPs - 17 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Uma detetive luta contra seus demônios pessoais enquanto tenta capturar um serial killer escondido sob a fachada de homem de família
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item><title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Tribo Perdida (1949)[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/6-AVT/Jim.das.Selvas/FLM/LS-1949.Jim.das.Selvas.A.Tribo.Perdida.FHD.DUAL-LS.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ogyFLKwrbnGY1PiXTMj0OBbQnn6.jpg</thumbnail><fanart>http://entrementes.com.br/wp-content/uploads/2022/10/013.jpg</fanart></item>
 
-<channels>
-<channel>
-<name>[COLOR black].[/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/7B-SRS-NEWS-ALL</externallink>
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item><title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Deusa da Lua (1955)[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/6-AVT/Jim.das.Selvas/FLM/LS-1955.Jim.das.Selvas-A.Deusa.da.Lua.FHD.LEG-LS.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/nW9Od21UFQc693WyhfEIB5h6rmE.jpg</thumbnail><fanart>http://entrementes.com.br/wp-content/uploads/2022/10/013.jpg</fanart></item>
 
-<channels>
-<channel>
-<name>[COLOR orange][B]MENU DE RETORNO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/7B-SRS-NEWS-ALL</externallink>
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item><title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Homem Crocodilo (1954)[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/6-AVT/Jim.das.Selvas/FLM/LS-1954.Jim.Das.Selvas.O.Homem.Crocodilo.FHD.DUAL-LS.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/o8nRonqrvGICzGn01SK3q8nFkkV.jpg</thumbnail><fanart>http://entrementes.com.br/wp-content/uploads/2022/10/013.jpg</fanart></item>
 
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]VOLTAR AO MENU DE NOVIDADES DA SEMANA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/7-SEL-NEWS-ALL</externallink>
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]VOLTAR AO MENU DE NOSTALGIA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/5-SEL-NSTLG-ALL</externallink>
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]VOLTAR AO MENU DE ESPECIAIS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/4-SEL-ESPC-ALL</externallink>
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]VOLTAR AO MENU DE SÉRIES[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/3-SEL-SRS-ALL</externallink>
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]VOLTAR AO MENU DE FILMES[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/2-SEL-FLMS-ALL</externallink>
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]VOLTAR AO MENU GERAL[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/1-CATEGORIAS-ALL</externallink>
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[COLOR black].[/COLOR]</title>				
+<link>ignoreme</link>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[COLOR orange][B]O VÍDEO NÃO ABRIU ?[/B][/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+<item>
+<title>[COLOR orange][B]NÃO ENCONTROU O QUE QUERIA ?[/B][/COLOR]</title>				
+<link>ignoreme</link>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
+<link>ignoreme</link>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
