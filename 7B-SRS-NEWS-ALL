@@ -12,6 +12,24 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
+<name>[COLOR orange][B]S-LS5[COLOR yellow] -> [COLOR white]A Diarista (2004-2007) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C37-SRS-A.Diarista-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/oZBczD3fofoUlQZILHPz5FJ366L.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/beAPO5Zg6NAwD5nxCx8SFO7MwTL.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]A Diarista
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2004 a 2007
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPS - 120 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Marinete é uma diarista que vive se metendo em confusão. Suas amigas Solineuza, Dalila e Ipanema costumam ser os pivôs das enrascadas em que se envolve.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
 <name>[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Moto Laser (1985) - COMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C3-SRS-Moto.Laser.1985-ALL</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/3Pe373taXKu538xrVQI0fJMRaZD.jpg</thumbnail>
@@ -27,6 +45,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <channels>
 <channel>
 <name>[COLOR orange][B]S-LS5[COLOR yellow] -> [COLOR white]A Feiticeira (1964-1971) - COMPLETA[/B][/COLOR]</name>
