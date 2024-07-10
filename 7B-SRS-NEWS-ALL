@@ -12,7 +12,25 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Chicago Fire: Heróis Contra o Fogo (2020-2024) - ATUALIZANDO[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Astro (2011) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/5-SEL-NVLS-ALL/main/A41-SRS-O.Astro.2011-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/pEw1u4TztCyL5JTxxDZveUwrBVJ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/9B8XnyrUI4vm4UwraoCX4xYkaiF.jpg</fanart>
+<info>[COLOR white]Assista aqui a novela: 
+[B]O Astro
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2011
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]DRAMA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 64 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Herculano Quintanilha é um ilusionista que conquista fortunas e amores por meio de seus truques de mágica. No entanto, também é perseguido pelos inimigos que faz.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Chicago Fire: Heróis Contra o Fogo (2012-2024) - ATUALIZANDO[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/C49-SRS-Chicago.Fire.2012-ALL</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/iD8lx0VgmpCZMhycI0Xw72wCuRS.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/isGOE0UhmUqpfXJtV2trdXeXGl8.jpg</fanart>
