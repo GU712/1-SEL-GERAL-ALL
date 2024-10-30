@@ -2,7 +2,7 @@
 <channel>				
 <name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>				
 <externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/refs/heads/main/2D-SEL-FLMS-LD-ALL</externallink>			
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<thumbnail>https://i.ibb.co/0ZMvRFx/SEL-ITEM-FLM-ICON.png</thumbnail>				
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>				
 <info>[B]FAÇA SUA ESCOLHA 
 E DIVIRTA-SE[/B]</info>				
@@ -15,7 +15,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR white][B]FILMES NO SERVER 1[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/6-SEL-ALT-ALL/main/2A-FLMS-S1-ALL</externallink>
-<thumbnail>https://i.ibb.co/b5JgCQr/FILM-LD-SERV-1.png</thumbnail>
+<thumbnail>https://i.ibb.co/dBr4GsJ/LD-SERVER-1.png</thumbnail>
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
 <info>[COLOR white]Conheça a seção: 
 [B]FILMES NO SERVER 1
@@ -36,7 +36,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR white][B]FILMES NO SERVER 2[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/6-SEL-ALT-ALL/main/3A-FLMS-S2-ALL</externallink>
-<thumbnail>https://i.ibb.co/1LVcmLt/FILM-LD-SERV-2.png</thumbnail>
+<thumbnail>https://i.ibb.co/TP46v4q/LD-SERVER-2.png</thumbnail>
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
 <info>[COLOR white]Conheça a seção: 
 [B]FILMES NO SERVER 2
@@ -57,7 +57,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR white][B]FILMES NO SERVER 3 [/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/6-SEL-ALT-ALL/main/4C-FLMS-AV-S3-ALL</externallink>
-<thumbnail>https://i.ibb.co/GV7jYNF/FILM-LD-SERV-3.png</thumbnail>
+<thumbnail>https://i.ibb.co/pfL7ZSJ/LD-SERVER-3.png</thumbnail>
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
 <info>[COLOR white]Conheça a seção: 
 [B]FILMES NO SERVER 3
@@ -78,12 +78,33 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR white][B]FILMES NO SERVER 4[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/6-SEL-ALT-ALL/main/4D-FLMS-AV-S4-ALL</externallink>
-<thumbnail>https://i.ibb.co/28TbnCD/FILM-LD-SERV-4.png</thumbnail>
+<thumbnail>https://i.ibb.co/TgR77ws/LD-SERVER-4.png</thumbnail>
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
 <info>[COLOR white]Conheça a seção: 
-[B]FILMES NO SERVER 5
+[B]FILMES NO SERVER 4
 [COLOR black].[/COLOR]
 [COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalhos a servidores alternativos. Utiliza listas IPTV e seus links são instáveis , podem cair. Reporte erros ao SUPORTE.
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
+[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
+[COLOR black].[/COLOR]
+Encontrou erros ? 
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]FILMES TG[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/6-SEL-ALT-ALL/main/5A-SEL-FLM-A-Z-GD-ALL</externallink>
+<thumbnail>https://i.ibb.co/kSCRP8Z/LD-SERVER-TG.png</thumbnail>
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<info>[COLOR white]Conheça a seção: 
+[B]FILMES TG
+[COLOR black].[/COLOR]
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalhos a servidores alternativos. Utiliza o TELEGRAM e seus links são instáveis , podem cair. Reporte erros ao SUPORTE.
 [COLOR black].[/COLOR]
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
 [B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
