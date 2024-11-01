@@ -2,12 +2,12 @@
 <channel>				
 <name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>				
 <externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/3A1-SRS-GEN-LS-ALL</externallink>			
-<thumbnail>https://i.ibb.co/nbZ50B0/SEL-ITEM.png</thumbnail>				
+<thumbnail>https://i.ibb.co/NWfgpVX/SEL-ITEM-SRS-ICON.png</thumbnail>				
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>				
 <info>[B]FAÇA SUA ESCOLHA 
 E DIVIRTA-SE[/B]</info>				
 </channel>
-</channels>			
+</channels>		
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -15,16 +15,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR white][B]SÉRIES DE AÇÃO[/B][/COLOR] </name>
 <externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C-LS-SRS-ACA-ALL</externallink>
-<thumbnail>https://i.ibb.co/W21n0Vq/ACAO-SRS-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/bJ9PjXR/ACAO-FAN-ALL.png</fanart>
+<thumbnail>https://i.ibb.co/CVDjjJr/ASAO-ICO-GEN.png</thumbnail>
+<fanart>https://i.ibb.co/jLkkXk5/ASAO-FAN-ALL.png</fanart>
 <info>[COLOR white]Séries do gênero: 
 [B]AÇÃO
 [COLOR black].[/COLOR]
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Um gênero cinematográfico que envolve uma história de protagonistas do bem contra antagonistas do mal, que resolvem suas disputas com o uso de força física.
 [COLOR black].[/COLOR]
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema. 
-[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema. 
+[/B][COLOR black].[/COLOR]
 Encontrou erros ? 
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
@@ -36,16 +36,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR white][B]SÉRIES DE ÉPICOS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2B-LS-EPC-ALL/main/C-LS-SRS-EPC-ALL</externallink>
-<thumbnail>https://i.ibb.co/82f4BFd/EPICOS-SRS-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/HqprsGD/EPICOS-FAN-ALL.png</fanart>
+<thumbnail>https://i.ibb.co/QndsKVR/EPC-ICO-GEN.png</thumbnail>
+<fanart>https://i.ibb.co/dtHMbTg/EPC-FAN-ALL.png</fanart>
 <info>[COLOR white]Séries do gênero: 
 [B]ÉPICOS
 [COLOR black].[/COLOR]
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Um gênero cinematográfico que apresenta narrativas heroicas ou históricas que envolve personagens divinos ou reais como figura central em feitos extraordinários.
 [COLOR black].[/COLOR]
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema. 
-[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema. 
+[/B][COLOR black].[/COLOR]
 Encontrou erros ? 
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
@@ -57,16 +57,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR white][B]SÉRIES DE GUERRA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2C-LS-GRR-ALL/main/C-LS-SRS-GRR-ALL</externallink>
-<thumbnail>https://i.ibb.co/9cHSBLM/GUERRA-SRS-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/p0knM4S/GUERRA-GEN-FAN-ALL.png</fanart>
+<thumbnail>https://i.ibb.co/vcNWKPS/GRR-ICO-GEN.png</thumbnail>
+<fanart>https://i.ibb.co/dkYwqqh/GRR-FAN-ALL.png</fanart>
 <info>[COLOR white]Séries do gênero: 
 [B]GUERRA
 [COLOR black].[/COLOR]
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Um gênero cinematográfico que inclui ação, suspense, romance e até comédia em relatos de conflitos armados entre nações envolvendo grandes batalhas ou ações de resistência.
 [COLOR black].[/COLOR]
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema. 
-[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema. 
+[/B][COLOR black].[/COLOR]
 Encontrou erros ? 
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
@@ -78,16 +78,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR white][B]SÉRIES DE COMÉDIA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C-LS-SRS-COM-ALL</externallink>
-<thumbnail>https://i.ibb.co/zZsP1fh/COMEDIA-SRS-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/ThT5t2Z/COMEDIA-FAN-ALL.png</fanart>
+<thumbnail>https://i.ibb.co/mXVRVYM/COM-ICO-GEN.png</thumbnail>
+<fanart>https://i.ibb.co/Lh2y3Ch/COMEDIA-FAN-ALL.png</fanart>
 <info>[COLOR white]Séries do gênero: 
 [B]COMÉDIA
 [COLOR black].[/COLOR]
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Um gênero cinematográfico que tem o propósito de provocar riso, em situações cômicas pela caracterização de tipos, costumes e pelo absurdo da história.
 [COLOR black].[/COLOR]
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema. 
-[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema. 
+[/B][COLOR black].[/COLOR]
 Encontrou erros ? 
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
@@ -99,16 +99,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR white][B]SÉRIES DE WESTERN[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2E-LS-WST-ALL/main/C-LS-SRS-WST-ALL</externallink>
-<thumbnail>https://i.ibb.co/68KBZDk/WESTERN-SRS-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/X2TwfPJ/WESTERN-FAN-ALL.png</fanart>
+<thumbnail>https://i.ibb.co/hFQGgxz/WST-ICO-GEN.png</thumbnail>
+<fanart>https://i.ibb.co/cvxTjWD/WST-FAN-ALL.png</fanart>
 <info>[COLOR white]Séries do gênero: 
 [B]WESTERN
 [COLOR black].[/COLOR]
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Um gênero cinematográfico que conta histórias da vida de cowboys, pistoleiros armados e Indios com revólveres e rifles da época do Velho Oeste dos Estados Unidos.
 [COLOR black].[/COLOR]
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema. 
-[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema. 
+[/B][COLOR black].[/COLOR]
 Encontrou erros ? 
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
@@ -120,16 +120,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR white][B]SÉRIES DE AVENTURA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2F-LS-AVT-ALL/main/C-LS-SRS-AVT-ALL</externallink>
-<thumbnail>https://i.ibb.co/vXSp0gv/AVENTURA-SRS-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/P56FNr5/AVENTURA-FAN-ALL.png</fanart>
+<thumbnail>https://i.ibb.co/S0RgjYb/AVT-ICO-GEN.png</thumbnail>
+<fanart>https://i.ibb.co/xgGPC1k/AVENTURA-FAN-ALL.png</fanart>
 <info>[COLOR white]Séries do gênero: 
 [B]AVENTURA
 [COLOR black].[/COLOR]
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Um gênero cinematográfico onde um herói enfrenta uma série de obstáculos, exibindo coragem ao enfrentar situações que fogem ao cotidiano e normalidade.
 [COLOR black].[/COLOR]
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema. 
-[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema. 
+[/B][COLOR black].[/COLOR]
 Encontrou erros ? 
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
@@ -141,16 +141,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR white][B]SÉRIES DE ANIMAÇÃO[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2G-LS-ANM-ALL/main/C-LS-SRS-ANM-ALL</externallink>
-<thumbnail>https://i.ibb.co/8g6yQf0/ANIMACAO-SRS-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/4fVnTgg/ANIMACAO-FAN-ALL.png</fanart>
+<thumbnail>https://i.ibb.co/yd9wgRV/ANM-ICO-GEN.png</thumbnail>
+<fanart>https://i.ibb.co/X5xmLHy/ANIMACAO-FAN-ALL.png</fanart>
 <info>[COLOR white]Séries do gênero: 
 [B]ANIMAÇÃO
 [COLOR black].[/COLOR]
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Um gênero cinematográfico que envolve caracteristicas próprias usando técnicas de desenho ou modelagem com recursos de computação gráfica dando alma e vida a algo sem movimento.
 [COLOR black].[/COLOR]
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema. 
-[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema. 
+[/B][COLOR black].[/COLOR]
 Encontrou erros ? 
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
@@ -162,16 +162,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR white][B]SÉRIES DE SUPER-HERÓIS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/C-LS-SRS-SPH-ALL</externallink>
-<thumbnail>https://i.ibb.co/Xkvqvvd/SUPER-HEROIS-ALL-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/xf2n9Lf/SUPER-HEROIS-FAN-ALL.png</fanart>
+<thumbnail>https://i.ibb.co/NCYSjcV/SPH-ICO-GEN.png</thumbnail>
+<fanart>https://i.ibb.co/JksHDWJ/SPH-FAN.png</fanart>
 <info>[COLOR white]Séries do gênero: 
 [B]SUPER-HERÓIS
 [COLOR black].[/COLOR]
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Um gênero cinematográfico com personagens dotados de poderes sobre-humanos, em combates contra o mal, ajudando os desprotegidos e livrando a sociedade de situações perigosas.
 [COLOR black].[/COLOR]
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema. 
-[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema. 
+[/B][COLOR black].[/COLOR]
 Encontrou erros ? 
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
@@ -183,16 +183,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR white][B]SÉRIES DE CRIME E DRAMA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/C-LS-SRS-CRDR-ALL</externallink>
-<thumbnail>https://i.ibb.co/n8pNFhS/CRM-DRM-SRS-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/QH2wgtB/CRM-DRM-FAN-ALL.png</fanart>
+<thumbnail>https://i.ibb.co/nR1jC5M/CRDR-ICO-GEN.png</thumbnail>
+<fanart>https://i.ibb.co/gVj7SYN/CRDR-FAN-ALL.png</fanart>
 <info>[COLOR white]Séries do gênero: 
 [B]CRIME E DRAMA
 [COLOR black].[/COLOR]
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Uma seção que envolve dois gêneros com histórias de cunho dramático com situações criminosas ou do cotidiano humano, em narrativas envolventes mas dolorosas com seus envolvidos.
 [COLOR black].[/COLOR]
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema. 
-[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema. 
+[/B][COLOR black].[/COLOR]
 Encontrou erros ? 
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
@@ -204,16 +204,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR white][B]SÉRIES DE FICÇÃO E FANTASIA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/C-LS-SRS-FCFN-ALL</externallink>
-<thumbnail>https://i.ibb.co/RBsMR2b/FIC-FAN-SRS-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/mBMvjrB/FIC-FAN-FAN-ALL.png</fanart>
+<thumbnail>https://i.ibb.co/Pc53MrG/FICFAN-ICO-GEN.png</thumbnail>
+<fanart>https://i.ibb.co/g63p8VZ/FIC-FAN-FAN-ALL.png</fanart>
 <info>[COLOR white]Séries do gênero: 
 [B]FICÇÃO E FANTASIA
 [COLOR black].[/COLOR]
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Uma seção com histórias de cunho fantástico com situações fictícias em mundos estranhos ou épocas passadas e futuras onde a realidade é distorcida e reinventada. 
 [COLOR black].[/COLOR]
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema. 
-[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema. 
+[/B][COLOR black].[/COLOR]
 Encontrou erros ? 
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
@@ -225,29 +225,39 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR white][B]SÉRIES DE SUSPENSE E TERROR[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/C-LS-SRS-SPTR-ALL</externallink>
-<thumbnail>https://i.ibb.co/mvYsmM4/SUSP-TERR-SRS-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/L5f2pJf/SUSP-TERR-FAN-ALL.png</fanart>
+<thumbnail>https://i.ibb.co/PCjzWyC/SPTR-ICO-GEN.png</thumbnail>
+<fanart>https://i.ibb.co/gW5ncS4/SPTR-FAN.png</fanart>
 <info>[COLOR white]Séries do gênero: 
 [B]SUSPENSE E TERROR
 [COLOR black].[/COLOR]
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Uma seção com histórias de cunho aterrorizante em que o mêdo anda lado a lado com a morte e sofrimento de algozes ou vítimas em terríveis pesadelos de dor e aflição.
 [COLOR black].[/COLOR]
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema. 
-[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema. 
+[/B][COLOR black].[/COLOR]
 Encontrou erros ? 
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-
+<channels>
+<channel>
 <name>[COLOR white][B]SÉRIES DE DOCUMENTÁRIOS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2L-LS-DOCS-ALL/main/C-LS-SRS-DOCS-ALL</externallink>
-<thumbnail>https://i.ibb.co/3NTwj4W/DOCS-ALL-ALL-png.png</thumbnail>
-<fanart>https://i.ibb.co/Bgwhddr/DOCS-FAN-ALL.png</fanart>
-<info>hISTÓRIA , NATUREZA E OUTROS TEMAS DESVENDADOS POR ESPECIALISTAS</info>
+<thumbnail>https://i.ibb.co/GFCq6kf/DOCS-ICO-GEN.png</thumbnail>
+<fanart>https://i.ibb.co/KKKf4GX/DOCS-FAN.png</fanart>
+<info>[COLOR white]Séries do gênero: 
+[B]DOCUMENTÁRIOS
+[COLOR black].[/COLOR]
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Documentário é uma produção artística, não-ficcional, que se caracteriza principalmente pelo compromisso da exploração da realidade.
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema. 
+[/B][COLOR black].[/COLOR]
+Encontrou erros ? 
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -392,3 +402,4 @@ USE ESSE LINK DE ATALHO[/COLOR]</info>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
