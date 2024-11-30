@@ -74,7 +74,8 @@ Avise o SUPORTE AO USUÁRIO.
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-
+<channels>
+<channel>
 <name>[COLOR white][B]FILMES NO SERVER 4[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/6-SEL-ALT-ALL/main/4D-FLMS-AV-S4-ALL</externallink>
 <thumbnail>https://i.ibb.co/TgR77ws/LD-SERVER-4.png</thumbnail>
@@ -94,6 +95,8 @@ Avise o SUPORTE AO USUÁRIO.
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<channels>
+<channel>
 <name>[COLOR white][B]FILMES TG[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/6-SEL-ALT-ALL/refs/heads/main/4E-FLMS-AV-LG-ALL</externallink>
 <thumbnail>https://i.ibb.co/kSCRP8Z/LD-SERVER-TG.png</thumbnail>
