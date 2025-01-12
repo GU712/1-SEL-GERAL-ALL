@@ -284,7 +284,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]FILMES LISTA ALFABETICA[COLOR yellow] -> [COLOR white][COLOR orange]LS[/B][/COLOR]</name>
+<name>[COLOR white][B]FILMES LISTA ALFABETICA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/A-SEL-FLM-LS-AaZ-ALL</externallink>
 <thumbnail>https://i.ibb.co/T81LKF3/SRS-ALFB.png</thumbnail>
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
