@@ -1,26 +1,42 @@
 <channels>
-<channel>				
-<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>				
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/5A-FLMS-NSTLG-ALL</externallink>			
+<channel>
+<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/7-NOST-ALL-LS/refs/heads/main/2-SEL-FLM-NOST-LS-ALL</externallink>
 <thumbnail>https://i.ibb.co/0ZMvRFx/SEL-ITEM-FLM-ICON.png</thumbnail>				
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>		
 <info>FAÇA SUA ESCOLHA 
 E DIVIRTA-SE </info>
 </channel>
-</channels>			
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR white][B]NOSTALGIA FILMES -> SERVER LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/7-NOST-ALL-LS/main/2A-SEL-FLM-NOST-LS-ALL</externallink>
-<thumbnail>https://i.ibb.co/h1fH00Xk/ICO-NOST-FLM.png</thumbnail>
-<fanart>https://i.ibb.co/ncLC302/FAN-DEC-NOSTALGIA.png</fanart>
-<info>[COLOR white]Conheça a seção: 
-[B]NOSTALGIA FILMES -> SERVER LS
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]FILME: Produto audiovisual finalizado, com certa duração para ser exibido no cinema, na televisão ou em algum outro veículo, podem ser curtas ou longas. A Seção de FILMES disponibiliza conteúdo em diversos servidores.
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE e nos estimula a seguir em frente ... OBRIGADO.
+
+<name>[COLOR white][B]Anos 20 (Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/7-NOST-ALL-LS/main/2A1-SEL-FLM-20-LS-ALL</externallink>
+<thumbnail></thumbnail>
+<fanart>https://i.ibb.co/3NCzfsX/FAN-DEC-NOSTALGIA.png</fanart>
+<info>[COLOR white]Assista filmes por década : 
+[B]Anos 20
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]Aqui nessa seção você pode assistir os filmes que temos dos anos 20.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+<name>[COLOR white][B]Anos 30 (Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/7-NOST-ALL-LS/main/2A2-SEL-FLM-30-LS-ALL</externallink>
+<thumbnail>https://i.ibb.co/N2KbFbbp/ICO-ANOS-30-FLM.png</thumbnail>
+<fanart>https://i.ibb.co/3NCzfsX/FAN-DEC-NOSTALGIA.png</fanart>
+<info>[COLOR white]Assista filmes por década : 
+[B]Anos 30
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]Aqui nessa seção você pode assistir os filmes que temos dos anos 30.
 [/B][COLOR black].[/COLOR]
 Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
@@ -31,14 +47,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]NOSTALGIA FILMES -> SERVER LS-3[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/7-NOST-ALL-LS/main/2C-SEL-FLM-NOST-LS-3-ALL</externallink>
-<thumbnail>https://i.ibb.co/h1fH00Xk/ICO-NOST-FLM.png</thumbnail>
-<fanart>https://i.ibb.co/ncLC302/FAN-DEC-NOSTALGIA.png</fanart>
-<info>[COLOR white]Conheça a seção: 
-[B]NOSTALGIA FILMES -> SERVER LS3
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]FILME: Produto audiovisual finalizado, com certa duração para ser exibido no cinema, na televisão ou em algum outro veículo, podem ser curtas ou longas. A Seção de FILMES disponibiliza conteúdo em diversos servidores.
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE e nos estimula a seguir em frente ... OBRIGADO.
+<name>[COLOR white][B]Anos 40 (Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/7-NOST-ALL-LS/main/2A3-SEL-FLM-40-LS-ALL</externallink>
+<thumbnail>https://i.ibb.co/DPr9dcmr/ICO-ANOS-40-FLM.png</thumbnail>
+<fanart>https://i.ibb.co/3NCzfsX/FAN-DEC-NOSTALGIA.png</fanart>
+<info>[COLOR white]Assista filmes por década : 
+[B]Anos 1940 a 1949
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]Aqui nessa seção você pode assistir os filmes que temos dos anos 40.
 [/B][COLOR black].[/COLOR]
 Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
@@ -49,14 +65,86 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]NOSTALGIA FILMES -> SERVER LS-4[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/7-NOST-ALL-LS/main/2B-SEL-FLM-NOST-LS-4-ALL</externallink>
-<thumbnail>https://i.ibb.co/h1fH00Xk/ICO-NOST-FLM.png</thumbnail>
-<fanart>https://i.ibb.co/ncLC302/FAN-DEC-NOSTALGIA.png</fanart>
-<info>[COLOR white]Conheça a seção: 
-[B]NOSTALGIA FILMES -> SERVER LS4
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]FILME: Produto audiovisual finalizado, com certa duração para ser exibido no cinema, na televisão ou em algum outro veículo, podem ser curtas ou longas. A Seção de FILMES disponibiliza conteúdo em diversos servidores.
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE e nos estimula a seguir em frente ... OBRIGADO.
+<name>[COLOR white][B]Anos 50 (Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/7-NOST-ALL-LS/main/2A4-SEL-FLM-50-LS-ALL</externallink>
+<thumbnail>https://i.ibb.co/KxY0290f/ICO-ANOS-50-FLM.png</thumbnail>
+<fanart>https://i.ibb.co/3NCzfsX/FAN-DEC-NOSTALGIA.png</fanart>
+<info>[COLOR white]Assista filmes por década : 
+[B]Anos 1950 a 1959
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]Aqui nessa seção você pode assistir os filmes que temos dos anos 50.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Anos 60 (Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/7-NOST-ALL-LS/main/2A5-SEL-FLM-60-LS-ALL</externallink>
+<thumbnail>https://i.ibb.co/6cbX1CnV/ICO-ANOS-60-FLM.png</thumbnail>
+<fanart>https://i.ibb.co/3NCzfsX/FAN-DEC-NOSTALGIA.png</fanart>
+<info>[COLOR white]Assista filmes por década : 
+[B]Anos 1960 a 1969
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]Aqui nessa seção você pode assistir os filmes que temos dos anos 60.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Anos 70 (Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/7-NOST-ALL-LS/main/2A6-SEL-FLM-70-LS-ALL</externallink>
+<thumbnail>https://i.ibb.co/Y4yRJNc2/ICO-ANOS-70-FLM.png</thumbnail>
+<fanart>https://i.ibb.co/3NCzfsX/FAN-DEC-NOSTALGIA.png</fanart>
+<info>[COLOR white]Assista filmes por década : 
+[B]Anos 1970 a 1979
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]Aqui nessa seção você pode assistir os filmes que temos dos anos 70.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Anos 80 (Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/7-NOST-ALL-LS/main/2A7-SEL-FLM-80-LS-ALL</externallink>
+<thumbnail>https://i.ibb.co/jZJzxBr7/ICO-ANOS-80-FLM.png</thumbnail>
+<fanart>https://i.ibb.co/3NCzfsX/FAN-DEC-NOSTALGIA.png</fanart>
+<info>[COLOR white]Assista filmes por década : 
+[B]Anos 1980 a 1989
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]Aqui nessa seção você pode assistir os filmes que temos dos anos 80.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Anos 90 (Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/7-NOST-ALL-LS/main/2A8-SEL-FLM-90-LS-ALL</externallink>
+<thumbnail>https://i.ibb.co/mV2yQzKc/ICO-ANOS-90-FLM.png</thumbnail>
+<fanart>https://i.ibb.co/3NCzfsX/FAN-DEC-NOSTALGIA.png</fanart>
+<info>[COLOR white]Assista filmes por década : 
+[B]Anos 1990 a 1999
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]Aqui nessa seção você pode assistir os filmes que temos dos anos 90.
 [/B][COLOR black].[/COLOR]
 Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
@@ -69,7 +157,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR black].[/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/5A-FLMS-NSTLG-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/7-NOST-ALL-LS/refs/heads/main/2-SEL-FLM-NOST-LS-ALL</externallink>
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
 </channel>
@@ -79,7 +167,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR orange][B]MENU DE RETORNO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/5A-FLMS-NSTLG-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/7-NOST-ALL-LS/refs/heads/main/2-SEL-FLM-NOST-LS-ALL</externallink>
 <thumbnail>https://i.ibb.co/nbZ50B0/SEL-ITEM.png</thumbnail>
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
 </channel>
