@@ -51,7 +51,8 @@ Avise o SUPORTE AO USUÁRIO.
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-
+<channels>
+<channel>		
 <name>[COLOR white][B]FILMES NO SERVER 3 [/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/6-SEL-ALT-ALL/main/4C-FLMS-AV-S3-ALL</externallink>
 <thumbnail>https://i.ibb.co/pfL7ZSJ/LD-SERVER-3.png</thumbnail>
