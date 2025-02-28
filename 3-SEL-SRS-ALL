@@ -74,7 +74,8 @@ Avise o SUPORTE AO USUÁRIO.
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-
+<channels>
+<channel>
 <name>[COLOR white][B]SERVER ALT - SÉRIES[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/3D-SEL-SRS-ALT-ALL</externallink>
 <thumbnail>https://i.ibb.co/C21x9Tf/SERVERS-ALT.png</thumbnail>
