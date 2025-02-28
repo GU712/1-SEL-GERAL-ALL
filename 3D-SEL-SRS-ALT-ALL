@@ -1,42 +1,96 @@
 <channels>
+<channel>				
+<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>				
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/3-SEL-SRS-ALL</externallink>			
+<thumbnail>https://i.ibb.co/nbZ50B0/SEL-ITEM.png</thumbnail>				
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>				
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>				
+</channel>
+</channels>			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
 <channel>
-<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/3D-SEL-SRS-ALT-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
-<name>[COLOR white][B]SERVER 1 - SÉRIES[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/6-SEL-ALT-ALL/main/2B-SRS-S1-ALL</externallink>
-<thumbnail>https://i.ibb.co/6HxrS69/SRS-SERV-1.png</thumbnail>
-<fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>
-<info>LINKS DO SERVER 1 SÃO INSTÁVEIS, PODEM CAIR REPORTE LINKS OF LINE NOS GRUPOS DE SUPORTE</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
-<name>[COLOR white][B]SERVER 2 - SÉRIES[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/6-SEL-ALT-ALL/main/3B-SRS-S2-ALL</externallink>
-<thumbnail>https://i.ibb.co/Wc1fvqF/SRS-SERV-2.png</thumbnail>
-<fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>
-<info>LINKS DO SERVER 2 SÃO INSTÁVEIS, PODEM CAIR REPORTE LINKS OF LINE NOS GRUPOS DE SUPORTE</info>
+<name>[COLOR white][B]SÉRIES EM LANÇAMENTO[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/3B-SEL-SRS-TOR-LAN-ALL</externallink>
+<thumbnail>https://i.ibb.co/3yMqdn8/SRS-LANSA.png</thumbnail>
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<info>[COLOR white]Conheça a seção: 
+[B]SÉRIES EM LANÇAMENTO
+[COLOR black].[/COLOR]
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Dedicada aos conteúdos novos na categoria SÉRIES EM LANÇAMENTO. Disponibiliza conteúdo em diversos servidores.
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
+[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
+[COLOR black].[/COLOR]
+Encontrou erros ? 
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]SERVER AVULSO - SÉRIES[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/6-SEL-ALT-ALL/main/4-SEL-SRS-AV-ALL</externallink>
+<name>[COLOR white][B]SERVER LS - SÉRIES[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/3A-SEL-SRS-LS-ALL</externallink>
+<thumbnail>https://i.ibb.co/pLnydYh/SERVER-LS.png</thumbnail>
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<info>[COLOR white]Conheça a seção: 
+[B]SERVER LS - SÉRIES
+[COLOR black].[/COLOR]
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalhos para séries no SERVER LS. Disponibiliza conteúdo em servidor contratado.Clique no item escolhido, e aguarde 40s que o link abre.
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
+[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
+[COLOR black].[/COLOR]
+Encontrou erros ? 
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]TORRENT - SÉRIES[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/8-SEL-TOR-ALL/main/2-SEL-SRS-TOR-ALL</externallink>
+<thumbnail>https://i.ibb.co/qrMkFL2/SERVER-TORR.png</thumbnail>
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<info>[COLOR white]Conheça a seção: 
+[B]TORRENT - SÉRIES
+[COLOR black].[/COLOR]
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalhos a séries em Torrents. Utiliza o ELEMENTUN e precisa de semeadores para serem eficientes.
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
+[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
+[COLOR black].[/COLOR]
+Encontrou erros ? 
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]SERVER ALT - SÉRIES[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/3D-SEL-SRS-ALT-ALL</externallink>
 <thumbnail>https://i.ibb.co/C21x9Tf/SERVERS-ALT.png</thumbnail>
-<fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>
-<info>LINKS DO SERVER 1 SÃO INSTÁVEIS, PODEM CAIR REPORTE LINKS OF LINE NOS GRUPOS DE SUPORTE</info>
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<info>[COLOR white]Conheça a seção: 
+[B]SERVER ALT - SÉRIES
+[COLOR black].[/COLOR]
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalhos a servidores alternativos. Utiliza listas IPTV e seus links são instáveis , podem cair. Reporte erros ao SUPORTE.
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
+[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
+[COLOR black].[/COLOR]
+Encontrou erros ? 
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -45,9 +99,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR black].[/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/1-CATEGORIAS-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/3-SEL-SRS-ALL</externallink>
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -55,76 +109,129 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR orange][B]MENU DE RETORNO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/1-CATEGORIAS-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]VOLTAR AO MENU DE NOVIDADES DA SEMANA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/7-SEL-NEWS-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]VOLTAR AO MENU DE NOSTALGIA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/5-SEL-NSTLG-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]VOLTAR AO MENU DE ESPECIAIS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/4-SEL-ESPC-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]VOLTAR AO MENU DE SÉRIES[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/3-SEL-SRS-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+<thumbnail>https://i.ibb.co/nbZ50B0/SEL-ITEM.png</thumbnail>
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]VOLTAR AO MENU DE FILMES[/B][/COLOR]</name>
+<name>[COLOR white][B]NOVIDADES DA SEMANA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/7-SEL-NEWS-ALL</externallink>
+<thumbnail>https://i.ibb.co/0c3Bj32/RET-MENU-NEWS.png</thumbnail>
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<info>[COLOR white]Atalho para a seção de:  
+[B]NOVIDADES DA SEMANA
+[COLOR black].[/COLOR]
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalhos provisórios aos conteúdos novos que foram adicionados no SERVER LS durante a semana, é dividida em dois setores FILMES e SÉRIES. 
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
+[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
+[COLOR black].[/COLOR]
+ AGILIZE SUA NAVEGAÇÃO
+USE ESSE LINK DE ATALHO[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]NOSTALGIA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/5-SEL-NSTLG-ALL</externallink>
+<thumbnail>https://i.ibb.co/vD7SyB5/RET-MENU-NSTLG.png</thumbnail>
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<info>[COLOR white]Atalho para a seção de:  
+[B]NOSTALGIA
+[COLOR black].[/COLOR]
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalho para o conteúdo raro e antigo, lançados até ano 2000 , organizado por décadas, material comprado de colecionadores com as CONTRIBUIÇÕES recebidas.
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
+[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
+[COLOR black].[/COLOR]
+ AGILIZE SUA NAVEGAÇÃO
+USE ESSE LINK DE ATALHO[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]ESPECIAIS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/4-SEL-ESPC-ALL</externallink>
+<thumbnail>https://i.ibb.co/1Qz2bpD/RET-MENU-SPCS.png</thumbnail>
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<info>[COLOR white]Atalho para a seção de:  
+[B]ESPECIAIS
+[COLOR black].[/COLOR]
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalho para a seção com as Franquias Especiais , Cine Gospel e Doramas ...Um espaço para o conteúdo extraordinário e não convencional. 
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
+[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
+[COLOR black].[/COLOR]
+ AGILIZE SUA NAVEGAÇÃO
+USE ESSE LINK DE ATALHO[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]SÉRIES[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/3-SEL-SRS-ALL</externallink>
+<thumbnail>https://i.ibb.co/bB5Gx7T/RET-MENU-SRS.png</thumbnail>
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<info>[COLOR white]Atalho para a seção de:  
+[B]SÉRIES
+[COLOR black].[/COLOR]
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalho para conteúdos em Séries, Novelas, Desenhos e Animes que são apresentados em diversos episódios de curta duração, no decorrer de diversas temporadas.
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
+[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
+[COLOR black].[/COLOR]
+ AGILIZE SUA NAVEGAÇÃO
+USE ESSE LINK DE ATALHO[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]FILMES[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/2-SEL-FLMS-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+<thumbnail>https://i.ibb.co/3yFZ2mG/RET-MENU-FLM.png</thumbnail>
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<info>[COLOR white]Atalho para a seção de:  
+[B]FILMES
+[COLOR black].[/COLOR]
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalho para conteúdos em formato para ser exibido no cinema, televisão ou outro veículo, sendo curtos ou longos. Utiliza diversos servidores.
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
+[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
+[COLOR black].[/COLOR]
+ AGILIZE SUA NAVEGAÇÃO
+USE ESSE LINK DE ATALHO[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]VOLTAR AO MENU GERAL[/B][/COLOR]</name>
+<name>[COLOR white][B]MENU GERAL[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/1-CATEGORIAS-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+<thumbnail>https://i.ibb.co/xqRhHbc/RET-MENU-GRL.png</thumbnail>
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<info>[COLOR white]Atalho para a seção de:  
+[B]MENU GERAL
+[COLOR black].[/COLOR]
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalho para o menu principal retorne e realize uma nova escolha entre as seções do Add on.
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
+[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
+[COLOR black].[/COLOR]
+ AGILIZE SUA NAVEGAÇÃO
+USE ESSE LINK DE ATALHO[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
