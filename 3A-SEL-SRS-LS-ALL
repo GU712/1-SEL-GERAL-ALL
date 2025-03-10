@@ -13,8 +13,29 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
+<name>[COLOR white][B]SÉRIES EM LANÇAMENTO[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-SERVERs-ALL/refs/heads/main/1B1-SEL-SRS-LAN-LS-ALL</externallink>
+<thumbnail>https://i.ibb.co/3yMqdn8/SRS-LANSA.png</thumbnail>
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<info>[COLOR white]Conheça a seção: 
+[B]SÉRIES EM LANÇAMENTO
+[COLOR black].[/COLOR]
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Dedicada aos conteúdos novos na categoria SÉRIES EM LANÇAMENTO. Disponibiliza conteúdo em diversos servidores.
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
+[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
+[COLOR black].[/COLOR]
+Encontrou erros ? 
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
 <name>[COLOR white][B]SÉRIES LISTA ALFABETICA[COLOR yellow] -> [COLOR white][COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/B-SEL-SRS-LS-AaZ-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A-SEL-SRS-LS-AaZ-ALL</externallink>
 <thumbnail>https://i.ibb.co/CH24Jr0/LISTA-A-Z-SRS.png</thumbnail>
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
 <info>[COLOR white]Conheça a seção: 
