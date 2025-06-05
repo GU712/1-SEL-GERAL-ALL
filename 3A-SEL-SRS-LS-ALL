@@ -13,79 +13,15 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]SÉRIES EM LANÇAMENTO[COLOR yellow] -> [COLOR white][COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-SERVERs-ALL/refs/heads/main/1B1-SEL-SRS-LAN-LS-ALL</externallink>
-<thumbnail>https://i.ibb.co/3yMqdn8/SRS-LANSA.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
-<info>[COLOR white]Conheça a seção: 
-[B]SÉRIES EM LANÇAMENTO
-[COLOR black].[/COLOR]
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Dedicada aos conteúdos novos na categoria SÉRIES EM LANÇAMENTO. Disponibiliza conteúdo em diversos servidores.
-[COLOR black].[/COLOR]
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
-[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
-[COLOR black].[/COLOR]
-Encontrou erros ? 
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]SÉRIES LISTA ALFABETICA[COLOR yellow] -> [COLOR white][COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A-SEL-SRS-LS-AaZ-ALL</externallink>
-<thumbnail>https://i.ibb.co/CH24Jr0/LISTA-A-Z-SRS.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
-<info>[COLOR white]Conheça a seção: 
-[B]SERVER LS
-SÉRIES LISTA ALFABETICA
-[COLOR black].[/COLOR]
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Séries no SERVER LS - ORDEM ALFABÉTICA. Conteúdo em servidor contratado.Clique no item escolhido, e aguarde 40s que o link abre.
-[COLOR black].[/COLOR]
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
-[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
-[COLOR black].[/COLOR]
-Encontrou erros ? 
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]SÉRIES POR GÊNERO[COLOR yellow] -> [COLOR white][COLOR orange]LS[/B][/COLOR]</name>
+<name>[COLOR white][B]SÉRIES[COLOR yellow] -> [COLOR white][COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/3A1-SRS-GEN-LS-ALL</externallink>
-<thumbnail>https://i.ibb.co/R95tbrW/LISTA-GEN-SRS.png</thumbnail>
+<thumbnail>https://i.ibb.co/GQS77Jbh/LS-ITENS-SRS.png</thumbnail>
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
 <info>[COLOR white]Conheça a seção: 
 [B]SERVER LS
 SÉRIES POR GÊNERO
 [COLOR black].[/COLOR]
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Séries no SERVER LS - ORDENADAS POR GÊNERO. Conteúdo em servidor contratado.Clique no item escolhido, e aguarde 40s que o link abre.
-[COLOR black].[/COLOR]
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
-[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
-[COLOR black].[/COLOR]
-Encontrou erros ? 
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]ANIMES[COLOR yellow] -> [COLOR white][COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/3A2-SEL-ANMS-LS-ALL</externallink>
-<thumbnail>https://i.ibb.co/N6kGhY3X/LS-ANIMES-ITEN-ICO.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
-<info>[COLOR white]Conheça a seção: 
-[B]ANIMES
-[COLOR black].[/COLOR]
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Animes no SERVER LS. Conteúdo em servidor contratado.Clique no item escolhido, e aguarde 40s que o link abre.
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Séries no SERVER LS. Conteúdo em servidor contratado.Clique no item escolhido, e aguarde 40s que o link abre.
 [COLOR black].[/COLOR]
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
 [B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
@@ -101,7 +37,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR white][B]DESENHOS[COLOR yellow] -> [COLOR white][COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/3A3-SEL-DSNHS-LS-ALL</externallink>
-<thumbnail>https://i.ibb.co/hxVRqPMT/LS-DESENHOS-ITEN-ICO.png</thumbnail>
+<thumbnail>https://i.ibb.co/tpd15pWw/LS-ITENS-DSH.png</thumbnail>
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
 <info>[COLOR white]Conheça a seção: 
 [B]DESENHOS
@@ -122,7 +58,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR white][B]NOVELAS[COLOR yellow] -> [COLOR white][COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/3A4-SEL-NVLS-LS-ALL</externallink>
-<thumbnail>https://i.ibb.co/JwJ4FMD8/LS-NOVELAS-ITEN-ICO.png</thumbnail>
+<thumbnail>https://i.ibb.co/N2WYGWrY/LS-ITENS-NVL.png</thumbnail>
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
 <info>[COLOR white]Conheça a seção: 
 [B]NOVELAS
@@ -138,6 +74,28 @@ Avise o SUPORTE AO USUÁRIO.
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]ANIMES[COLOR yellow] -> [COLOR white][COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/3A2-SEL-ANMS-LS-ALL</externallink>
+<thumbnail>https://i.ibb.co/9x2pFF6/LS-ITENS-ANM.png</thumbnail>
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<info>[COLOR white]Conheça a seção: 
+[B]ANIMES
+[COLOR black].[/COLOR]
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Animes no SERVER LS. Conteúdo em servidor contratado.Clique no item escolhido, e aguarde 40s que o link abre.
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
+[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
+[COLOR black].[/COLOR]
+Encontrou erros ? 
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
