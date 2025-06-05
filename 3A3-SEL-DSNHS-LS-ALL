@@ -2,7 +2,7 @@
 <channel>				
 <name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>				
 <externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/refs/heads/main/3A3-SEL-DSNHS-LS-ALL</externallink>			
-<thumbnail>https://i.ibb.co/nbZ50B0/SEL-ITEM.png</thumbnail>				
+<thumbnail>https://i.ibb.co/cSZKj9MV/SEL-ITEM-ICO-ALL.png</thumbnail>				
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>				
 <info>[B]FAÇA SUA ESCOLHA 
 E DIVIRTA-SE[/B]</info>				
@@ -13,31 +13,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]CURTAS DA DISNEY[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/4-SEL-DSNHS-ALL/main/A-FLMS-DSNHS-ALL</externallink>
-<thumbnail>https://i.ibb.co/M85T9XH/COL-OLD-DISNEY-ICO.png</thumbnail>
-<fanart>https://i.ibb.co/JpdLbXY/COL-OLD-DISNEY-FAN.png</fanart>
-<info>[COLOR white]Conheça a seção: 
-[B]SERVER LS
-CURTAS DA DISNEY
-[COLOR black].[/COLOR]
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Desenhos no SERVER LS. Conteúdo em servidor contratado.Clique no item escolhido, e aguarde 40s que o link abre.
-[COLOR black].[/COLOR]
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
-[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
-[COLOR black].[/COLOR]
-Encontrou erros ? 
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]DESENHOS - SÉRIES[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<name>[COLOR white][B]SÉRIES[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/4-SEL-DSNHS-ALL/main/B-SEL-DSNHS-SRS-ALL</externallink>
-<thumbnail>https://i.ibb.co/pnmVmKM/DSNHS-SERV-LS.png</thumbnail>
+<thumbnail>https://i.ibb.co/whRmYghT/DSH-ITENS-SRS.png</thumbnail>
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
 <info>[COLOR white]Conheça a seção: 
 [B]SERVER LS
@@ -57,9 +35,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]DESENHOS LISTA ALFABETICA[COLOR yellow] -> [COLOR white][COLOR orange]LS[/B][/COLOR]</name>
+<name>[COLOR white][B]LISTA ALFABETICA[COLOR yellow] -> [COLOR white][COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/10-SEL-ESP-ALL/refs/heads/main/C-SEL-DSH-LS-AaZ-ALL</externallink>
-<thumbnail>https://i.ibb.co/pnmVmKM/DSNHS-SERV-LS.png</thumbnail>
+<thumbnail>https://i.ibb.co/rRBXHV2b/DSH-ITENS-ALF.png</thumbnail>
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
 <info>[COLOR white]Conheça a seção: 
 [B]SERVER LS
@@ -79,9 +57,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]DESENHOS - COLEÇÕES[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<name>[COLOR white][B]COLEÇÕES[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/4-SEL-DSNHS-ALL/main/C-SEL-COL-DSH-ALL</externallink>
-<thumbnail>https://i.ibb.co/pnmVmKM/DSNHS-SERV-LS.png</thumbnail>
+<thumbnail>https://i.ibb.co/q3TXbrcr/DSH-ITENS-COL.png</thumbnail>
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
 <info>[COLOR white]Conheça a seção: 
 [B]SERVER LS
