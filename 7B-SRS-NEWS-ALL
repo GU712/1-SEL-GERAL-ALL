@@ -13,6 +13,28 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
+<name>[COLOR white][B]Dom Pixote (1958-1961) - INCOMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/4-SEL-DSNHS-ALL/refs/heads/main/B047-SRS-Dom.Pixote.1958-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/yN0hJ4vjckXkOZtEAXLWvofN2YG.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/fSfZADqg2dYcPPbrLNEpUwxGQSc.jpg</fanart>
+<info>[COLOR white]Assista aqui o desenho: 
+[B]Dom Pixote
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1958 a 1961
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPs - 68 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Dom Pixote é um cão de caça puro sangue,que pode ser visto como um verdadeiro 
+Dom Quixote de La Mancha canino, afinal de contas ele está sempre pronto para uma aventura.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
 <name>[COLOR white][B]M*A*S*H (1972-1982) - INCOMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2C-LS-GRR-ALL/refs/heads/main/C019-SRS-MASH.1972-ALL</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/6rhuM3oMoEWKxAdrm7IyM8oq8cC.jpg</thumbnail>
@@ -416,7 +438,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR orange][B]MENU DE RETORNO[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/7B-SRS-NEWS-ALL</externallink>
-<thumbnail>https://i.ibb.co/nbZ50B0/SEL-ITEM.png</thumbnail>
+<thumbnail>https://i.ibb.co/WvhRZGnx/SEL-ITEM-ICO.png</thumbnail>
 <fanart>https://i.ibb.co/Xr8PH1yT/FAN-2.png</fanart>
 </channel>
 </channels>
