@@ -1,9 +1,9 @@
 <channels>
 <channel>				
 <name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>				
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/7-SEL-NEWS-ALL</externallink>			
-<thumbnail>https://i.ibb.co/m9MD0QM/SEL-ITEM-NEWS-ICON.png</thumbnail>				
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>				
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/7B-SRS-NEWS-ALL</externallink>			
+<thumbnail>https://i.ibb.co/yn6Bv4fX/SEL-ITEM-SRS.png</thumbnail>				
+<fanart>https://i.ibb.co/Xr8PH1yT/FAN-2.png</fanart>				
 <info>[B]FAÇA SUA ESCOLHA 
 E DIVIRTA-SE[/B]</info>				
 </channel>
@@ -13,15 +13,102 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[B][COLOR white]NEWs->FILMES[/COLOR][/B]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/7A-FLMS-NEWS-ALL</externallink>
-<thumbnail>https://i.ibb.co/b6ZCM2Y/FLMS-NEWS.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<name>[COLOR white][B]Tropicaliente (1994) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/5-SEL-NVLS-ALL/refs/heads/main/A051-SRS-Tropicaliente.1994-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/osCAMxRiPJ4vbvb7tDD5D5pZFk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/2gDuMcJeCWQFVzIiX481IiE9NdY.jpg</fanart>
+<info>[COLOR white]Assista aqui a novela: 
+[B]Tropicaliente
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]19940
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]DRAMA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 194 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Na juventude, quando o amor fala mais alto, Leticia deixa o luxo para 
+trás e vai viver seu romance com Ramiro. Ela é filha do rico empresário Gaspar, que não aceita a nova vida da moça.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Plumas & Paetês (1980) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/5-SEL-NVLS-ALL/refs/heads/main/A050-SRS-Plumas.e.Paetes.1980-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/3ZusAzfyVDYNqjJyCKoAXiQ3qmt.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/xRTxntuyv8NwCtpkG3gpVHHxaQK.jpg</fanart>
+<info>[COLOR white]Assista aqui a novela: 
+[B]Plumas & Paetês
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1980
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]DRAMA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 191 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Um acidente em direção a São Paulo põe a única sobrevivente, 
+Marcela, em contato com a família do motorista, Osmar, um amigo. Ela é confundida com Júlia, a noiva do rapaz, que também morrera.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Reis (2022-2025) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS9[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/9-SEL-GSPL-DRMS-ALL/refs/heads/main/1B11-SRS-Reis-2022-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/7cqUTHh40bi0fx4cg5cPEX9Wbtu.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/vZCVWvGNWCcO0SKO2l1Je6kIXpv.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Reis 
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2022 a 2025
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]GOSPEL
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]13 TEMPs - +300 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]A história da nação de Israel, do momento em que o último juiz, o profeta Samuel, 
+é usado por Deus para guiar o Seu povo, até a lamentável queda de Jerusalém, causada pelos exércitos da Babilônia.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Wyatt Earp and the Cowboy War (2024) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2E-LS-WST-ALL/refs/heads/main/C022-SRS-Wyatt.Earp.and.the.Cowboy.War.2024-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/3J6MdyMKOb5bAEn0C6c3RtuqgT7.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/sWZ3Fjs66hJSlsqORsIAehu2K72.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Wyatt Earp and the Cowboy War
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2024
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 06 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]A lendária disputa entre Wyatt Earp e Ike Clanton se desdobra por meio de 
+reconstituições vívidas neste drama documental sobre o tiroteio que definiu uma era.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]MINI-SÉRIES[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/5-SEL-NVLS-ALL/main/B-SEL-M-SRS-ALL</externallink>
+<thumbnail>https://i.ibb.co/chP6P46X/LS-MINISERIES-ITENS-ICO.png</thumbnail>
+<fanart>https://i.ibb.co/Xr8PH1yT/FAN-2.png</fanart>
 <info>[COLOR white]Conheça a seção: 
-[B]NOVIDADES DA SEMANA 
-FILMES
+[B]MINI-SÉRIES
 [COLOR black].[/COLOR]
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalhos provisórios aos conteúdos novos na categoria FILMES que foram adicionados no SERVER LS durante a semana.
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Mini-Séries no SERVER LS. Conteúdo em servidor contratado.Clique no item escolhido, e aguarde 40s que o link abre.
 [COLOR black].[/COLOR]
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
 [B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
@@ -35,20 +122,579 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[B][COLOR white]NEWs->SÉRIES[/COLOR][/B]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/7B-SRS-NEWS-ALL</externallink>
-<thumbnail>https://i.ibb.co/2nsYq3d/SRS-NEWS.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
-<info>[COLOR white]Conheça a seção: 
-[B]NOVIDADES DA SEMANA
-SÉRIES
-[COLOR black].[/COLOR]
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalhos provisórios aos conteúdos novos na categoria SÉRIES que foram adicionados no SERVER LS durante a semana.
-[COLOR black].[/COLOR]
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
-[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
-[COLOR black].[/COLOR]
-Encontrou erros ? 
+<name>[COLOR white][B]Chiquinha Gonzaga (1999) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/5-SEL-NVLS-ALL/refs/heads/main/B014-SRS-Chiquinha.Gonzaga.1999-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/3iV3rs2Gcmm7N4HxB8dlAQhyyJ4.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/ugWpWygiK84cG1ESswLfdXTcckg.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Chiquinha Gonzaga
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1999
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]DRAMA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 38 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Musicista revolucionária, republicana e abolicionista, Chiquinha Gonzaga 
+desafia a sociedade da época com sua postura, sua arte e seus amores.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Rei Arthur (Filmes - Séries - Desenhos)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2F-LS-AVT-ALL/refs/heads/main/D11-SEL-Rei.Artur-ALL</externallink>
+<thumbnail>https://i.ibb.co/rGrxk0ff/ESP-REI-ARTUR-ICO.png</thumbnail>
+<fanart>https://i.ibb.co/4ZTqz0Z1/ESP-REI-ARTUR-FAN.png</fanart>
+<info>[COLOR white]Conheça o especial: 
+[B]Rei Arthur
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AVENTURA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]O Toque de um Anjo (1994-2002) - INCOMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/9-SEL-GSPL-DRMS-ALL/refs/heads/main/1B10-SRS-O.Toque.de.um.Anjo-1994-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/9N9eqxgLSZsmKKase9utFaOcteh.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/eQ0HQ5rQPKaGt8AU3xGKjjmTyi6.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]O Toque de um Anjo
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1994 a 2002
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]GOSPEL
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]09 TEMPs - 212 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Monica, Tess, e Andrew são um trio de anjos enviados à terra para ajudar as pessoas..
+Anjos estão despachados de céu para inspirar pessoas que são em um cruzamento em suas vidas. 
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Vigilância da Morte (02 Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/refs/heads/main/B002-COL-Vigilancia.da.Morte-ALL</externallink>
+<thumbnail>https://i.ibb.co/Fky5V1Yk/COL-VIG-MORTE-ICO.png</thumbnail>
+<fanart>https://i.ibb.co/DHSJx3Nf/COL-VIG-MORTE-FAN.png</fanart>
+<info>[COLOR white]Conheça a coleção: 
+[B]Vigilância da Morte
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUSPENSE
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Lei & Ordem: Unidade de Vítimas Especiais (1999-2024) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/refs/heads/main/D04B1-SRS-Unidade.de.Vitimas.Especiais-1999-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/asVCgrKySiGL7TozzcU4L1l1qQM.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/zllzmcs9eBGygR7zpIILjjc0GUn.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Lei & Ordem: Unidade de Vítimas Especiais
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1999 a 2024
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]CRIME
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]26 TEMPs - +500 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]A Unidade de Vítimas Especiais da polícia de Nova York investiga crimes de natureza 
+sexual, como estupros, em que a vítima sobrevive, e auxilia as autoridades na investigação.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]A Rainha da Pérsia (2024) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/9-SEL-GSPL-DRMS-ALL/refs/heads/main/1B09-SRS-A.Rainha.da.Persia-2024-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/wtgXUF7YcYbgeIiGrwNMXvrBVO7.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/5iaiHH4PqsHoOeIs0IORqwSaBF3.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]A Rainha da Pérsia
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2024
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]GOSPEL
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 30 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Nos tempos antigos da Bíblia, onde a vida de uma jovem judia, Hadassah, 
+também conhecida como Ester, se entrelaça com o futuro de uma nação inteira.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]O Eternauta (2025) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/refs/heads/main/C041-SRS-O.Eternauta.2025-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/9BaOdE76IgnMoy3a5xFDE7znsaO.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/yMjGzK7L4gwzpQNNtFKDeG79upo.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]O Eternauta
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2025
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 06 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Uma tempestade de neve tóxica matou milhões de pessoas, mas Juan Salvo e um grupo 
+de sobreviventes em Buenos Aires precisarão enfrentar uma nova ameaça invisível.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Lippy e Hardy (1962) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/4-SEL-DSNHS-ALL/refs/heads/main/B025-SRS-Lippy.Hardy.1962-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/68WYc8GeotXxoBmN0z7edBfwD6j.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/5ucFtBvDIqWZFAYMPhpWouGnQh3.jpg</fanart>
+<info>[COLOR white]Assista aqui o desenho: 
+[B]Lippy e Hardy
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1962
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 52 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Lippy era um leão, andando sempre na companhia de seu amigo Hardy, uma hiena pessimista.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Dom Pixote (1958-1961) - INCOMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/4-SEL-DSNHS-ALL/refs/heads/main/B047-SRS-Dom.Pixote.1958-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/yN0hJ4vjckXkOZtEAXLWvofN2YG.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/fSfZADqg2dYcPPbrLNEpUwxGQSc.jpg</fanart>
+<info>[COLOR white]Assista aqui o desenho: 
+[B]Dom Pixote
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1958 a 1961
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPs - 68 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Dom Pixote é um cão de caça puro sangue,que pode ser visto como um verdadeiro 
+Dom Quixote de La Mancha canino, afinal de contas ele está sempre pronto para uma aventura.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]M*A*S*H (1972-1982) - INCOMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2C-LS-GRR-ALL/refs/heads/main/C019-SRS-MASH.1972-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/6rhuM3oMoEWKxAdrm7IyM8oq8cC.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/wjRX8KXRzy4tVTJFJRgJk63mSGr.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]M*A*S*H
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1972 a 1982
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]GUERRA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]11 TEMPs - 256 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]A série acompanhava o cotidiano de um grupo de militares nos bastidores das 
+batalhas que tinham como tarefa cuidar dos feridos.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Ninguém Merece, Frida (02 Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/refs/heads/main/B009-COL-Ninguem.Merece.Frida-ALL</externallink>
+<thumbnail>https://i.ibb.co/bjJVhG7f/COL-FRIDA-ICO.png</thumbnail>
+<fanart>https://i.ibb.co/zgjcBZH/COL-FRIDA-FAN.png</fanart>
+<info>[COLOR white]Conheça a coleção: 
+[B]Ninguém Merece, Frida
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Mantendo a Esperança (2012-2017) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/refs/heads/main/C034-SRS-Saving.Hope.2012-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/h6iZ63beM2p0d1hy8BGgSpbK9km.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/lRUiOzwHlgGlzjPbjdpQPjXaOvW.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Mantendo a Esperança
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2012 a 2017
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]05 TEMPs - 85 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]O chefe de cirurgia entra em coma,e vê vagando pelos corredores em espírito. 
+Preso entre dois mundos, ele observa sua noiva e a equipe do hospital lutarem para manter os pacientes – e a esperança – vivos.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]NCIS: Investigação Naval (2003-2024) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/refs/heads/main/C022-SRS-NCIS.Investigasao.Naval.2003-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/abjNx4jqvaJn5UvsuLaBVRVndyJ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/4VuCtYBvZGq6Rk3gloigwlsTefE.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]NCIS: Investigação Naval
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2003 a 2024
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]CRIME
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]22 TEMPs - 481 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Sob o exemplar comando de Leroy Jethro Gibbs, uma equipe de agentes especiais 
+investiga crimes relacionados com a Marinha dos Estados Unidos.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Colosseum (2022) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2L-LS-DOCS-ALL/refs/heads/main/C002-SRS-DOCs-Colosseum.2022-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/mXfyYWbdZ6iBErJ9fc5G4oE8vhL.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/lB1DCnEeo8CCIRiD78q0na28N1l.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Colosseum
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2022
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]DOCUMENTÁRIO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 08 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Mostra a ascensão e queda do Império Romano através do Coliseu, uma das arenas mais 
+emocionantes e brutais da história da humanidade.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Assassinato Por Escrito (1984-1995) - INCOMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/refs/heads/main/C062-SRS-Assassinato.Por.Escrito.1984-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/ffSnfYrCh33Wa8N1q8VJ7NXwU8T.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/eciikZDLyEBQanGh3zpGNuYHtQ3.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Assassinato Por Escrito
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1984 a 1995
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]CRIME
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]13 TEMPs - 302 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Uma modesta escritora de mistérios que virou detetive usa seu conhecimento profissional 
+para ajudar a resolver casos reais de homicídio.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Vozes da Segunda Guerra (2023) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2C-LS-GRR-ALL/refs/heads/main/C018-SRS-Vozes.da.Segunda.Guerra.2023-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/15wIhM1X6oRiId0tPPTVoXLT6mx.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/cw3S08Eh5LxnegXTQ8M2RVFNEa0.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Vozes da Segunda Guerra
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2023
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]DOCUMENTÁRIO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 06 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Com imagens de arquivo vividamente aprimoradas e vozes de todos os lados do conflito, 
+esta série documental faz uma releitura inédita da Segunda Guerra Mundial.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Hatfields & McCoys (2012) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2E-LS-WST-ALL/refs/heads/main/C021-SRS-Hatfields.McCoys.2012-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/ts6NhSkyn1GS3ZXYE7Z2jRUHRnT.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/iKpAp9R2yQbv4OW3U59H38HbSHp.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Hatfields & McCoys
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2012
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 03 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Desentendidos e ressentimentos que logo explodem em uma guerra entre as famílias 
+Hatfields e McCoys.Enquanto as hostilidades crescem, amigos e a vizinhança unem forças aos conflitos.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Allan Quatermain (06 Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2F-LS-AVT-ALL/refs/heads/main/B002-COL-Allan.Quatermain-ALL</externallink>
+<thumbnail>https://i.ibb.co/Hpd3vQkg/COL-ALLANQUATERMAIN-ICO.png</thumbnail>
+<fanart>https://i.ibb.co/84S3TQBQ/COL-ALLANQUATERMAIN-FAN.png</fanart>
+<info>[COLOR white]Conheça a coleção: 
+[B]Allan Quatermain
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AVENTURA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]The Good Doctor: O Bom Doutor (2017-2024) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/refs/heads/main/C005-SRS-O.Bom.Doutor.2017-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/v9WYk0nigzR9NAEjeSmfI6s4XA2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/vEjPLgJ53X5P9CmoiTf2IQo26br.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]The Good Doctor: O Bom Doutor
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2017 a 2024
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]DRAMA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]06 TEMPs - 116 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Um jovem médico com autismo começa a trabalhar em um famoso hospital. 
+Além dos desafios da profissão, ele terá também que provar sua capacidade a seus colegas e superiores.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]FBI (2018-2022) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/refs/heads/main/C004-SRS-FBI.2018-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/cIaB4MiiyvOZzXSFAsVek7A1wfZ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/12p2lBznSSnGFPs6Xiami2YnzQc.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]FBI
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2018 a 2022
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]CRIME
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]06 TEMPs - 107 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]FBI em NY, onde os agentes Maggie Bell, Omar Adom e equipe buscam manter a 
+cidade e o país a salvo.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Safe (2018) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/refs/heads/main/C025-SRS-Safe.2018-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/lrA2SSoWp3zzb0MBdjWKCVN0qEF.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/4FHO9XiIqi0TaSi1GHU7mi6oKMA.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Safe
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2018
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUSPENSE
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 08 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Após o desaparecimento de sua filha mais velha, um cirurgião viúvo faz descobertas 
+terríveis sobre pessoas bem próximas.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Cidade Invisível (2021-2023) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/refs/heads/main/C003-SRS-Cidade.Invisivel.2021-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/hh4uZv4lVkTBsBqtHCA5B4EMHBR.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xqK9H0GxOLsr8JvhGWELWYLN8K2.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Cidade Invisível
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2021 a 2023
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]CRIME
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMP - 12 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Ao investigar um assassinato, um detetive se envolve em uma batalha entre o mundo 
+visível e um reino subterrâneo habitado por criaturas folclóricas.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Pessoa de Interesse (2011-2016) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/refs/heads/main/C008-SRS-Pessoa.de.Interesse.2011-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/6IzfTGPxvDXh50GqVRf5WLqI7TP.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hOdTVqJPXTnvmWeXgRZBlXDdoYE.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Pessoa de Interesse
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2011 a 2016
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]CRIME
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]05 TEMPS - 103 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]John Reese, um ex-agente da CIA, é recrutado por Finch, um milionário e gênio da 
+tecnologia, para ajudar na identificação de pessoas envolvidas em futuros crimes.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Saramandaia (2013) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/5-SEL-NVLS-ALL/refs/heads/main/A008-SRS-Saramandaia.2013-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/gkIVtFzvolGn65GXTyiMUKzrstb.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/g73IK3BprqMCEtUmsJvFhw8z8VC.jpg</fanart>
+<info>[COLOR white]Assista aqui a novela: 
+[B]Saramandaia
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2013
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 56 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Bole-Bole se divide em função de um plebiscito que pode trocar o nome da cidade para 
+Saramandaia. Nas entrelinhas, uma crítica à intolerância e ao desrespeito à diversidade.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Que Rei Sou Eu? (1989) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/5-SEL-NVLS-ALL/refs/heads/main/A007-SRS-Que.Rei.Sou.Eu.1989-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/hOBWBacfgBuWVCWgrSeOTuxZw0G.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/t3xvMsKJEUs2d9tJuNQ9dqachdI.jpg</fanart>
+<info>[COLOR white]Assista aqui a novela: 
+[B]Que Rei Sou Eu?
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1989
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 185 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]No reino imaginário de Avilan, o príncipe bastardo Jean Pierre lidera um grupo popular 
+contra conselheiros que invadiram o palácio da rainha Valentine e tomaram o poder.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Castelo Rá-Tim-Bum (1994-1997) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/refs/heads/main/C006-SRS-Castelo.Ra.Tim.Bum.1994-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/zR6cnkya5ef5e1ByOqaa4ahD2bH.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/bWIcKlkIge0AGYIxlB7AuyUJ5y5.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Castelo Rá-Tim-Bum
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1994 a 1997
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 91 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Nino, um menino de 300 anos, vive no Castelo com seus tios Victor, um grande inventor, 
+e Morgana, uma feiticeira. Junto aos seus novos amigos, Biba, Pedro e Zequinha, eles vivem grandes aventuras.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Os Simpsons (1989-2024) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/4-SEL-DSNHS-ALL/refs/heads/main/C02B-DSH-SRS-Os.Simpsons.1989-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/1jGPgDDcmg3Xgs3WO8sfYfbnFoA.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/jUk4H1XYyMzdiNcF0VwNtEGrb1x.jpg</fanart>
+<info>[COLOR white]Assista aqui o desenho: 
+[B]Os Simpsons
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1989 a 2024
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]36 TEMPs - 786 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Bart é o filho de 10 anos, que não leva a escola a sério e tem orgulho disso. 
+Lisa é a garota de 8 anos, um gênio não apreciado. E Maggie é o bebê que não larga a chupeta.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
@@ -59,9 +705,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR black].[/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/7-SEL-NEWS-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/7B-SRS-NEWS-ALL</externallink>
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<fanart>https://i.ibb.co/Xr8PH1yT/FAN-2.png</fanart>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -69,9 +715,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR orange][B]MENU DE RETORNO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/7-SEL-NEWS-ALL</externallink>
-<thumbnail>https://i.ibb.co/nbZ50B0/SEL-ITEM.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/7B-SRS-NEWS-ALL</externallink>
+<thumbnail>https://i.ibb.co/WvhRZGnx/SEL-ITEM-ICO.png</thumbnail>
+<fanart>https://i.ibb.co/Xr8PH1yT/FAN-2.png</fanart>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -81,7 +727,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <name>[COLOR white][B]NOVIDADES DA SEMANA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/7-SEL-NEWS-ALL</externallink>
 <thumbnail>https://i.ibb.co/0c3Bj32/RET-MENU-NEWS.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<fanart>https://i.ibb.co/Xr8PH1yT/FAN-2.png</fanart>
 <info>[COLOR white]Atalho para a seção de:  
 [B]NOVIDADES DA SEMANA
 [COLOR black].[/COLOR]
@@ -101,7 +747,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <name>[COLOR white][B]NOSTALGIA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/5-SEL-NSTLG-ALL</externallink>
 <thumbnail>https://i.ibb.co/vD7SyB5/RET-MENU-NSTLG.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<fanart>https://i.ibb.co/Xr8PH1yT/FAN-2.png</fanart>
 <info>[COLOR white]Atalho para a seção de:  
 [B]NOSTALGIA
 [COLOR black].[/COLOR]
@@ -121,7 +767,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <name>[COLOR white][B]ESPECIAIS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/4-SEL-ESPC-ALL</externallink>
 <thumbnail>https://i.ibb.co/1Qz2bpD/RET-MENU-SPCS.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<fanart>https://i.ibb.co/Xr8PH1yT/FAN-2.png</fanart>
 <info>[COLOR white]Atalho para a seção de:  
 [B]ESPECIAIS
 [COLOR black].[/COLOR]
@@ -141,7 +787,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <name>[COLOR white][B]SÉRIES[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/3-SEL-SRS-ALL</externallink>
 <thumbnail>https://i.ibb.co/bB5Gx7T/RET-MENU-SRS.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<fanart>https://i.ibb.co/Xr8PH1yT/FAN-2.png</fanart>
 <info>[COLOR white]Atalho para a seção de:  
 [B]SÉRIES
 [COLOR black].[/COLOR]
@@ -161,7 +807,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <name>[COLOR white][B]FILMES[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/2-SEL-FLMS-ALL</externallink>
 <thumbnail>https://i.ibb.co/3yFZ2mG/RET-MENU-FLM.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<fanart>https://i.ibb.co/Xr8PH1yT/FAN-2.png</fanart>
 <info>[COLOR white]Atalho para a seção de:  
 [B]FILMES
 [COLOR black].[/COLOR]
@@ -181,7 +827,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <name>[COLOR white][B]MENU GERAL[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/1-CATEGORIAS-ALL</externallink>
 <thumbnail>https://i.ibb.co/xqRhHbc/RET-MENU-GRL.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<fanart>https://i.ibb.co/Xr8PH1yT/FAN-2.png</fanart>
 <info>[COLOR white]Atalho para a seção de:  
 [B]MENU GERAL
 [COLOR black].[/COLOR]
