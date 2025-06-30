@@ -2,10 +2,10 @@
 <channel>				
 <name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>				
 <externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/2B-FLM-LANSA-ALL</externallink>			
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>				
-<info>[B]FAÇA SUA ESCOLHA 
-E DIVIRTA-SE[/B]</info>				
+<thumbnail>https://i.ibb.co/ptnP3hj/SEL-ITEM-FLM.png</thumbnail>				
+<fanart>https://i.ibb.co/Xr8PH1yT/FAN-2.png</fanart>		
+<info>FAÇA SUA ESCOLHA 
+E DIVIRTA-SE </info>			
 </channel>
 </channels>			
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
@@ -13,13 +13,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]LANÇAMENTOS 2024 - SERVER LS[/B][/COLOR]</name>
+<name>[COLOR white][B]LANÇAMENTOS - SERVER LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/2C-SEL-FLMS-LS-2024-ALL</externallink>
 <thumbnail>https://i.ibb.co/pjC1R8p/FLMS-LANSA.png</thumbnail>
 <fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>
 <info>[COLOR white]Conheça a seção: 
-[B]LANÇAMENTOS 2024
-SERVER LS
+[B]LANÇAMENTOS - LS
 [COLOR black].[/COLOR]
 [COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalhos para LANÇAMENTOS no SERVER LS. Conteúdo em servidor contratado.Clique no item escolhido, e aguarde 40s que o link abre.
 [COLOR black].[/COLOR]
@@ -37,59 +36,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]LANÇAMENTOS 2024 - SERVER TORRENT[/B][/COLOR]</name>
+<name>[COLOR white][B]LANÇAMENTOS - SERVER TORRENT[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/8-SEL-TOR-ALL/main/1A1-FLM-LANSA-TOR-ALL</externallink>
 <thumbnail>https://i.ibb.co/pjC1R8p/FLMS-LANSA.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<fanart>https://i.ibb.co/Xr8PH1yT/FAN-2.png</fanart>
 <info>[COLOR white]Conheça a seção: 
-[B]LANÇAMENTOS 2024
-SERVER TORRENT
+[B]LANÇAMENTOS TOR
 [COLOR black].[/COLOR]
 [COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalhos para filmes em Torrents. Utiliza o ELEMENTUN e precisa de semeadores para serem eficientes.
-[COLOR black].[/COLOR]
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
-[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
-[COLOR black].[/COLOR]
-Encontrou erros ? 
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]LANÇAMENTOS 2024 - SERVER LS-4[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/10-SEL-GDRV-ALL/main/1A1-FLM-2024-GD4-ALL</externallink>
-<thumbnail>https://i.ibb.co/pjC1R8p/FLMS-LANSA.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
-<info>[COLOR white]Conheça a seção: 
-[B]LANÇAMENTOS 2024
-SERVER LS-4
-[COLOR black].[/COLOR]
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalhos para LANÇAMENTOS no SERVER LS-4. Conteúdo em servidor contratado.Clique no item escolhido, e aguarde 40s que o link abre.
-[COLOR black].[/COLOR]
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
-[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
-[COLOR black].[/COLOR]
-Encontrou erros ? 
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]LANÇAMENTOS 2023 - SERVER LS-4[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/10-SEL-GDRV-ALL/main/1A2-FLM-2023-GD4-ALL</externallink>
-<thumbnail>https://i.ibb.co/pjC1R8p/FLMS-LANSA.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
-<info>[COLOR white]Conheça a seção: 
-[B]LANÇAMENTOS 2023
-SERVER LS-4
-[COLOR black].[/COLOR]
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalhos para LANÇAMENTOS no SERVER LS-4. Conteúdo em servidor contratado.Clique no item escolhido, e aguarde 40s que o link abre.
 [COLOR black].[/COLOR]
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
 [B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
@@ -108,7 +62,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <name>[COLOR black].[/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/2B-FLM-LANSA-ALL</externallink>
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<fanart>https://i.ibb.co/Xr8PH1yT/FAN-2.png</fanart>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -118,7 +72,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <name>[COLOR orange][B]MENU DE RETORNO[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/2B-FLM-LANSA-ALL</externallink>
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<fanart>https://i.ibb.co/Xr8PH1yT/FAN-2.png</fanart>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -128,7 +82,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <name>[COLOR white][B]VOLTAR AO MENU DE FILMES[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/2-SEL-FLMS-ALL</externallink>
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<fanart>https://i.ibb.co/Xr8PH1yT/FAN-2.png</fanart>
 <info>[COLOR white]Atalho para a seção de:  
 [B]FILMES
 [COLOR black].[/COLOR]
@@ -148,7 +102,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <name>[COLOR white][B]VOLTAR AO MENU DE NOVIDADES DA SEMANA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/7-SEL-NEWS-ALL</externallink>
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<fanart>https://i.ibb.co/Xr8PH1yT/FAN-2.png</fanart>
 <info>[COLOR white]Atalho para a seção de:  
 [B]NOVIDADES DA SEMANA
 [COLOR black].[/COLOR]
@@ -168,7 +122,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <name>[COLOR white][B]VOLTAR AO MENU DE SÉRIES[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/3-SEL-SRS-ALL</externallink>
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<fanart>https://i.ibb.co/Xr8PH1yT/FAN-2.png</fanart>
 <info>[COLOR white]Atalho para a seção de:  
 [B]SÉRIES
 [COLOR black].[/COLOR]
@@ -188,7 +142,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <name>[COLOR white][B]VOLTAR AO MENU DE ESPECIAIS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/4-SEL-ESPC-ALL</externallink>
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<fanart>https://i.ibb.co/Xr8PH1yT/FAN-2.png</fanart>
 <info>[COLOR white]Atalho para a seção de:  
 [B]ESPECIAIS
 [COLOR black].[/COLOR]
@@ -208,7 +162,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <name>[COLOR white][B]VOLTAR AO MENU DE NOSTALGIA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/5-SEL-NSTLG-ALL</externallink>
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<fanart>https://i.ibb.co/Xr8PH1yT/FAN-2.png</fanart>
 <info>[COLOR white]Atalho para a seção de:  
 [B]NOSTALGIA
 [COLOR black].[/COLOR]
