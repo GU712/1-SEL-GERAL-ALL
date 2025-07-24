@@ -1,9 +1,9 @@
 <channels>
 <channel>				
-<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO1[/B][/COLOR]</name>				
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/refs/heads/main/2D-SEL-FLMS-LD-ALL</externallink>			
-<thumbnail>https://i.ibb.co/0ZMvRFx/SEL-ITEM-FLM-ICON.png</thumbnail>				
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>				
+<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO2[/B][/COLOR]</name>				
+<externallink>https://luminart.online/Lumi-Files/1-SKIN/2C-SEL-FLMS-TORs.txt</externallink>			
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-IPLTS/SEL-ITEM-FLM.png</thumbnail>				
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>				
 <info>[B]FAÇA SUA ESCOLHA 
 E DIVIRTA-SE[/B]</info>				
 </channel>
@@ -12,12 +12,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 
-<name>[COLOR white][B]FILMES NO SERVER 1[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/6-SEL-ALT-ALL/main/2A-FLMS-S1-ALL</externallink>
-<thumbnail>https://i.ibb.co/dBr4GsJ/LD-SERVER-1.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<name>[COLOR white][B]LISTA 1[/B][/COLOR]</name>
+<externallink>https://luminart.online/Lumi-Files/4-ALTs/03-FLMS-AV-1.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/04-SUB-MENUs/03-FLMs/04-ALT/01-FLM-ALT-1.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 <info>[COLOR white]Conheça a seção: 
-[B]FILMES NO SERVER 1
+[B]LISTA 1
 [COLOR black].[/COLOR]
 [COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalhos a servidores alternativos. Utiliza listas IPTV e seus links são instáveis , podem cair. Reporte erros ao SUPORTE.
 [COLOR black].[/COLOR]
@@ -32,12 +32,12 @@ Avise o SUPORTE AO USUÁRIO.
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 
-<name>[COLOR white][B]FILMES NO SERVER 2[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/6-SEL-ALT-ALL/main/3A-FLMS-S2-ALL</externallink>
-<thumbnail>https://i.ibb.co/TP46v4q/LD-SERVER-2.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<name>[COLOR white][B]LISTA 2[/B][/COLOR]</name>
+<externallink>https://luminart.online/Lumi-Files/4-ALTs/03-FLMS-AV-2.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/04-SUB-MENUs/03-FLMs/04-ALT/01-FLM-ALT-2.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 <info>[COLOR white]Conheça a seção: 
-[B]FILMES NO SERVER 2
+[B]LISTA 2
 [COLOR black].[/COLOR]
 [COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalhos a servidores alternativos. Utiliza listas IPTV e seus links são instáveis , podem cair. Reporte erros ao SUPORTE.
 [COLOR black].[/COLOR]
@@ -53,12 +53,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>		
-<name>[COLOR white][B]FILMES NO SERVER 3 [/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/6-SEL-ALT-ALL/main/4C-FLMS-AV-S3-ALL</externallink>
-<thumbnail>https://i.ibb.co/pfL7ZSJ/LD-SERVER-3.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<name>[COLOR white][B]LISTA 3[/B][/COLOR]</name>
+<externallink>https://luminart.online/Lumi-Files/4-ALTs/03-FLMS-AV-3.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/04-SUB-MENUs/03-FLMs/04-ALT/01-FLM-ALT-3.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 <info>[COLOR white]Conheça a seção: 
-[B]FILMES NO SERVER 3
+[B]LISTA 3
 [COLOR black].[/COLOR]
 [COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalhos a servidores alternativos. Utiliza listas IPTV e seus links são instáveis , podem cair. Reporte erros ao SUPORTE.
 [COLOR black].[/COLOR]
@@ -74,12 +74,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>	
-<name>[COLOR white][B]FILMES NO SERVER 4[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/6-SEL-ALT-ALL/main/4D-FLMS-AV-S4-ALL</externallink>
-<thumbnail>https://i.ibb.co/TgR77ws/LD-SERVER-4.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<name>[COLOR white][B]LISTA 4[/B][/COLOR]</name>
+<externallink>https://luminart.online/Lumi-Files/4-ALTs/03-FLMS-AV-4.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/04-SUB-MENUs/03-FLMs/04-ALT/01-FLM-ALT-4.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 <info>[COLOR white]Conheça a seção: 
-[B]FILMES NO SERVER 4
+[B]LISTA 4
 [COLOR black].[/COLOR]
 [COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalhos a servidores alternativos. Utiliza listas IPTV e seus links são instáveis , podem cair. Reporte erros ao SUPORTE.
 [COLOR black].[/COLOR]
@@ -95,12 +95,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]FILMES NO SERVER 5[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/6-SEL-ALT-ALL/main/4D-FLMS-AV-S5-ALL</externallink>
-<thumbnail>https://i.ibb.co/0ybzYCwS/LD-SERVER-5.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<name>[COLOR white][B]LISTA 5[/B][/COLOR]</name>
+<externallink>https://luminart.online/Lumi-Files/4-ALTs/03-FLMS-AV-5.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/04-SUB-MENUs/03-FLMs/04-ALT/01-FLM-ALT-5.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 <info>[COLOR white]Conheça a seção: 
-[B]FILMES NO SERVER 5
+[B]LISTA 5
 [COLOR black].[/COLOR]
 [COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalhos a servidores alternativos. Utiliza listas IPTV e seus links são instáveis , podem cair. Reporte erros ao SUPORTE.
 [COLOR black].[/COLOR]
@@ -116,12 +116,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]FILMES NO SERVER 6[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/6-SEL-ALT-ALL/main/4D-FLMS-AV-S6-ALL</externallink>
-<thumbnail>https://i.ibb.co/F4KkvD8j/LD-SERVER-6.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<name>[COLOR white][B]LISTA 6[/B][/COLOR]</name>
+<externallink>https://luminart.online/Lumi-Files/4-ALTs/03-FLMS-AV-6.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/04-SUB-MENUs/03-FLMs/04-ALT/01-FLM-ALT-6.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 <info>[COLOR white]Conheça a seção: 
-[B]FILMES NO SERVER 5
+[B]LISTA 5
 [COLOR black].[/COLOR]
 [COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalhos a servidores alternativos. Utiliza listas IPTV e seus links são instáveis , podem cair. Reporte erros ao SUPORTE.
 [COLOR black].[/COLOR]
@@ -133,99 +133,15 @@ Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
-<name>[COLOR white][B]FILMES TG[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/6-SEL-ALT-ALL/refs/heads/main/4E-FLMS-AV-LG-ALL</externallink>
-<thumbnail>https://i.ibb.co/kSCRP8Z/LD-SERVER-TG.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
-<info>[COLOR white]Conheça a seção: 
-[B]FILMES TG
-[COLOR black].[/COLOR]
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalhos a servidores alternativos. Utiliza o TELEGRAM e seus links são instáveis , podem cair. Reporte erros ao SUPORTE.
-[COLOR black].[/COLOR]
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
-[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
-[COLOR black].[/COLOR]
-Encontrou erros ? 
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
-<name>[COLOR white][B]FILMES 2023 - SERVER AV-3[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/9-SEL-G.D-ALL/main/A1A-FLM-GD-2023-S3-ALL</externallink>
-<thumbnail>https://i.ibb.co/cvpfH1q/FILM-LD-SERV-5.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
-<info>[COLOR white]Conheça a seção: 
-[B]FILMES 2023
-SERVER AV-3
-[COLOR black].[/COLOR]
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalhos a servidores alternativos. Utiliza listas IPTV e seus links são instáveis , podem cair. Reporte erros ao SUPORTE.
-[COLOR black].[/COLOR]
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
-[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
-[COLOR black].[/COLOR]
-Encontrou erros ? 
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
-<name>[COLOR white][B]FILMES A <-> Z - SERVER AV[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/6-SEL-ALT-ALL/main/5A-SEL-FLM-A-Z-GD-ALL</externallink>
-<thumbnail>https://i.ibb.co/cvpfH1q/FILM-LD-SERV-5.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
-<info>[COLOR white]Conheça a seção: 
-[B]FILMES A <-> Z
-SERVER AV
-[COLOR black].[/COLOR]
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalhos a servidores alternativos. Utiliza listas IPTV e seus links são instáveis , podem cair. Reporte erros ao SUPORTE.
-[COLOR black].[/COLOR]
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
-[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
-[COLOR black].[/COLOR]
-Encontrou erros ? 
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
-<name>[COLOR white][B]FILMES POR DÉCADA - SERVER AV[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/6-SEL-ALT-ALL/main/5B-SEL-FLM-DEC-GD-ALL</externallink>
-<thumbnail>https://i.ibb.co/cvpfH1q/FILM-LD-SERV-5.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
-<info>[COLOR white]Conheça a seção: 
-[B]FILMES POR DÉCADA
-SERVER AV
-[COLOR black].[/COLOR]
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalhos a servidores alternativos. Utiliza listas IPTV e seus links são instáveis , podem cair. Reporte erros ao SUPORTE.
-[COLOR black].[/COLOR]
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
-[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
-[COLOR black].[/COLOR]
-Encontrou erros ? 
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR black].[/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/refs/heads/main/2D-SEL-FLMS-LD-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<externallink>https://luminart.online/Lumi-Files/1-SKIN/2C-SEL-FLMS-TORs.txt</externallink>	
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-ICONE.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -233,9 +149,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR orange][B]MENU DE RETORNO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/refs/heads/main/2D-SEL-FLMS-LD-ALL</externallink>
-<thumbnail>https://i.ibb.co/nbZ50B0/SEL-ITEM.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<externallink>https://luminart.online/Lumi-Files/1-SKIN/2C-SEL-FLMS-TORs.txt</externallink>	
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/RET-SEL-ITEM.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -243,9 +159,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]NOVIDADES DA SEMANA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/7-SEL-NEWS-ALL</externallink>
-<thumbnail>https://i.ibb.co/0c3Bj32/RET-MENU-NEWS.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<externallink>https://luminart.online/Lumi-Files/1-SKIN/7-SEL-NEWS-ALL.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/RET-MENU-NEWS.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 <info>[COLOR white]Atalho para a seção de:  
 [B]NOVIDADES DA SEMANA
 [COLOR black].[/COLOR]
@@ -263,9 +179,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]NOSTALGIA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/5-SEL-NSTLG-ALL</externallink>
-<thumbnail>https://i.ibb.co/vD7SyB5/RET-MENU-NSTLG.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<externallink>https://luminart.online/Lumi-Files/1-SKIN/5-SEL-NSTLG-ALL.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/RET-MENU-NSTLG.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 <info>[COLOR white]Atalho para a seção de:  
 [B]NOSTALGIA
 [COLOR black].[/COLOR]
@@ -283,9 +199,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]ESPECIAIS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/4-SEL-ESPC-ALL</externallink>
-<thumbnail>https://i.ibb.co/1Qz2bpD/RET-MENU-SPCS.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<externallink>https://luminart.online/Lumi-Files/1-SKIN/4-SEL-ESPC-ALL.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/RET-MENU-SPCS.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 <info>[COLOR white]Atalho para a seção de:  
 [B]ESPECIAIS
 [COLOR black].[/COLOR]
@@ -303,9 +219,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]SÉRIES[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/3-SEL-SRS-ALL</externallink>
-<thumbnail>https://i.ibb.co/bB5Gx7T/RET-MENU-SRS.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<externallink>https://luminart.online/Lumi-Files/1-SKIN/3-SEL-SRS-ALL.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/RET-MENU-SRS.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 <info>[COLOR white]Atalho para a seção de:  
 [B]SÉRIES
 [COLOR black].[/COLOR]
@@ -323,9 +239,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]FILMES[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/2-SEL-FLMS-ALL</externallink>
-<thumbnail>https://i.ibb.co/3yFZ2mG/RET-MENU-FLM.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<externallink>https://luminart.online/Lumi-Files/1-SKIN/2-SEL-FLMs-ALL.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/RET-MENU-FLM.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 <info>[COLOR white]Atalho para a seção de:  
 [B]FILMES
 [COLOR black].[/COLOR]
@@ -343,9 +259,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]MENU GERAL[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/1-CATEGORIAS-ALL</externallink>
-<thumbnail>https://i.ibb.co/xqRhHbc/RET-MENU-GRL.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<externallink>https://luminart.online/Lumi-Files/1-SKIN/1-CATEGORIAS-ALL.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/RET-MENU-GRL.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 <info>[COLOR white]Atalho para a seção de:  
 [B]MENU GERAL
 [COLOR black].[/COLOR]
