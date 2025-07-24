@@ -1,22 +1,22 @@
 <channels>
 <channel>				
-<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>				
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/2B-FLM-LANSA-ALL</externallink>			
-<thumbnail>https://i.ibb.co/ptnP3hj/SEL-ITEM-FLM.png</thumbnail>				
-<fanart>https://i.ibb.co/Xr8PH1yT/FAN-2.png</fanart>		
+<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO1[/B][/COLOR]</name>				
+<externallink>https://luminart.online/Lumi-Files/1-SKIN/2A-SEL-FLM-LAN.ALL.txt</externallink>			
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/SEL-ITEM-FLM.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 <info>FAÇA SUA ESCOLHA 
-E DIVIRTA-SE </info>			
+E DIVIRTA-SE </info>
 </channel>
-</channels>			
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
 <name>[COLOR white][B]LANÇAMENTOS - SERVER LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/2C-SEL-FLMS-LS-2024-ALL</externallink>
-<thumbnail>https://i.ibb.co/pjC1R8p/FLMS-LANSA.png</thumbnail>
-<fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>
+<externallink>https://luminart.online/Lumi-Files/1-SKIN/2A1-SEL-FLM-LAN-LS.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/05-SERVERs/SEL-LAN-FLM-LS-ICO.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 <info>[COLOR white]Conheça a seção: 
 [B]LANÇAMENTOS - LS
 [COLOR black].[/COLOR]
@@ -37,9 +37,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]LANÇAMENTOS - SERVER TORRENT[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/8-SEL-TOR-ALL/main/1A1-FLM-LANSA-TOR-ALL</externallink>
-<thumbnail>https://i.ibb.co/pjC1R8p/FLMS-LANSA.png</thumbnail>
-<fanart>https://i.ibb.co/Xr8PH1yT/FAN-2.png</fanart>
+<externallink>https://luminart.online/Lumi-Files/1-SKIN/2A2-SEL-FLM-LAN-TOR.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/05-SERVERs/SEL-LAN-FLM-TOR-ICO.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 <info>[COLOR white]Conheça a seção: 
 [B]LANÇAMENTOS TOR
 [COLOR black].[/COLOR]
@@ -60,9 +60,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR black].[/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/2B-FLM-LANSA-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/Xr8PH1yT/FAN-2.png</fanart>
+<externallink>https://luminart.online/Lumi-Files/1-SKIN/2A-SEL-FLM-LAN.ALL.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-ICONE.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -70,9 +70,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR orange][B]MENU DE RETORNO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/2B-FLM-LANSA-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/Xr8PH1yT/FAN-2.png</fanart>
+<externallink>https://luminart.online/Lumi-Files/1-SKIN/2A-SEL-FLM-LAN.ALL.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-ICONE.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -80,9 +80,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]VOLTAR AO MENU DE FILMES[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/2-SEL-FLMS-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/Xr8PH1yT/FAN-2.png</fanart>
+<externallink>https://luminart.online/Lumi-Files/1-SKIN/2-SEL-FLMS-ALL.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-ICONE.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 <info>[COLOR white]Atalho para a seção de:  
 [B]FILMES
 [COLOR black].[/COLOR]
@@ -100,9 +100,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]VOLTAR AO MENU DE NOVIDADES DA SEMANA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/7-SEL-NEWS-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/Xr8PH1yT/FAN-2.png</fanart>
+<externallink>https://luminart.online/Lumi-Files/1-SKIN/7-SEL-NEWS-ALL.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-ICONE.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 <info>[COLOR white]Atalho para a seção de:  
 [B]NOVIDADES DA SEMANA
 [COLOR black].[/COLOR]
@@ -120,9 +120,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]VOLTAR AO MENU DE SÉRIES[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/3-SEL-SRS-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/Xr8PH1yT/FAN-2.png</fanart>
+<externallink>https://luminart.online/Lumi-Files/1-SKIN/3-SEL-SRS-ALL.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-ICONE.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 <info>[COLOR white]Atalho para a seção de:  
 [B]SÉRIES
 [COLOR black].[/COLOR]
@@ -140,9 +140,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]VOLTAR AO MENU DE ESPECIAIS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/4-SEL-ESPC-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/Xr8PH1yT/FAN-2.png</fanart>
+<externallink>https://luminart.online/Lumi-Files/1-SKIN/4-SEL-ESPC-ALL.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-ICONE.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 <info>[COLOR white]Atalho para a seção de:  
 [B]ESPECIAIS
 [COLOR black].[/COLOR]
@@ -160,9 +160,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]VOLTAR AO MENU DE NOSTALGIA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/5-SEL-NSTLG-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/Xr8PH1yT/FAN-2.png</fanart>
+<externallink>https://luminart.online/Lumi-Files/1-SKIN/5-SEL-NSTLG-ALL.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-ICONE.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 <info>[COLOR white]Atalho para a seção de:  
 [B]NOSTALGIA
 [COLOR black].[/COLOR]
@@ -180,8 +180,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]VOLTAR AO MENU GERAL[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/1-CATEGORIAS-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
+<externallink>https://luminart.online/Lumi-Files/1-SKIN/1-CATEGORIAS-ALL.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-ICONE.png</thumbnail>
 <info>[COLOR white]Atalho para a seção de:  
 [B]MENU GERAL
 [COLOR black].[/COLOR]
