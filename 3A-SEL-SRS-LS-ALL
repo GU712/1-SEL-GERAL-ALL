@@ -1,8 +1,8 @@
 <channels>
 <channel>
-<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXOO[/B][/COLOR]</name>
-<externallink>https://luminart.online/Lumi-Files/1-SKIN/3B-SEL-SRS-LS.txt</externallink>
-<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/SEL-ITEM-MENU.png</thumbnail>
+<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO1[/B][/COLOR]</name>
+<externallink>https://luminart.online/Lumi-Files/B-SRS/00-BUILD-SRS/02-LS/3B-SEL-CAT-SRS-LS.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/SEL-ITEM-SRS.png</thumbnail>
 <fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 <info>FAÇA SUA ESCOLHA 
 E DIVIRTA-SE </info>
@@ -14,7 +14,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]SÉRIES[COLOR yellow] -> [COLOR white][COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://luminart.online/Lumi-Files/B-SRS/00-BUILD-SRS/02-LS/3B-SEL-CAT-SRS-LS.txt</externallink>
+<externallink>https://luminart.online/Lumi-Files/B-SRS/00-BUILD-SRS/02-LS/3B1-SEL-SRS-LS.txt</externallink>
 <thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/04-SUB-MENUs/04-SRSs/01-SRS/02-LS/LS-SEL-SRS-ICO.png</thumbnail>
 <fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 <info>[COLOR white]Conheça a seção: 
@@ -100,7 +100,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR black].[/COLOR]</name>
-<externallink>https://luminart.online/Lumi-Files/1-SKIN/2-SEL-FLMs.txt</externallink>
+<externallink>https://luminart.online/Lumi-Files/B-SRS/00-BUILD-SRS/3B-SEL-CAT-SRS-LS.txt</externallink>
 <thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-ICONE.png</thumbnail>
 <fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 </channel>
@@ -110,7 +110,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR orange][B]MENU DE RETORNO[/B][/COLOR]</name>
-<externallink>https://luminart.online/Lumi-Files/1-SKIN/2-SEL-FLMs.txt</externallink>
+<externallink>https://luminart.online/Lumi-Files/B-SRS/00-BUILD-SRS/3B-SEL-CAT-SRS-LS.txt</externallink>
 <thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/RET-SEL-ITEM.png</thumbnail>
 <fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 </channel>
