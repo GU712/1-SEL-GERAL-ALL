@@ -1,9 +1,9 @@
 <channels>
 <channel>				
-<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO2[/B][/COLOR]</name>				
-<externallink>https://luminart.online/Lumi-Files/1-SKIN/2C-SEL-FLMS-TORs.txt</externallink>			
-<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-IPLTS/SEL-ITEM-FLM.png</thumbnail>				
-<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>				
+<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO0[/B][/COLOR]</name>				
+<externallink>https://luminart.online/Lumi-Files/1-SKIN/2C-SEL-FLMS-TOR-ALL.txt</externallink>			
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart><fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart></fanart>				
 <info>[B]FAÇA SUA ESCOLHA 
 E DIVIRTA-SE[/B]</info>				
 </channel>
@@ -11,77 +11,16 @@ E DIVIRTA-SE[/B]</info>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-
-<name>[COLOR white][B]LISTA 1[/B][/COLOR]</name>
-<externallink>https://luminart.online/Lumi-Files/4-ALTs/03-FLMS-AV-1.txt</externallink>
-<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/04-SUB-MENUs/03-FLMs/04-ALT/01-FLM-ALT-1.png</thumbnail>
-<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
-<info>[COLOR white]Conheça a seção: 
-[B]LISTA 1
-[COLOR black].[/COLOR]
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalhos a servidores alternativos. Utiliza listas IPTV e seus links são instáveis , podem cair. Reporte erros ao SUPORTE.
-[COLOR black].[/COLOR]
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
-[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
-[COLOR black].[/COLOR]
-Encontrou erros ? 
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
-<name>[COLOR white][B]LISTA 2[/B][/COLOR]</name>
-<externallink>https://luminart.online/Lumi-Files/4-ALTs/03-FLMS-AV-2.txt</externallink>
-<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/04-SUB-MENUs/03-FLMs/04-ALT/01-FLM-ALT-2.png</thumbnail>
-<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
-<info>[COLOR white]Conheça a seção: 
-[B]LISTA 2
-[COLOR black].[/COLOR]
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalhos a servidores alternativos. Utiliza listas IPTV e seus links são instáveis , podem cair. Reporte erros ao SUPORTE.
-[COLOR black].[/COLOR]
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
-[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
-[COLOR black].[/COLOR]
-Encontrou erros ? 
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 <channels>
-<channel>		
-<name>[COLOR white][B]LISTA 3[/B][/COLOR]</name>
-<externallink>https://luminart.online/Lumi-Files/4-ALTs/03-FLMS-AV-3.txt</externallink>
-<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/04-SUB-MENUs/03-FLMs/04-ALT/01-FLM-ALT-3.png</thumbnail>
+<channel>
+<name>[COLOR white][B]LANÇAMENTOS EM TORRENT[/B][/COLOR]</name>
+<externallink>https://luminart.online/Lumi-Files/1-SKIN/2A2-SEL-FLM-LAN-TOR.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/05-SERVERs/SEL-LAN-FLM-TOR-ICO.png</thumbnail>
 <fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 <info>[COLOR white]Conheça a seção: 
-[B]LISTA 3
+[B]LANÇAMENTOS TOR
 [COLOR black].[/COLOR]
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalhos a servidores alternativos. Utiliza listas IPTV e seus links são instáveis , podem cair. Reporte erros ao SUPORTE.
-[COLOR black].[/COLOR]
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
-[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
-[COLOR black].[/COLOR]
-Encontrou erros ? 
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>	
-<name>[COLOR white][B]LISTA 4[/B][/COLOR]</name>
-<externallink>https://luminart.online/Lumi-Files/4-ALTs/03-FLMS-AV-4.txt</externallink>
-<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/04-SUB-MENUs/03-FLMs/04-ALT/01-FLM-ALT-4.png</thumbnail>
-<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
-<info>[COLOR white]Conheça a seção: 
-[B]LISTA 4
-[COLOR black].[/COLOR]
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalhos a servidores alternativos. Utiliza listas IPTV e seus links são instáveis , podem cair. Reporte erros ao SUPORTE.
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalhos para filmes em Torrents. Utiliza o ELEMENTUN e precisa de semeadores para serem eficientes.
 [COLOR black].[/COLOR]
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
 [B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
@@ -95,14 +34,15 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]LISTA 5[/B][/COLOR]</name>
-<externallink>https://luminart.online/Lumi-Files/4-ALTs/03-FLMS-AV-5.txt</externallink>
-<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/04-SUB-MENUs/03-FLMs/04-ALT/01-FLM-ALT-5.png</thumbnail>
-<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
+<name>[COLOR white][B]FILMES EM TORRENT - 2023[/B][/COLOR]</name>
+<externallink>https://luminart.online/Lumi-Files/5-TORs/04-FLM-TOR-2023.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/04-SUB-MENUs/03-FLMs/03-TOR/FLM-TOR-23-ICO.png</thumbnail>
+<fanart><fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart></fanart>
 <info>[COLOR white]Conheça a seção: 
-[B]LISTA 5
+[B]FILMES EM TORRENT
+2023
 [COLOR black].[/COLOR]
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalhos a servidores alternativos. Utiliza listas IPTV e seus links são instáveis , podem cair. Reporte erros ao SUPORTE.
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalhos para filmes em Torrents. Utiliza o ELEMENTUN e precisa de semeadores para serem eficientes.
 [COLOR black].[/COLOR]
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
 [B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
@@ -116,14 +56,59 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]LISTA 6[/B][/COLOR]</name>
-<externallink>https://luminart.online/Lumi-Files/4-ALTs/03-FLMS-AV-6.txt</externallink>
-<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/04-SUB-MENUs/03-FLMs/04-ALT/01-FLM-ALT-6.png</thumbnail>
-<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
+<name>[COLOR white][B]FILMES EM TORRENT - 2022[/B][/COLOR]</name>
+<externallink>https://luminart.online/Lumi-Files/5-TORs/03-FLM-TOR-2022.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/04-SUB-MENUs/03-FLMs/03-TOR/FLM-TOR-22-ICO.png</thumbnail>
+<fanart><fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart></fanart>
 <info>[COLOR white]Conheça a seção: 
-[B]LISTA 5
+[B]FILMES EM TORRENT
+2022
 [COLOR black].[/COLOR]
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalhos a servidores alternativos. Utiliza listas IPTV e seus links são instáveis , podem cair. Reporte erros ao SUPORTE.
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalhos para filmes em Torrents. Utiliza o ELEMENTUN e precisa de semeadores para serem eficientes.
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
+[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
+[COLOR black].[/COLOR]
+Encontrou erros ? 
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]FILMES EM TORRENT - 2021[/B][/COLOR]</name>
+<externallink>https://luminart.online/Lumi-Files/5-TORs/02-FLM-TOR-2021.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/04-SUB-MENUs/03-FLMs/03-TOR/FLM-TOR-21-ICO.png</thumbnail>
+<fanart><fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart></fanart>
+<info>[COLOR white]Conheça a seção: 
+[B]FILMES EM TORRENT
+2021
+[COLOR black].[/COLOR]
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalhos para filmes em Torrents. Utiliza o ELEMENTUN e precisa de semeadores para serem eficientes.
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
+[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
+[COLOR black].[/COLOR]
+Encontrou erros ? 
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]FILMES EM TORRENT - 2020[/B][/COLOR]</name>
+<externallink>https://luminart.online/Lumi-Files/5-TORs/01-FLM-TOR-2020.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/04-SUB-MENUs/03-FLMs/03-TOR/FLM-TOR-20-ICO.png</thumbnail>
+<fanart><fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart></fanart>
+<info>[COLOR white]Conheça a seção: 
+[B]FILMES EM TORRENT
+2020
+[COLOR black].[/COLOR]
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalhos para filmes em Torrents. Utiliza o ELEMENTUN e precisa de semeadores para serem eficientes.
 [COLOR black].[/COLOR]
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
 [B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
@@ -139,7 +124,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR black].[/COLOR]</name>
-<externallink>https://luminart.online/Lumi-Files/1-SKIN/2C-SEL-FLMS-TORs.txt</externallink>	
+<externallink>https://luminart.online/Lumi-Files/1-SKIN/2C-SEL-FLMS-TOR-ALL.txt</externallink>
 <thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-ICONE.png</thumbnail>
 <fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 </channel>
@@ -149,7 +134,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR orange][B]MENU DE RETORNO[/B][/COLOR]</name>
-<externallink>https://luminart.online/Lumi-Files/1-SKIN/2C-SEL-FLMS-TORs.txt</externallink>	
+<externallink>https://luminart.online/Lumi-Files/1-SKIN/2C-SEL-FLMS-TOR-ALL.txt</externallink>
 <thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/RET-SEL-ITEM.png</thumbnail>
 <fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 </channel>
