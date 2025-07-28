@@ -1,9 +1,9 @@
 <channels>
 <channel>				
-<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXOO[/B][/COLOR]</name>				
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/refs/heads/main/2E-SEL-FLM-S-LS-ALL</externallink>			
-<thumbnail>https://i.ibb.co/y53dfQJ/SEL-ITEM-GEN-ICON.png</thumbnail>				
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>				
+<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXOB[/B][/COLOR]</name>				
+<externallink>https://luminart.online/Lumi-Files/A-FLM/00-BUILD-FLM/2B-LS/00-CAT/2B1-SEL-FLM-LS-GEN.txt</externallink>			
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/SEL-ITEM-FLM.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>			
 <info>[B]FAÇA SUA ESCOLHA 
 E DIVIRTA-SE[/B]</info>				
 </channel>
@@ -14,9 +14,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]AÇÃO[/B][/COLOR] </name>
-<externallink>https://luminart.online/Lumi-Files/A-FLM/01-ACA/1-BUILD/1-LS-SEL-ACA-ALL.txt</externallink>
-<thumbnail>https://i.ibb.co/CVDjjJr/ASAO-ICO-GEN.png</thumbnail>
-<fanart>https://i.ibb.co/jLkkXk5/ASAO-FAN-ALL.png</fanart>
+<externallink>https://luminart.online/Lumi-Files/A-FLM/00-BUILD-FLM/2B-LS/01-ACA/2B1A-SEL-ACA.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/04-GNRs/01-IACA/ACA-ICO-GEN.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/04-GNRs/01-IACA/ACA-FAN.png</fanart>
 <info>[COLOR white]Filmes do gênero: 
 [B]AÇÃO
 [COLOR black].[/COLOR]
@@ -35,9 +35,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]ÉPICOS[/B][/COLOR]</name>
-<externallink>https://luminart.online/Lumi-Files/A-FLM/02-EPC/1-BUILD/1-LS-SEL-EPC-ALL.txt</externallink>
-<thumbnail>https://i.ibb.co/QndsKVR/EPC-ICO-GEN.png</thumbnail>
-<fanart>https://i.ibb.co/dtHMbTg/EPC-FAN-ALL.png</fanart>
+<externallink>https://luminart.online/Lumi-Files/A-FLM/02-EPC/1-BUILD/1-LS-SEL-EPC.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/04-GNRs/02-IEPC/EPC-ICO-GEN.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/04-GNRs/02-IEPC/EPC-FAN.png</fanart>
 <info>[COLOR white]Filmes do gênero: 
 [B]ÉPICOS
 [COLOR black].[/COLOR]
@@ -56,9 +56,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]GUERRA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2C-LS-GRR-ALL/main/1-LS-SEL-GRR-ALL</externallink>
-<thumbnail>https://i.ibb.co/vcNWKPS/GRR-ICO-GEN.png</thumbnail>
-<fanart>https://i.ibb.co/dkYwqqh/GRR-FAN-ALL.png</fanart>
+<externallink>https://luminart.online/Lumi-Files/A-FLM/03-GRR/1-BUILD/1-LS-SEL-GRR.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/04-GNRs/03-IGRR/GRR-ICO-GEN.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/04-GNRs/03-IGRR/GRR-FAN.png</fanart>
 <info>[COLOR white]Filmes do gênero: 
 [B]GUERRA
 [COLOR black].[/COLOR]
@@ -77,9 +77,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]COMÉDIA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/1-LS-SEL-COM-ALL</externallink>
-<thumbnail>https://i.ibb.co/mXVRVYM/COM-ICO-GEN.png</thumbnail>
-<fanart>https://i.ibb.co/Lh2y3Ch/COMEDIA-FAN-ALL.png</fanart>
+<externallink>https://luminart.online/Lumi-Files/A-FLM/04-COM/1-BUILD/1-LS-SEL-COM.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/04-GNRs/04-ICOM/COM-ICO-GEN.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/04-GNRs/04-ICOM/COM-FAN.png</fanart>
 <info>[COLOR white]Filmes do gênero: 
 [B]COMÉDIA
 [COLOR black].[/COLOR]
@@ -98,9 +98,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]WESTERN[/B][/COLOR]</name>
-<externallink>https://luminart.online/Lumi-Files/A-FLM/05-WST/1-BUILD/1-LS-SEL-WST-ALL.txt</externallink>
-<thumbnail>https://i.ibb.co/hFQGgxz/WST-ICO-GEN.png</thumbnail>
-<fanart>https://i.ibb.co/cvxTjWD/WST-FAN-ALL.png</fanart>
+<externallink>https://luminart.online/Lumi-Files/A-FLM/00-BUILD-FLM/2B-LS/05-WST/2B1E-SEL-WST.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/04-GNRs/05-IWST/WST-ICO-GEN.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/04-GNRs/05-IWST/WST-FAN.png</fanart>
 <info>[COLOR white]Filmes do gênero: 
 [B]WESTERN
 [COLOR black].[/COLOR]
@@ -119,9 +119,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]AVENTURA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2F-LS-AVT-ALL/main/1-LS-SEL-AVT-ALL</externallink>
-<thumbnail>https://i.ibb.co/S0RgjYb/AVT-ICO-GEN.png</thumbnail>
-<fanart>https://i.ibb.co/xgGPC1k/AVENTURA-FAN-ALL.png</fanart>
+<externallink>https://luminart.online/Lumi-Files/A-FLM/06-AVT/1-BUILD/1-LS-SEL-AVT.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/04-GNRs/06-IAVT/AVT-ICO-GEN.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/04-GNRs/06-IAVT/AVT-FAN.png</fanart>
 <info>[COLOR white]Filmes do gênero: 
 [B]AVENTURA
 [COLOR black].[/COLOR]
@@ -140,9 +140,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]ANIMAÇÃO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2G-LS-ANM-ALL/main/1-LS-SEL-ANM-ALL</externallink>
-<thumbnail>https://i.ibb.co/yd9wgRV/ANM-ICO-GEN.png</thumbnail>
-<fanart>https://i.ibb.co/X5xmLHy/ANIMACAO-FAN-ALL.png</fanart>
+<externallink>https://luminart.online/Lumi-Files/A-FLM/07-ANM/1-BUILD/1-LS-SEL-ANM.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/04-GNRs/07-IANM/ANM-ICO-GEN.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/04-GNRs/07-IANM/ANM-FAN.png</fanart>
 <info>[COLOR white]Filmes do gênero: 
 [B]ANIMAÇÃO
 [COLOR black].[/COLOR]
@@ -161,9 +161,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]SUPER-HERÓIS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/1-LS-SEL-SPH-ALL</externallink>
-<thumbnail>https://i.ibb.co/NCYSjcV/SPH-ICO-GEN.png</thumbnail>
-<fanart>https://i.ibb.co/JksHDWJ/SPH-FAN.png</fanart>
+<externallink>https://luminart.online/Lumi-Files/A-FLM/08-SPH/1-BUILD/1-LS-SEL-SPH.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/04-GNRs/08-ISPH/SPH-ICO-GEN.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/04-GNRs/08-ISPH/SPH-FAN.png</fanart>
 <info>[COLOR white]Filmes do gênero: 
 [B]SUPER-HERÓIS
 [COLOR black].[/COLOR]
@@ -182,9 +182,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]CRIME E DRAMA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/1-LS-SEL-CRDR-ALL</externallink>
-<thumbnail>https://i.ibb.co/nR1jC5M/CRDR-ICO-GEN.png</thumbnail>
-<fanart>https://i.ibb.co/gVj7SYN/CRDR-FAN-ALL.png</fanart>
+<externallink>https://luminart.online/Lumi-Files/A-FLM/09-CRDR/1-BUILD/1-LS-SEL-CRDR.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/04-GNRs/09-ICRDR/CRDR-ICO-GEN.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/04-GNRs/09-ICRDR/CRDR-FAN.png</fanart>
 <info>[COLOR white]Filmes do gênero: 
 [B]CRIME E DRAMA
 [COLOR black].[/COLOR]
@@ -203,9 +203,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]FICÇÃO E FANTASIA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/1-LS-SEL-FCFN-ALL</externallink>
-<thumbnail>https://i.ibb.co/Pc53MrG/FICFAN-ICO-GEN.png</thumbnail>
-<fanart>https://i.ibb.co/g63p8VZ/FIC-FAN-FAN-ALL.png</fanart>
+<externallink>https://luminart.online/Lumi-Files/A-FLM/10-FCFN/1-BUILD/1-LS-SEL-FCFN.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/04-GNRs/10-IFCFN/FCFN-ICO-GEN.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/04-GNRs/10-IFCFN/FCFN-FAN.png</fanart>
 <info>[COLOR white]Filmes do gênero: 
 [B]FICÇÃO E FANTASIA
 [COLOR black].[/COLOR]
@@ -224,9 +224,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]SUSPENSE E TERROR[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/1-LS-SEL-SPTR-ALL</externallink>
-<thumbnail>https://i.ibb.co/PCjzWyC/SPTR-ICO-GEN.png</thumbnail>
-<fanart>https://i.ibb.co/gW5ncS4/SPTR-FAN.png</fanart>
+<externallink>https://luminart.online/Lumi-Files/A-FLM/11-SPTR/1-BUILD/1-LS-SEL-SPTR.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/04-GNRs/11-ISPTR/SPTR-ICO-GEN.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/04-GNRs/11-ISPTR/SPTR-FAN.png</fanart>
 <info>[COLOR white]Filmes do gênero: 
 [B]SUSPENSE E TERROR
 [COLOR black].[/COLOR]
@@ -245,9 +245,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]DOCUMENTÁRIOS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2L-LS-DOCS-ALL/main/1-LS-SEL-DOCS-ALL</externallink>
-<thumbnail>https://i.ibb.co/GFCq6kf/DOCS-ICO-GEN.png</thumbnail>
-<fanart>https://i.ibb.co/KKKf4GX/DOCS-FAN.png</fanart>
+<externallink>https://luminart.online/Lumi-Files/A-FLM/12-DOCs/1-BUILD/C-SEL-SRS-DOCs-LS.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/04-GNRs/12-IDOCs/DOCs-ICO-GEN.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/04-GNRs/12-IDOCs/DOCs-FAN.png</fanart>
 <info>[COLOR white]Filmes do gênero: 
 [B]DOCUMENTÁRIOS
 [COLOR black].[/COLOR]
@@ -264,9 +264,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 
 <name>[COLOR white][B]SHOWS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2L-LS-DOCS-ALL/main/D1-SHOWs-ALT-1-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>
+<externallink>https://raw.githubusercontent.com/GU712/2L-LS-DOCS-ALL/main/D1-SHOWs-ALT-1.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/04-GNRs/01-IACA/ACA-ICO-GEN.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/04-GNRs/01-IACA/ACA-FAN.png</fanart>
 <info>[COLOR white]Filmes do gênero: 
 [B]SHOWS
 [COLOR black].[/COLOR]
@@ -285,9 +285,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR black].[/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/refs/heads/main/2E-SEL-FLM-S-LS-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<externallink>https://luminart.online/Lumi-Files/1-SKIN/2B1-SEL-FLM-LS-GEN.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-ICONE.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -295,9 +295,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR orange][B]MENU DE RETORNO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/refs/heads/main/2E-SEL-FLM-S-LS-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<externallink>https://luminart.online/Lumi-Files/1-SKIN/2B1-SEL-FLM-LS-GEN.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/RET-SEL-ITEM.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -305,9 +305,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]NOVIDADES DA SEMANA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/7-SEL-NEWS-ALL</externallink>
-<thumbnail>https://i.ibb.co/0c3Bj32/RET-MENU-NEWS.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<externallink>https://luminart.online/Lumi-Files/1-SKIN/7-SEL-NEWS.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/RET-MENU-NEWS.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 <info>[COLOR white]Atalho para a seção de:  
 [B]NOVIDADES DA SEMANA
 [COLOR black].[/COLOR]
@@ -325,9 +325,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]NOSTALGIA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/5-SEL-NSTLG-ALL</externallink>
-<thumbnail>https://i.ibb.co/vD7SyB5/RET-MENU-NSTLG.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<externallink>https://luminart.online/Lumi-Files/1-SKIN/5-SEL-NSTLG.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/RET-MENU-NSTLG.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 <info>[COLOR white]Atalho para a seção de:  
 [B]NOSTALGIA
 [COLOR black].[/COLOR]
@@ -345,9 +345,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]ESPECIAIS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/4-SEL-ESPC-ALL</externallink>
-<thumbnail>https://i.ibb.co/1Qz2bpD/RET-MENU-SPCS.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<externallink>https://luminart.online/Lumi-Files/1-SKIN/4-SEL-ESPC.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/RET-MENU-SPCS.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 <info>[COLOR white]Atalho para a seção de:  
 [B]ESPECIAIS
 [COLOR black].[/COLOR]
@@ -365,9 +365,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]SÉRIES[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/3-SEL-SRS-ALL</externallink>
-<thumbnail>https://i.ibb.co/bB5Gx7T/RET-MENU-SRS.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<externallink>https://luminart.online/Lumi-Files/1-SKIN/3-SEL-SRS.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/RET-MENU-SRS.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 <info>[COLOR white]Atalho para a seção de:  
 [B]SÉRIES
 [COLOR black].[/COLOR]
@@ -385,9 +385,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]FILMES[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/2-SEL-FLMS-ALL</externallink>
-<thumbnail>https://i.ibb.co/3yFZ2mG/RET-MENU-FLM.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<externallink>https://luminart.online/Lumi-Files/1-SKIN/2-SEL-FLMs.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/RET-MENU-FLM.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 <info>[COLOR white]Atalho para a seção de:  
 [B]FILMES
 [COLOR black].[/COLOR]
@@ -405,9 +405,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]MENU GERAL[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/1-CATEGORIAS-ALL</externallink>
-<thumbnail>https://i.ibb.co/xqRhHbc/RET-MENU-GRL.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<externallink>https://luminart.online/Lumi-Files/1-SKIN/1-CATEGORIAS.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/RET-MENU-GRL.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 <info>[COLOR white]Atalho para a seção de:  
 [B]MENU GERAL
 [COLOR black].[/COLOR]
