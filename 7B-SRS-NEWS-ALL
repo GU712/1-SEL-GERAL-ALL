@@ -36,7 +36,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]Cosmos (2014-2020) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2L-LS-DOCS-ALL/refs/heads/main/C005-SRS-DOCs-Cosmos.2014-ALL</externallink>
+<externallink>https://luminart.online/Lumi-Files/B-SRS/01-SRSs/12-DOCs/005-SRS-DOCs-Cosmos.2014.txt</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/5o07ps0QZ0bNoRYxTn9cPdRWlUu.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/2Nwbv0hrN8sThLvgooShcPqmFrO.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
@@ -58,7 +58,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]Alienígenas do Passado (2010-2025) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2L-LS-DOCS-ALL/refs/heads/main/C004-SRS-DOCs-Alienigenas.do.Passado.2010-ALL</externallink>
+<externallink>https://luminart.online/Lumi-Files/B-SRS/01-SRSs/12-DOCs/004-SRS-DOCs-Alienigenas.do.Passado.2010.txt</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/dlFaRJ3LwVBrZ3KV4OK4QRScY7p.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/yLzXkfBR0aYt00W3gboloVst98D.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
@@ -79,7 +79,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]Espíritos na Escola (2023-2025) - COMPLETA[COLOR yellow] -> [COLOR orange]LS10[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/refs/heads/main/C029-SRS-Espiritos.na.Escola.2023-ALL</externallink>
+<externallink>https://luminart.online/Lumi-Files/B-SRS/01-SRSs/11-SPTR/029-SRS-Espiritos.na.Escola.2023.txt</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/y3mmy2IJvLu7InRlXqGtraIB19y.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/99Sqx5GnT0Jtlq1xSsiJMCPKfPR.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
@@ -100,27 +100,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Resident Evil (Filmes - Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/refs/heads/main/D11-SEL-Resident.Evil-ALL</externallink>
-<thumbnail>https://i.ibb.co/mVP3NygX/ESP-RES-EVIL-ICO.png</thumbnail>
-<fanart>https://i.ibb.co/MLgTDg3/ESP-RES-EVIL-FAN.png</fanart>
-<info>[COLOR white]Conheça o especial: 
-[B]Resident Evil
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]TERROR
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-[/B][COLOR black].[/COLOR]
-Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
 <name>[COLOR white][B]A Roda do Tempo (2021-2025) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/refs/heads/main/C042-SRS-A.Roda.do.Tempo.2021-ALL</externallink>
+<externallink>https://luminart.online/Lumi-Files/B-SRS/01-SRSs/10-FCFN/042-SRS-A.Roda.do.Tempo.2021.txt</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/gJCO8GPnIgGpjuSYByjWoxJUlaG.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/asbLkGom4Zg5o1tNRJQ5jKXtd4l.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
@@ -139,10 +120,11 @@ Avise o SUPORTE AO USUÁRIO.
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+
 <channels>
 <channel>
 <name>[COLOR white][B]Guerreiros do Sol (2025) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS10[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/refs/heads/main/C063-SRS-Guerreiros.do.Sol.2025-ALL</externallink>
+<externallink>https://luminart.online/Lumi-Files/B-SRS/01-SRSs/09-CRDR/063-SRS-Guerreiros.do.Sol.2025.txt</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/51PSm1PXoRAhvfNc6VPHsIXmr2D.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/s1bycw0nj3fFgpvH2WMxz8gFj7N.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
@@ -219,354 +201,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 16 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Ela se transforma em uma "deusa" por causa de suas habilidades de maquiagem, 
 mas prefere morrer a revelar seu rosto despido para alguém.
-[/B][COLOR black].[/COLOR]
-Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]S.W.A.T. (1975) - INCOMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C018-SRS-SWAT-1975-ALL</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/nqAwPI72AxzFxPevUO2LqM0OFFu.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/zJUldDj1immG5ppySDNKElfDgci.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]S.W.A.T.
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
-[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1975
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPs - 38 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Quando você está com problemas, você chama a polícia. Quando a polícia está em apuros, 
-eles chamam a S.W.A.T.
-[/B][COLOR black].[/COLOR]
-Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]O Mundo dos Casados (2020) - COMPLETA[COLOR yellow] -> [COLOR orange]LS11[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/9-SEL-GSPL-DRMS-ALL/refs/heads/main/2B05-SRS-O.Mundo.dos.Casados.2020-ALL</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/4Nsb43pHzG7vDxAEHOgzvUGkM72.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/s5blC7jMtAOHcFxmdADqwHBby0X.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]O Mundo dos Casados
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2020
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]DORAMAS
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 16 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Sun-woo parece ter tudo, desde uma carreira de sucesso a uma família feliz,
- mas sem o conhecimento dela, ela é traída pelo marido e pelos amigos.
-[/B][COLOR black].[/COLOR]
-Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]Asura (2025) - COMPLETA[COLOR yellow] -> [COLOR orange]LS10[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/9-SEL-GSPL-DRMS-ALL/refs/heads/main/2B04-SRS-Asura.2025-ALL</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/6d4IrjS3t3O7dFynAmrLKXrSNwe.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/801476SmpE20vPI5sz9H5vgBYBq.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]Asura
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2025
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]DORAMAS
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 07 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Na Tóquio de 1979, quatro irmãs descobrem o caso secreto do pai. 
-Suas vidas aparentemente felizes começam a ruir, revelando emoções há muito reprimidas.
-[/B][COLOR black].[/COLOR]
-Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]Pergunte às Estrelas (2025) - COMPLETA[COLOR yellow] -> [COLOR orange]LS11[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/9-SEL-GSPL-DRMS-ALL/refs/heads/main/2B03-SRS-Pergunte.as.Estrelas.2025-ALL</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/jO8eCh0rLGQj7c1TwHqcCAvJegD.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/2GSFJHxjQMat6SL9cz73UU4O3dg.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]Pergunte às Estrelas
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2025
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]DORAMAS
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 15 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]De dois mundos diferentes e com missões separadas, uma astronauta e um 
-turista na mesma estação espacial acabam se apaixonando.
-[/B][COLOR black].[/COLOR]
-Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]Newtopia (2025) - COMPLETA[COLOR yellow] -> [COLOR orange]LS11[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/9-SEL-GSPL-DRMS-ALL/refs/heads/main/2B02-SRS-Newtopia.2025-ALL</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/58nXDbMVYpsNQ1POP5ZxbSMaqFb.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/olRPEYjyjzoMAODjOMjF2K1VlzO.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]Newtopia
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2025
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]DORAMAS
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 08 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Jae-yoon, militar, e sua namorada, Young-joo, terminam por ligação devido a 
-vários mal-entendidos. Só que um surto de zumbis assola o mundo. O país declara emergência,
-[/B][COLOR black].[/COLOR]
-Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]Um Amor de Cinema (2025) - COMPLETA[COLOR yellow] -> [COLOR orange]LS12[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/9-SEL-GSPL-DRMS-ALL/refs/heads/main/2B01-SRS-Um.Amor.de.Cinema.2025-ALL</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/r89dQ1SAKRuBZMmp2YL4Yekfwxn.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/1D5DiAEeOUHc7h4akzEVyjth54j.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]Um Amor de Cinema
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2025
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]DORAMAS
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 10 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Um cinéfilo e uma diretora novata vivem um romance intenso, porém breve. 
-Agora que a trama da vida os aproximou novamente, será que a história terá um novo fim?
-[/B][COLOR black].[/COLOR]
-Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]Raul Seixas: Eu Sou (2025) - COMPLETA[COLOR yellow] -> [COLOR orange]LS11[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2L-LS-DOCS-ALL/refs/heads/main/C003-SRS-DOCs-Raul.Seixas.Eu.Sou.2025-ALL</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/yj5ELEhjjupoY9Ffn2wAYUFod2p.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/zs39SM91Bk4GNqUCoyAeFqKERgK.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]Raul Seixas: Eu Sou
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2025
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]DRAMA
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 08 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]O jovem gênio Raul Seixas ambiciona fundar o rock brasileiro, porém sua 
-jornada é sabotada pela ditadura e a rejeição popular, além de seu maior inimigo: ele mesmo.
-[/B][COLOR black].[/COLOR]
-Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]América (2005) - COMPLETA[COLOR yellow] -> [COLOR orange]LS9[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/5-SEL-NVLS-ALL/refs/heads/main/A025-SRS-America.2005-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/e7mbGz3xHjAf35jWuTUg0bb3mCa.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/cFOSqbDylWXARvJaOlerUcGgVS6.jpg</fanart>
-<info>[COLOR white]Assista aqui a novela: 
-[B]América
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2005
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]DRAMA
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 203 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Movida pelo desejo de realizar seu grande sonho, uma brasileira atravessa a 
-fronteira do México e chega ilegalmente aos EUA.
-[/B][COLOR black].[/COLOR]
-Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]Topíssima (2019) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS9[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/5-SEL-NVLS-ALL/refs/heads/main/A052-SRS-Topissima.2019-ALL</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/ea0tmZB4JvRqsqpcDK7kXdGpevR.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/kAoPi3i1x2LOySw6tMFexCpVdBb.jpg</fanart>
-<info>[COLOR white]Assista aqui a novela: 
-[B]Topíssima
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2019
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 145 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Sophia Alencar, uma empresária do Rio de Janeiro, e Antonio Ramos, um taxista que mora 
-em uma comunidade, vivem um romance improvável quando se envolvem em uma investigação policial.
-[/B][COLOR black].[/COLOR]
-Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]Tropicaliente (1994) - COMPLETA[COLOR yellow] -> [COLOR orange]LS9[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/5-SEL-NVLS-ALL/refs/heads/main/A051-SRS-Tropicaliente.1994-ALL</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/osCAMxRiPJ4vbvb7tDD5D5pZFk.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/2gDuMcJeCWQFVzIiX481IiE9NdY.jpg</fanart>
-<info>[COLOR white]Assista aqui a novela: 
-[B]Tropicaliente
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANO[COLOR yellow] -> [COLOR white]19940
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]DRAMA
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 194 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Na juventude, quando o amor fala mais alto, Leticia deixa o luxo para 
-trás e vai viver seu romance com Ramiro. Ela é filha do rico empresário Gaspar, que não aceita a nova vida da moça.
-[/B][COLOR black].[/COLOR]
-Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]Plumas & Paetês (1980) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS9[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/5-SEL-NVLS-ALL/refs/heads/main/A050-SRS-Plumas.e.Paetes.1980-ALL</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/3ZusAzfyVDYNqjJyCKoAXiQ3qmt.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/xRTxntuyv8NwCtpkG3gpVHHxaQK.jpg</fanart>
-<info>[COLOR white]Assista aqui a novela: 
-[B]Plumas & Paetês
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1980
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]DRAMA
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 191 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Um acidente em direção a São Paulo põe a única sobrevivente, 
-Marcela, em contato com a família do motorista, Osmar, um amigo. Ela é confundida com Júlia, a noiva do rapaz, que também morrera.
-[/B][COLOR black].[/COLOR]
-Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]Reis (2022-2025) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS9[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/9-SEL-GSPL-DRMS-ALL/refs/heads/main/1B11-SRS-Reis-2022-ALL</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/7cqUTHh40bi0fx4cg5cPEX9Wbtu.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/vZCVWvGNWCcO0SKO2l1Je6kIXpv.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]Reis 
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2022 a 2025
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]GOSPEL
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]13 TEMPs - +300 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]A história da nação de Israel, do momento em que o último juiz, o profeta Samuel, 
-é usado por Deus para guiar o Seu povo, até a lamentável queda de Jerusalém, causada pelos exércitos da Babilônia.
-[/B][COLOR black].[/COLOR]
-Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]Wyatt Earp and the Cowboy War (2024) - COMPLETA[COLOR yellow] -> [COLOR orange]LS12[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2E-LS-WST-ALL/refs/heads/main/C022-SRS-Wyatt.Earp.and.the.Cowboy.War.2024-ALL</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/3J6MdyMKOb5bAEn0C6c3RtuqgT7.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/sWZ3Fjs66hJSlsqORsIAehu2K72.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]Wyatt Earp and the Cowboy War
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2024
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 06 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]A lendária disputa entre Wyatt Earp e Ike Clanton se desdobra por meio de 
-reconstituições vívidas neste drama documental sobre o tiroteio que definiu uma era.
-[/B][COLOR black].[/COLOR]
-Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]MINI-SÉRIES[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/5-SEL-NVLS-ALL/main/B-SEL-M-SRS-ALL</externallink>
-<thumbnail>https://i.ibb.co/chP6P46X/LS-MINISERIES-ITENS-ICO.png</thumbnail>
-<fanart>https://i.ibb.co/Xr8PH1yT/FAN-2.png</fanart>
-<info>[COLOR white]Conheça a seção: 
-[B]MINI-SÉRIES
-[COLOR black].[/COLOR]
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Mini-Séries no SERVER LS. Conteúdo em servidor contratado.Clique no item escolhido, e aguarde 40s que o link abre.
-[COLOR black].[/COLOR]
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
-[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
-[COLOR black].[/COLOR]
-Encontrou erros ? 
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]Chiquinha Gonzaga (1999) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/5-SEL-NVLS-ALL/refs/heads/main/B014-SRS-Chiquinha.Gonzaga.1999-ALL</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/3iV3rs2Gcmm7N4HxB8dlAQhyyJ4.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/ugWpWygiK84cG1ESswLfdXTcckg.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]Chiquinha Gonzaga
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1999
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]DRAMA
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 38 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Musicista revolucionária, republicana e abolicionista, Chiquinha Gonzaga 
-desafia a sociedade da época com sua postura, sua arte e seus amores.
-[/B][COLOR black].[/COLOR]
-Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]Rei Arthur (Filmes - Séries - Desenhos)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2F-LS-AVT-ALL/refs/heads/main/D11-SEL-Rei.Artur-ALL</externallink>
-<thumbnail>https://i.ibb.co/rGrxk0ff/ESP-REI-ARTUR-ICO.png</thumbnail>
-<fanart>https://i.ibb.co/4ZTqz0Z1/ESP-REI-ARTUR-FAN.png</fanart>
-<info>[COLOR white]Conheça o especial: 
-[B]Rei Arthur
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AVENTURA
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
 [/B][COLOR black].[/COLOR]
 Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
