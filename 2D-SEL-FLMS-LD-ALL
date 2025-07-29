@@ -1,10 +1,10 @@
 <channels>
 <channel>				
-<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXOB[/B][/COLOR]</name>				
+<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>				
 <externallink>https://luminart.online/Lumi-Files/1-SKIN/2D-SEL-FLMS-ALTs.txt</externallink>			
 <thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-IPLTS/SEL-ITEM-FLM.png</thumbnail>				
-<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>				
-<info>[B]FAÃ‡A SUA ESCOLHA 
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-IPLTS/ERROS-SUPORTE.png</fanart>				
+<info>[B]FAÇA SUA ESCOLHA 
 E DIVIRTA-SE[/B]</info>				
 </channel>
 </channels>			
@@ -12,40 +12,40 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 
-<name>[COLOR white][B]LISTA 1[/B][/COLOR]</name>
+<name>[COLOR white][B]FILMES NO SERVER 1[/B][/COLOR]</name>
 <externallink>https://luminart.online/Lumi-Files/A-FLM/00-BUILD-FLM/2D-ALT/2D1-FLMS-ALT-L1.txt</externallink>
-<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/04-SUB-MENUs/03-FLMs/04-ALT/01-FLM-ALT-1.png</thumbnail>
-<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
-<info>[COLOR white]ConheÃ§a a seÃ§Ã£o: 
-[B]LISTA 1
+<thumbnail>https://i.ibb.co/dBr4GsJ/LD-SERVER-1.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-IPLTS/ERROS-SUPORTE.png</fanart>
+<info>[COLOR white]Conheça a seção: 
+[B]FILMES NO SERVER 1
 [COLOR black].[/COLOR]
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalhos a servidores alternativos. Utiliza listas IPTV e seus links sÃ£o instÃ¡veis , podem cair. Reporte erros ao SUPORTE.
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalhos a servidores alternativos. Utiliza listas IPTV e seus links são instáveis , podem cair. Reporte erros ao SUPORTE.
 [COLOR black].[/COLOR]
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÃ‡Ã”ES cobrem os custos para manter o LUMINART sempre ON LINE.
-[B]"O ATO DE RETRIBUIR Ã‰ MAIOR , QUE O OFERTADO."[/B]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
+[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
 [COLOR black].[/COLOR]
 Encontrou erros ? 
-Avise o SUPORTE AO USUÃRIO.
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 
-<name>[COLOR white][B]LISTA 2[/B][/COLOR]</name>
+<name>[COLOR white][B]FILMES NO SERVER 2[/B][/COLOR]</name>
 <externallink>https://luminart.online/Lumi-Files/A-FLM/00-BUILD-FLM/2D-ALT/2D2-FLMS-ALT-L2.txt</externallink>
-<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/04-SUB-MENUs/03-FLMs/04-ALT/01-FLM-ALT-2.png</thumbnail>
-<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
-<info>[COLOR white]ConheÃ§a a seÃ§Ã£o: 
-[B]LISTA 2
+<thumbnail>https://i.ibb.co/TP46v4q/LD-SERVER-2.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-IPLTS/ERROS-SUPORTE.png</fanart>
+<info>[COLOR white]Conheça a seção: 
+[B]FILMES NO SERVER 2
 [COLOR black].[/COLOR]
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalhos a servidores alternativos. Utiliza listas IPTV e seus links sÃ£o instÃ¡veis , podem cair. Reporte erros ao SUPORTE.
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalhos a servidores alternativos. Utiliza listas IPTV e seus links são instáveis , podem cair. Reporte erros ao SUPORTE.
 [COLOR black].[/COLOR]
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÃ‡Ã”ES cobrem os custos para manter o LUMINART sempre ON LINE.
-[B]"O ATO DE RETRIBUIR Ã‰ MAIOR , QUE O OFERTADO."[/B]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
+[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
 [COLOR black].[/COLOR]
 Encontrou erros ? 
-Avise o SUPORTE AO USUÃRIO.
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
@@ -53,20 +53,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>		
-<name>[COLOR white][B]LISTA 3[/B][/COLOR]</name>
+<name>[COLOR white][B]FILMES NO SERVER 3 [/B][/COLOR]</name>
 <externallink>https://luminart.online/Lumi-Files/A-FLM/00-BUILD-FLM/2D-ALT/2D3-FLMS-ALT-L3.txt</externallink>
-<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/04-SUB-MENUs/03-FLMs/04-ALT/01-FLM-ALT-3.png</thumbnail>
-<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
-<info>[COLOR white]ConheÃ§a a seÃ§Ã£o: 
-[B]LISTA 3
+<thumbnail>https://i.ibb.co/pfL7ZSJ/LD-SERVER-3.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-IPLTS/ERROS-SUPORTE.png</fanart>
+<info>[COLOR white]Conheça a seção: 
+[B]FILMES NO SERVER 3
 [COLOR black].[/COLOR]
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalhos a servidores alternativos. Utiliza listas IPTV e seus links sÃ£o instÃ¡veis , podem cair. Reporte erros ao SUPORTE.
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalhos a servidores alternativos. Utiliza listas IPTV e seus links são instáveis , podem cair. Reporte erros ao SUPORTE.
 [COLOR black].[/COLOR]
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÃ‡Ã”ES cobrem os custos para manter o LUMINART sempre ON LINE.
-[B]"O ATO DE RETRIBUIR Ã‰ MAIOR , QUE O OFERTADO."[/B]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
+[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
 [COLOR black].[/COLOR]
 Encontrou erros ? 
-Avise o SUPORTE AO USUÃRIO.
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
@@ -74,20 +74,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>	
-<name>[COLOR white][B]LISTA 4[/B][/COLOR]</name>
+<name>[COLOR white][B]FILMES NO SERVER 4[/B][/COLOR]</name>
 <externallink>https://luminart.online/Lumi-Files/A-FLM/00-BUILD-FLM/2D-ALT/2D4-FLMS-ALT-L4.txt</externallink>
-<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/04-SUB-MENUs/03-FLMs/04-ALT/01-FLM-ALT-4.png</thumbnail>
-<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
-<info>[COLOR white]ConheÃ§a a seÃ§Ã£o: 
-[B]LISTA 4
+<thumbnail>https://i.ibb.co/TgR77ws/LD-SERVER-4.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-IPLTS/ERROS-SUPORTE.png</fanart>
+<info>[COLOR white]Conheça a seção: 
+[B]FILMES NO SERVER 4
 [COLOR black].[/COLOR]
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalhos a servidores alternativos. Utiliza listas IPTV e seus links sÃ£o instÃ¡veis , podem cair. Reporte erros ao SUPORTE.
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalhos a servidores alternativos. Utiliza listas IPTV e seus links são instáveis , podem cair. Reporte erros ao SUPORTE.
 [COLOR black].[/COLOR]
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÃ‡Ã”ES cobrem os custos para manter o LUMINART sempre ON LINE.
-[B]"O ATO DE RETRIBUIR Ã‰ MAIOR , QUE O OFERTADO."[/B]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
+[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
 [COLOR black].[/COLOR]
 Encontrou erros ? 
-Avise o SUPORTE AO USUÃRIO.
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
@@ -95,20 +95,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]LISTA 5[/B][/COLOR]</name>
+<name>[COLOR white][B]FILMES NO SERVER 5[/B][/COLOR]</name>
 <externallink>https://luminart.online/Lumi-Files/A-FLM/00-BUILD-FLM/2D-ALT/2D5-FLMS-ALT-L5.txt</externallink>
-<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/04-SUB-MENUs/03-FLMs/04-ALT/01-FLM-ALT-5.png</thumbnail>
-<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
-<info>[COLOR white]ConheÃ§a a seÃ§Ã£o: 
-[B]LISTA 5
+<thumbnail>https://i.ibb.co/0ybzYCwS/LD-SERVER-5.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-IPLTS/ERROS-SUPORTE.png</fanart>
+<info>[COLOR white]Conheça a seção: 
+[B]FILMES NO SERVER 5
 [COLOR black].[/COLOR]
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalhos a servidores alternativos. Utiliza listas IPTV e seus links sÃ£o instÃ¡veis , podem cair. Reporte erros ao SUPORTE.
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalhos a servidores alternativos. Utiliza listas IPTV e seus links são instáveis , podem cair. Reporte erros ao SUPORTE.
 [COLOR black].[/COLOR]
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÃ‡Ã”ES cobrem os custos para manter o LUMINART sempre ON LINE.
-[B]"O ATO DE RETRIBUIR Ã‰ MAIOR , QUE O OFERTADO."[/B]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
+[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
 [COLOR black].[/COLOR]
 Encontrou erros ? 
-Avise o SUPORTE AO USUÃRIO.
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
@@ -116,23 +116,107 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]LISTA 6[/B][/COLOR]</name>
+<name>[COLOR white][B]FILMES NO SERVER 6[/B][/COLOR]</name>
 <externallink>https://luminart.online/Lumi-Files/A-FLM/00-BUILD-FLM/2D-ALT/2D6-FLMS-ALT-L6.txt</externallink>
-<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/04-SUB-MENUs/03-FLMs/04-ALT/01-FLM-ALT-6.png</thumbnail>
-<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
-<info>[COLOR white]ConheÃ§a a seÃ§Ã£o: 
-[B]LISTA 5
+<thumbnail>https://i.ibb.co/F4KkvD8j/LD-SERVER-6.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-IPLTS/ERROS-SUPORTE.png</fanart>
+<info>[COLOR white]Conheça a seção: 
+[B]FILMES NO SERVER 5
 [COLOR black].[/COLOR]
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalhos a servidores alternativos. Utiliza listas IPTV e seus links sÃ£o instÃ¡veis , podem cair. Reporte erros ao SUPORTE.
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalhos a servidores alternativos. Utiliza listas IPTV e seus links são instáveis , podem cair. Reporte erros ao SUPORTE.
 [COLOR black].[/COLOR]
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÃ‡Ã”ES cobrem os custos para manter o LUMINART sempre ON LINE.
-[B]"O ATO DE RETRIBUIR Ã‰ MAIOR , QUE O OFERTADO."[/B]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
+[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
 [COLOR black].[/COLOR]
 Encontrou erros ? 
-Avise o SUPORTE AO USUÃRIO.
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+<name>[COLOR white][B]FILMES TG[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/6-SEL-ALT-ALL/refs/heads/main/4E-FLMS-AV-LG-ALL.txt</externallink>
+<thumbnail>https://i.ibb.co/kSCRP8Z/LD-SERVER-TG.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-IPLTS/ERROS-SUPORTE.png</fanart>
+<info>[COLOR white]Conheça a seção: 
+[B]FILMES TG
+[COLOR black].[/COLOR]
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalhos a servidores alternativos. Utiliza o TELEGRAM e seus links são instáveis , podem cair. Reporte erros ao SUPORTE.
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
+[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
+[COLOR black].[/COLOR]
+Encontrou erros ? 
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+<name>[COLOR white][B]FILMES 2023 - SERVER AV-3[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/9-SEL-G.D-ALL/main/A1A-FLM-GD-2023-S3-ALL.txt</externallink>
+<thumbnail>https://i.ibb.co/cvpfH1q/FILM-LD-SERV-5.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-IPLTS/ERROS-SUPORTE.png</fanart>
+<info>[COLOR white]Conheça a seção: 
+[B]FILMES 2023
+SERVER AV-3
+[COLOR black].[/COLOR]
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalhos a servidores alternativos. Utiliza listas IPTV e seus links são instáveis , podem cair. Reporte erros ao SUPORTE.
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
+[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
+[COLOR black].[/COLOR]
+Encontrou erros ? 
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+<name>[COLOR white][B]FILMES A <-> Z - SERVER AV[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/6-SEL-ALT-ALL/main/5A-SEL-FLM-A-Z-GD-ALL.txt</externallink>
+<thumbnail>https://i.ibb.co/cvpfH1q/FILM-LD-SERV-5.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-IPLTS/ERROS-SUPORTE.png</fanart>
+<info>[COLOR white]Conheça a seção: 
+[B]FILMES A <-> Z
+SERVER AV
+[COLOR black].[/COLOR]
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalhos a servidores alternativos. Utiliza listas IPTV e seus links são instáveis , podem cair. Reporte erros ao SUPORTE.
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
+[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
+[COLOR black].[/COLOR]
+Encontrou erros ? 
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+<name>[COLOR white][B]FILMES POR DÉCADA - SERVER AV[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/6-SEL-ALT-ALL/main/5B-SEL-FLM-DEC-GD-ALL.txt</externallink>
+<thumbnail>https://i.ibb.co/cvpfH1q/FILM-LD-SERV-5.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-IPLTS/ERROS-SUPORTE.png</fanart>
+<info>[COLOR white]Conheça a seção: 
+[B]FILMES POR DÉCADA
+SERVER AV
+[COLOR black].[/COLOR]
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalhos a servidores alternativos. Utiliza listas IPTV e seus links são instáveis , podem cair. Reporte erros ao SUPORTE.
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
+[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
+[COLOR black].[/COLOR]
+Encontrou erros ? 
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -141,7 +225,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <name>[COLOR black].[/COLOR]</name>
 <externallink>https://luminart.online/Lumi-Files/1-SKIN/2D-SEL-FLMS-ALTs.txt</externallink>	
 <thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-ICONE.png</thumbnail>
-<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-IPLTS/ERROS-SUPORTE.png</fanart>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -150,8 +234,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR orange][B]MENU DE RETORNO[/B][/COLOR]</name>
 <externallink>https://luminart.online/Lumi-Files/1-SKIN/2D-SEL-FLMS-ALTs.txt</externallink>	
-<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/RET-SEL-ITEM.png</thumbnail>
-<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/02-RETORNO/RET-SEL-ITEM.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-IPLTS/ERROS-SUPORTE.png</fanart>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -160,17 +244,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR white][B]NOVIDADES DA SEMANA[/B][/COLOR]</name>
 <externallink>https://luminart.online/Lumi-Files/1-SKIN/7-SEL-NEWS-ALL.txt</externallink>
-<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/RET-MENU-NEWS.png</thumbnail>
-<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
-<info>[COLOR white]Atalho para a seÃ§Ã£o de:  
+<thumbnail>https://i.ibb.co/0c3Bj32/RET-MENU-NEWS.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-IPLTS/ERROS-SUPORTE.png</fanart>
+<info>[COLOR white]Atalho para a seção de:  
 [B]NOVIDADES DA SEMANA
 [COLOR black].[/COLOR]
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalhos provisÃ³rios aos conteÃºdos novos que foram adicionados no SERVER LS durante a semana, Ã© dividida em dois setores FILMES e SÃ‰RIES. 
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalhos provisórios aos conteúdos novos que foram adicionados no SERVER LS durante a semana, é dividida em dois setores FILMES e SÉRIES. 
 [COLOR black].[/COLOR]
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÃ‡Ã”ES cobrem os custos para manter o LUMINART sempre ON LINE.
-[B]"O ATO DE RETRIBUIR Ã‰ MAIOR , QUE O OFERTADO."[/B]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
+[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
 [COLOR black].[/COLOR]
- AGILIZE SUA NAVEGAÃ‡ÃƒO
+ AGILIZE SUA NAVEGAÇÃO
 USE ESSE LINK DE ATALHO[/COLOR]</info>
 </channel>
 </channels>
@@ -181,16 +265,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <name>[COLOR white][B]NOSTALGIA[/B][/COLOR]</name>
 <externallink>https://luminart.online/Lumi-Files/1-SKIN/5-SEL-NSTLG-ALL.txt</externallink>
 <thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/RET-MENU-NSTLG.png</thumbnail>
-<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
-<info>[COLOR white]Atalho para a seÃ§Ã£o de:  
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-IPLTS/ERROS-SUPORTE.png</fanart>
+<info>[COLOR white]Atalho para a seção de:  
 [B]NOSTALGIA
 [COLOR black].[/COLOR]
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalho para o conteÃºdo raro e antigo, lanÃ§ados atÃ© ano 2000 , organizado por dÃ©cadas, material comprado de colecionadores com as CONTRIBUIÃ‡Ã•ES recebidas.
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalho para o conteúdo raro e antigo, lançados até ano 2000 , organizado por décadas, material comprado de colecionadores com as CONTRIBUIÇÕES recebidas.
 [COLOR black].[/COLOR]
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÃ‡Ã”ES cobrem os custos para manter o LUMINART sempre ON LINE.
-[B]"O ATO DE RETRIBUIR Ã‰ MAIOR , QUE O OFERTADO."[/B]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
+[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
 [COLOR black].[/COLOR]
- AGILIZE SUA NAVEGAÃ‡ÃƒO
+ AGILIZE SUA NAVEGAÇÃO
 USE ESSE LINK DE ATALHO[/COLOR]</info>
 </channel>
 </channels>
@@ -201,16 +285,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <name>[COLOR white][B]ESPECIAIS[/B][/COLOR]</name>
 <externallink>https://luminart.online/Lumi-Files/1-SKIN/4-SEL-ESPC-ALL.txt</externallink>
 <thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/RET-MENU-SPCS.png</thumbnail>
-<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
-<info>[COLOR white]Atalho para a seÃ§Ã£o de:  
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-IPLTS/ERROS-SUPORTE.png</fanart>
+<info>[COLOR white]Atalho para a seção de:  
 [B]ESPECIAIS
 [COLOR black].[/COLOR]
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalho para a seÃ§Ã£o com as Franquias Especiais , Cine Gospel e Doramas ...Um espaÃ§o para o conteÃºdo extraordinÃ¡rio e nÃ£o convencional. 
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalho para a seção com as Franquias Especiais , Cine Gospel e Doramas ...Um espaço para o conteúdo extraordinário e não convencional. 
 [COLOR black].[/COLOR]
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÃ‡Ã”ES cobrem os custos para manter o LUMINART sempre ON LINE.
-[B]"O ATO DE RETRIBUIR Ã‰ MAIOR , QUE O OFERTADO."[/B]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
+[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
 [COLOR black].[/COLOR]
- AGILIZE SUA NAVEGAÃ‡ÃƒO
+ AGILIZE SUA NAVEGAÇÃO
 USE ESSE LINK DE ATALHO[/COLOR]</info>
 </channel>
 </channels>
@@ -218,19 +302,19 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]SÃ‰RIES[/B][/COLOR]</name>
+<name>[COLOR white][B]SÉRIES[/B][/COLOR]</name>
 <externallink>https://luminart.online/Lumi-Files/1-SKIN/3-SEL-SRS-ALL.txt</externallink>
 <thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/RET-MENU-SRS.png</thumbnail>
-<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
-<info>[COLOR white]Atalho para a seÃ§Ã£o de:  
-[B]SÃ‰RIES
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-IPLTS/ERROS-SUPORTE.png</fanart>
+<info>[COLOR white]Atalho para a seção de:  
+[B]SÉRIES
 [COLOR black].[/COLOR]
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalho para conteÃºdos em SÃ©ries, Novelas, Desenhos e Animes que sÃ£o apresentados em diversos episÃ³dios de curta duraÃ§Ã£o, no decorrer de diversas temporadas.
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalho para conteúdos em Séries, Novelas, Desenhos e Animes que são apresentados em diversos episódios de curta duração, no decorrer de diversas temporadas.
 [COLOR black].[/COLOR]
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÃ‡Ã”ES cobrem os custos para manter o LUMINART sempre ON LINE.
-[B]"O ATO DE RETRIBUIR Ã‰ MAIOR , QUE O OFERTADO."[/B]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
+[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
 [COLOR black].[/COLOR]
- AGILIZE SUA NAVEGAÃ‡ÃƒO
+ AGILIZE SUA NAVEGAÇÃO
 USE ESSE LINK DE ATALHO[/COLOR]</info>
 </channel>
 </channels>
@@ -241,16 +325,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <name>[COLOR white][B]FILMES[/B][/COLOR]</name>
 <externallink>https://luminart.online/Lumi-Files/1-SKIN/2-SEL-FLMs-ALL.txt</externallink>
 <thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/RET-MENU-FLM.png</thumbnail>
-<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
-<info>[COLOR white]Atalho para a seÃ§Ã£o de:  
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-IPLTS/ERROS-SUPORTE.png</fanart>
+<info>[COLOR white]Atalho para a seção de:  
 [B]FILMES
 [COLOR black].[/COLOR]
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalho para conteÃºdos em formato para ser exibido no cinema, televisÃ£o ou outro veÃ­culo, sendo curtos ou longos. Utiliza diversos servidores.
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalho para conteúdos em formato para ser exibido no cinema, televisão ou outro veículo, sendo curtos ou longos. Utiliza diversos servidores.
 [COLOR black].[/COLOR]
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÃ‡Ã”ES cobrem os custos para manter o LUMINART sempre ON LINE.
-[B]"O ATO DE RETRIBUIR Ã‰ MAIOR , QUE O OFERTADO."[/B]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
+[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
 [COLOR black].[/COLOR]
- AGILIZE SUA NAVEGAÃ‡ÃƒO
+ AGILIZE SUA NAVEGAÇÃO
 USE ESSE LINK DE ATALHO[/COLOR]</info>
 </channel>
 </channels>
@@ -261,16 +345,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <name>[COLOR white][B]MENU GERAL[/B][/COLOR]</name>
 <externallink>https://luminart.online/Lumi-Files/1-SKIN/1-CATEGORIAS-ALL.txt</externallink>
 <thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/RET-MENU-GRL.png</thumbnail>
-<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
-<info>[COLOR white]Atalho para a seÃ§Ã£o de:  
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-IPLTS/ERROS-SUPORTE.png</fanart>
+<info>[COLOR white]Atalho para a seção de:  
 [B]MENU GERAL
 [COLOR black].[/COLOR]
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalho para o menu principal retorne e realize uma nova escolha entre as seÃ§Ãµes do Add on.
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalho para o menu principal retorne e realize uma nova escolha entre as seções do Add on.
 [COLOR black].[/COLOR]
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÃ‡Ã”ES cobrem os custos para manter o LUMINART sempre ON LINE.
-[B]"O ATO DE RETRIBUIR Ã‰ MAIOR , QUE O OFERTADO."[/B]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
+[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
 [COLOR black].[/COLOR]
- AGILIZE SUA NAVEGAÃ‡ÃƒO
+ AGILIZE SUA NAVEGAÇÃO
 USE ESSE LINK DE ATALHO[/COLOR]</info>
 </channel>
 </channels>
