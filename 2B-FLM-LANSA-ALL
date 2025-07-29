@@ -1,7 +1,7 @@
 <channels>
 <channel>				
-<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXOO[/B][/COLOR]</name>				
-<externallink>https://luminart.online/Lumi-Files/1-SKIN/2A-SEL-FLM-LAN.txt</externallink>			
+<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXOB[/B][/COLOR]</name>				
+<externallink>https://luminart.online/Lumi-Files/1-SKIN/2A-SEL-FLM-LAN-ALL.txt</externallink>			
 <thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/SEL-ITEM-FLM.png</thumbnail>
 <fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 <info>FAÇA SUA ESCOLHA 
@@ -14,7 +14,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]LANÇAMENTOS - SERVER LS[/B][/COLOR]</name>
-<externallink>https://luminart.online/Lumi-Files/A-FLM/00-BUILD-FLM/01-LAN/2A1-FLM-LAN-LS.txt</externallink>
+<externallink>https://luminart.online/Lumi-Files/A-FLM/00-BUILD-FLM/2A-LAN/2A1-FLM-LAN-LS.txt</externallink>
 <thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/05-SERVERs/SEL-LAN-FLM-LS-ICO.png</thumbnail>
 <fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 <info>[COLOR white]Conheça a seção: 
@@ -37,7 +37,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]LANÇAMENTOS - SERVER TORRENT[/B][/COLOR]</name>
-<externallink>https://luminart.online/Lumi-Files/A-FLM/00-BUILD-FLM/01-LAN/2A2-FLM-LAN-TOR.txt</externallink>
+<externallink>https://luminart.online/Lumi-Files/A-FLM/00-BUILD-FLM/2A-LAN/2A2-FLM-LAN-TOR.txt</externallink>
 <thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/05-SERVERs/SEL-LAN-FLM-TOR-ICO.png</thumbnail>
 <fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 <info>[COLOR white]Conheça a seção: 
@@ -60,7 +60,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR black].[/COLOR]</name>
-<externallink>https://luminart.online/Lumi-Files/1-SKIN/2A-SEL-FLM-LAN.txt</externallink>	
+<externallink>https://luminart.online/Lumi-Files/1-SKIN/2A-SEL-FLM-LAN-ALL.txt</externallink>	
 <thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-ICONE.png</thumbnail>
 <fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 </channel>
@@ -70,7 +70,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR orange][B]MENU DE RETORNO[/B][/COLOR]</name>
-<externallink>https://luminart.online/Lumi-Files/1-SKIN/2A-SEL-FLM-LAN.txt</externallink>	
+<externallink>https://luminart.online/Lumi-Files/1-SKIN/2A-SEL-FLM-LAN-ALL.txt</externallink>	
 <thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/RET-SEL-ITEM.png</thumbnail>
 <fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 </channel>
