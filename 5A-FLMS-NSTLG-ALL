@@ -1,9 +1,9 @@
 <channels>
 <channel>
-<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/7-NOST-ALL-LS/refs/heads/main/2-SEL-FLM-NOST-LS-ALL</externallink>
-<thumbnail>https://i.ibb.co/0ZMvRFx/SEL-ITEM-FLM-ICON.png</thumbnail>				
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>		
+<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXOB[/B][/COLOR]</name>
+<externallink>https://luminart.online/Lumi-Files/1-SKIN/5A-FLM-NOST.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/SEL-ITEM-FLM.png</thumbnail>				
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>		
 <info>FAÇA SUA ESCOLHA 
 E DIVIRTA-SE </info>
 </channel>
@@ -13,9 +13,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 
 <name>[COLOR white][B]Anos 20 (Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/7-NOST-ALL-LS/main/2A1-SEL-FLM-20-LS-ALL</externallink>
-<thumbnail></thumbnail>
-<fanart>https://i.ibb.co/YTF8F1d5/FAN-DEC-NOSTALGIA.png</fanart>
+<externallink>https://luminart.online/Lumi-Files/D-NOST/5A-FLM/5A2-SEL-NOST-FLM-20.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/05-INST/5A-IFLM-NOST/ICO-ANOS-20-FLM.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/05-INST/FAN-DEC-NOST.png</fanart>
 <info>[COLOR white]Assista filmes por década : 
 [B]Anos 20
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
@@ -28,11 +28,12 @@ Avise o SUPORTE AO USUÁRIO.
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-
+<channels>
+<channel>
 <name>[COLOR white][B]Anos 30 (Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/7-NOST-ALL-LS/main/2A2-SEL-FLM-30-LS-ALL</externallink>
-<thumbnail>https://i.ibb.co/twBctzBw/ICO-ANOS-30-FLM.png</thumbnail>
-<fanart>https://i.ibb.co/YTF8F1d5/FAN-DEC-NOSTALGIA.png</fanart>
+<externallink>https://luminart.online/Lumi-Files/D-NOST/5A-FLM/5A3-SEL-NOST-FLM-30.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/05-INST/5A-IFLM-NOST/ICO-ANOS-30-FLM.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/05-INST/FAN-DEC-NOST.png</fanart>
 <info>[COLOR white]Assista filmes por década : 
 [B]Anos 30
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
@@ -48,9 +49,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]Anos 40 (Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/7-NOST-ALL-LS/main/2A3-SEL-FLM-40-LS-ALL</externallink>
-<thumbnail>https://i.ibb.co/FLkKWXWV/ICO-ANOS-40-FLM.png</thumbnail>
-<fanart>https://i.ibb.co/YTF8F1d5/FAN-DEC-NOSTALGIA.png</fanart>
+<externallink>https://luminart.online/Lumi-Files/D-NOST/5A-FLM/5A4-SEL-NOST-FLM-40.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/05-INST/5A-IFLM-NOST/ICO-ANOS-40-FLM.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/05-INST/FAN-DEC-NOST.png</fanart>
 <info>[COLOR white]Assista filmes por década : 
 [B]Anos 1940 a 1949
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
@@ -66,9 +67,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]Anos 50 (Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/7-NOST-ALL-LS/main/2A4-SEL-FLM-50-LS-ALL</externallink>
-<thumbnail>https://i.ibb.co/N299L0bs/ICO-ANOS-50-FLM.png</thumbnail>
-<fanart>https://i.ibb.co/YTF8F1d5/FAN-DEC-NOSTALGIA.png</fanart>
+<externallink>https://luminart.online/Lumi-Files/D-NOST/5A-FLM/5A5-SEL-NOST-FLM-50.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/05-INST/5A-IFLM-NOST/ICO-ANOS-50-FLM.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/05-INST/FAN-DEC-NOST.png</fanart>
 <info>[COLOR white]Assista filmes por década : 
 [B]Anos 1950 a 1959
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
@@ -84,9 +85,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]Anos 60 (Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/7-NOST-ALL-LS/main/2A5-SEL-FLM-60-LS-ALL</externallink>
-<thumbnail>https://i.ibb.co/BHgPnQWz/ICO-ANOS-60-FLM.png</thumbnail>
-<fanart>https://i.ibb.co/YTF8F1d5/FAN-DEC-NOSTALGIA.png</fanart>
+<externallink>https://luminart.online/Lumi-Files/D-NOST/5A-FLM/5A6-SEL-NOST-FLM-60.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/05-INST/5A-IFLM-NOST/ICO-ANOS-60-FLM.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/05-INST/FAN-DEC-NOST.png</fanart>
 <info>[COLOR white]Assista filmes por década : 
 [B]Anos 1960 a 1969
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
@@ -102,9 +103,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]Anos 70 (Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/7-NOST-ALL-LS/main/2A6-SEL-FLM-70-LS-ALL</externallink>
-<thumbnail>https://i.ibb.co/PvqdPNSs/ICO-ANOS-70-FLM.png</thumbnail>
-<fanart>https://i.ibb.co/YTF8F1d5/FAN-DEC-NOSTALGIA.png</fanart>
+<externallink>https://luminart.online/Lumi-Files/D-NOST/5A-FLM/5A7-SEL-NOST-FLM-70.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/05-INST/5A-IFLM-NOST/ICO-ANOS-70-FLM.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/05-INST/FAN-DEC-NOST.png</fanart>
 <info>[COLOR white]Assista filmes por década : 
 [B]Anos 1970 a 1979
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
@@ -120,9 +121,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]Anos 80 (Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/7-NOST-ALL-LS/main/2A7-SEL-FLM-80-LS-ALL</externallink>
-<thumbnail>https://i.ibb.co/TBMhQvMB/ICO-ANOS-80-FLM.png</thumbnail>
-<fanart>https://i.ibb.co/YTF8F1d5/FAN-DEC-NOSTALGIA.png</fanart>
+<externallink>https://luminart.online/Lumi-Files/D-NOST/5A-FLM/5A8-SEL-NOST-FLM-80.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/05-INST/5A-IFLM-NOST/ICO-ANOS-80-FLM.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/05-INST/FAN-DEC-NOST.png</fanart>
 <info>[COLOR white]Assista filmes por década : 
 [B]Anos 1980 a 1989
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
@@ -138,9 +139,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]Anos 90 (Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/7-NOST-ALL-LS/main/2A8-SEL-FLM-90-LS-ALL</externallink>
-<thumbnail>https://i.ibb.co/m5SK95ts/ICO-ANOS-90-FLM.png</thumbnail>
-<fanart>https://i.ibb.co/YTF8F1d5/FAN-DEC-NOSTALGIA.png</fanart>
+<externallink>https://luminart.online/Lumi-Files/D-NOST/5A-FLM/5A9-SEL-NOST-FLM-90.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/05-INST/5A-IFLM-NOST/ICO-ANOS-90-FLM.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/05-INST/FAN-DEC-NOST.png</fanart>
 <info>[COLOR white]Assista filmes por década : 
 [B]Anos 1990 a 1999
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
@@ -157,9 +158,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR black].[/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/7-NOST-ALL-LS/refs/heads/main/2-SEL-FLM-NOST-LS-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<externallink>https://raw.githubusercontent.com/GU712/7-NOST-ALL-LS/refs/heads/main/2-SEL-FLM-NOST-LS-ALL.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-ICONE.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -167,9 +168,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR orange][B]MENU DE RETORNO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/7-NOST-ALL-LS/refs/heads/main/2-SEL-FLM-NOST-LS-ALL</externallink>
-<thumbnail>https://i.ibb.co/nbZ50B0/SEL-ITEM.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<externallink>https://raw.githubusercontent.com/GU712/7-NOST-ALL-LS/refs/heads/main/2-SEL-FLM-NOST-LS-ALL.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/02-RETORNO/RET-SEL-ITEM.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -177,9 +178,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]NOVIDADES DA SEMANA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/7-SEL-NEWS-ALL</externallink>
-<thumbnail>https://i.ibb.co/0c3Bj32/RET-MENU-NEWS.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<externallink>https://luminart.online/Lumi-Files/1-SKIN/7-SEL-NEWS.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/RET-MENU-NEWS.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 <info>[COLOR white]Atalho para a seção de:  
 [B]NOVIDADES DA SEMANA
 [COLOR black].[/COLOR]
@@ -197,9 +198,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]NOSTALGIA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/5-SEL-NSTLG-ALL</externallink>
-<thumbnail>https://i.ibb.co/vD7SyB5/RET-MENU-NSTLG.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<externallink>https://luminart.online/Lumi-Files/1-SKIN/5-SEL-NOST.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/RET-MENU-NSTLG.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 <info>[COLOR white]Atalho para a seção de:  
 [B]NOSTALGIA
 [COLOR black].[/COLOR]
@@ -217,9 +218,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]ESPECIAIS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/4-SEL-ESPC-ALL</externallink>
-<thumbnail>https://i.ibb.co/1Qz2bpD/RET-MENU-SPCS.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<externallink>https://luminart.online/Lumi-Files/1-SKIN/4-SEL-ESP.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/RET-MENU-SPCS.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 <info>[COLOR white]Atalho para a seção de:  
 [B]ESPECIAIS
 [COLOR black].[/COLOR]
@@ -237,9 +238,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]SÉRIES[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/3-SEL-SRS-ALL</externallink>
-<thumbnail>https://i.ibb.co/bB5Gx7T/RET-MENU-SRS.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<externallink>https://luminart.online/Lumi-Files/1-SKIN/3-SEL-SRS-ALL.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/RET-MENU-SRS.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 <info>[COLOR white]Atalho para a seção de:  
 [B]SÉRIES
 [COLOR black].[/COLOR]
@@ -257,9 +258,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]FILMES[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/2-SEL-FLMS-ALL</externallink>
-<thumbnail>https://i.ibb.co/3yFZ2mG/RET-MENU-FLM.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<externallink>https://luminart.online/Lumi-Files/1-SKIN/2-SEL-FLM-ALL.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/RET-MENU-FLM.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 <info>[COLOR white]Atalho para a seção de:  
 [B]FILMES
 [COLOR black].[/COLOR]
@@ -277,9 +278,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]MENU GERAL[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/1-CATEGORIAS-ALL</externallink>
-<thumbnail>https://i.ibb.co/xqRhHbc/RET-MENU-GRL.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<externallink>https://luminart.online/Lumi-Files/1-SKIN/1-CATEGORIAS-ALL.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/RET-MENU-GRL.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 <info>[COLOR white]Atalho para a seção de:  
 [B]MENU GERAL
 [COLOR black].[/COLOR]
