@@ -1,9 +1,9 @@
 <channels>
 <channel>				
-<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXOB[/B][/COLOR]</name>				
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/refs/heads/main/1-CATEGORIAS-ALL</externallink>			
-<thumbnail>https://i.ibb.co/VqdfqnK/SEL-ITEM-ALL-ICON.png</thumbnail>				
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>				
+<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>				
+<externallink>https://luminart.online/Lumi-Files/1-SKIN/1-CATEGORIAS-ALL.txt</externallink>			
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/03-CTGRS/CT-SEL-ITEM-ALL-ICO.png</thumbnail>				
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>				
 <info>[B]FAÇA SUA ESCOLHA 
 E DIVIRTA-SE[/B]</info>				
 </channel>
@@ -14,9 +14,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]NOVIDADES DA SEMANA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/refs/heads/main/7-SEL-NEWS-ALL</externallink>
-<thumbnail>https://i.ibb.co/GvnKJKFB/NEWS-ICO-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<externallink>https://luminart.online/Lumi-Files/1-SKIN/7-SEL-NEWS.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/03-CTGRS/CT-NEWS-ICO-ALL.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 <info>[COLOR white]Conheça a seção: 
 [B]NOVIDADES DA SEMANA
 [COLOR black].[/COLOR]
@@ -36,8 +36,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR white][B]FILMES[/B][/COLOR]</name>
 <externallink>https://luminart.online/Lumi-Files/1-SKIN/2-SEL-FLMs-ALL.txt</externallink>
-<thumbnail>https://i.ibb.co/5WdQ9j4Q/FLM-ICO-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/03-CTGRS/CT-FLM-ICO-ALL.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 <info>[COLOR white]Conheça a seção: 
 [B]FILMES
 [COLOR black].[/COLOR]
@@ -56,9 +56,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]SÉRIES[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/refs/heads/main/3-SEL-SRS-ALL</externallink>
-<thumbnail>https://i.ibb.co/Ld6KmSWB/SRS-ICO-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<externallink>https://luminart.online/Lumi-Files/1-SKIN/3-SEL-SRS-ALL.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/03-CTGRS/CT-SRS-ICO-ALL.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 <info>[COLOR white]Conheça a seção: 
 [B]SÉRIES
 [COLOR black].[/COLOR]
@@ -77,9 +77,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]ESPECIAIS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/refs/heads/main/4-SEL-ESPC-ALL</externallink>
-<thumbnail>https://i.ibb.co/TMvbJzT0/ESPECIAIS-ICO-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<externallink>https://luminart.online/Lumi-Files/1-SKIN/4-SEL-ESP.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/03-CTGRS/CT-ESP-ICO-ALL.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 <info>[COLOR white]Conheça a seção: 
 [B]ESPECIAIS
 [COLOR black].[/COLOR]
@@ -98,9 +98,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]NOSTALGIA[/B][/COLOR]</name>
-<externallink>https://luminart.online/BACK/Lumi-Files/1-SKIN/5-SEL-NOST.txt</externallink>
-<thumbnail>https://luminart.online/BACK/Lumi-Files/2-IMG/01-ISKIN/03-CTGRS/CT-NOST-ICO-ALL.png</thumbnail>
-<fanart>https://luminart.online/BACK/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/ERROS-SUPORTE.png</fanart>
+<externallink>https://luminart.online/Lumi-Files/1-SKIN/5-SEL-NOST.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/03-CTGRS/CT-NOST-ICO-ALL.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 <info>[COLOR white]Conheça a seção: 
 [B]NOSTALGIA
 [COLOR black].[/COLOR]
@@ -119,9 +119,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]TV ONLINE[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/refs/heads/main/6-SEL-TVs-ALL</externallink>
-<thumbnail>https://i.ibb.co/DfzwjV1X/TV-ONLINE-ICO-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<externallink>https://luminart.online/Lumi-Files/1-SKIN/6-SEL-TVs.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/03-CTGRS/CT-TV-ON-ICO-ALL.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 <info>[COLOR white]Conheça a seção: 
 [B]TV ONLINE
 [COLOR black].[/COLOR]
@@ -137,30 +137,10 @@ Avise o SUPORTE AO USUÁRIO.
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR white][B]PEDIDOS DO USUÁRIO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/REPOINFOS/master/1A5-ACESSRESTR-PEDIDOSDO%20USUARIO</externallink>
-<thumbnail>https://i.ibb.co/HLWPBLtq/PEDIDOS-ICO-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
-<info>[COLOR white]Conheça a seção: 
-[B]PEDIDOS DO USUÁRIO
-[COLOR black].[/COLOR]
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Nosso Principal diferencial , SUPORTE TÉCNICO individualizado e capacidade de atender os PEDIDOS DO USUÁRIO adicionando conteúdo solicitado pelo mesmo.
-[COLOR black].[/COLOR]
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
-[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
-[COLOR black].[/COLOR]
-Encontrou erros ? 
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 
 <name>[COLOR white][B]ESPECIAL DE NATAL LUMINART[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/refs/heads/main/A1-SEL-ESPC-NATAL-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/refs/heads/main/A1-SEL-ESPC-NATAL-ALL.txt</externallink>
 <thumbnail>https://i.ibb.co/YNbR15m/NATAL-ICO.png</thumbnail>
 <fanart>https://i.ibb.co/svLrQks/NATAL-FAN.png</fanart>
 <info>FELIZ NATAL</info>
@@ -171,9 +151,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[B][COLOR black].[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/6-SEL-ALT-ALL/refs/heads/main/3Z-XXX-S2-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/6-SEL-ALT-ALL/refs/heads/main/3Z-XXX-S2-ALL.txt</externallink>
 <thumbnail>https://i.pinimg.com/222x/6e/72/b2/6e72b2589de1d422b69012e40eff2c15.jpg</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -181,9 +161,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[B][COLOR black].[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/refs/heads/main/A2-SEL-CURSOS-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/refs/heads/main/A2-SEL-CURSOS-ALL.txt</externallink>
 <thumbnail>https://i.ibb.co/bW5g6cj/ABA.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -192,8 +172,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[B][COLOR black].[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/REPOTESTES-LUMINART/refs/heads/main/TESTES</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-ICONE.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
