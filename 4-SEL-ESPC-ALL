@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXOB[/B][/COLOR]</name>
+<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
 <externallink>https://luminart.online/Lumi-Files/1-SKIN/4-SEL-ESP.txt</externallink>
 <thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/SEL-ITEM-ESP-ICO.png</thumbnail>
 <fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>				
@@ -15,7 +15,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR white][B]SEÇÃO FRANQUIAS[/B][/COLOR]</name>
 <externallink>https://luminart.online/Lumi-Files/1-SKIN/4A-SEL-ESP-FRNQ.txt</externallink>
-<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/04-SUB-MENUs/05-ESPCs/01-BUILD/ESP-CINE-GOSPEL-ICO.png</thumbnail>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/04-IESP/00-BUILD/4A-IFRNQ/00-BUILD/ESPECIAIS-ICO-ALL.png</thumbnail>
 <fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 <info>[COLOR white]Conheça a Seção: 
 [B]FRANQUIAS
@@ -34,7 +34,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR white][B]SEÇÃO CINE GOSPEL[/B][/COLOR]</name>
 <externallink>https://luminart.online/Lumi-Files/1-SKIN/4B-SEL-ESP-GSPL.txt</externallink>
-<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/04-SUB-MENUs/05-ESPCs/02-GSPL/ESP-CINE-GOSPEL-ICO.png</thumbnail>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/04-IESP/00-BUILD/4B-IGSPL/ESP-CINE-GOSPEL-ICO.png</thumbnail>
 <fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 <info>[COLOR white]Conheça a Seção: 
 [B]CINE GOSPEL
@@ -53,7 +53,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR white][B]SEÇÃO DORAMAS[/B][/COLOR]</name>
 <externallink>https://luminart.online/Lumi-Files/1-SKIN/4C-SEL-ESP-DRM.txt</externallink>
-<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/04-SUB-MENUs/05-ESPCs/03-DRMS/ESP-DORAMAS-ICO.png</thumbnail>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/04-IESP/00-BUILD/4C-IDRMS/ESP-DORAMAS-ICO.png</thumbnail>
 <fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>	
 <info>[COLOR white]Conheça a Seção: 
 [B]DORAMAS
