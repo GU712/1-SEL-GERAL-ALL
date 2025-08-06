@@ -1,6 +1,6 @@
 <channels>
 <channel>				
-<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXOB[/B][/COLOR]</name>				
+<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>				
 <externallink>https://luminart.online/Lumi-Files/1-SKIN/7B-SRS-NEWS.txt</externallink>			
 <thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/SEL-ITEM-SRS.png</thumbnail>				
 <fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>				
@@ -10,6 +10,27 @@ E DIVIRTA-SE[/B]</info>
 </channels>			
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Tom e Jerry (1940-1958) - INCOMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://luminart.online/Lumi-Files/B-SRS/03-DSHs/B-SRS/B048-SRS-Tom.Jerry.1940.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/03-ISRS/02-IDSHs/B-SRS/Tom-e-Jerry-ico.jpg</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/03-ISRS/02-IDSHs/B-SRS/Tom-e-Jerry-fan.jpg</fanart>
+<info>[COLOR white]Assista aqui o desenho: 
+[B]Tom e Jerry
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1940 a 1958
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPs - 162 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Jerry sabe bem como irritar o Tom, mas sabe ainda mais como fugir dele.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
