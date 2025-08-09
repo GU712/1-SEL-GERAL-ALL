@@ -1,27 +1,47 @@
 <channels>
-<channel>
-<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXOB[/B][/COLOR]</name>
-<externallink>https://luminart.online/Lumi-Files/1-SKIN/3B-SEL-CAT-SRS-LS.txt</externallink>
+<channel>				
+<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXOB[/B][/COLOR]</name>				
+<externallink>https://luminart.online/Lumi-Files/1-SKIN/3-SEL-SRS-ALL.txt</externallink>			
 <thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/SEL-ITEM-SRS.png</thumbnail>
 <fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 <info>FAÇA SUA ESCOLHA 
 E DIVIRTA-SE </info>
 </channel>
-</channels>
+</channels>		
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]SÉRIES[COLOR yellow] -> [COLOR white][COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://luminart.online/Lumi-Files/B-SRS/00-BUILD-SRS/02-LS/01-SRS/3B1-SEL-SRS-LS.txt</externallink>
+<name>[COLOR white][B]SÉRIES EM LANÇAMENTO[/B][/COLOR]</name>
+<externallink>https://luminart.online/Lumi-Files/1-SKIN/3A-SEL-SRS-LAN-ALL.txt</externallink>	
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/04-SUB-MENUs/04-SRSs/01-SRS/01-LAN/SEL-SRS-LAN-ICO.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
+<info>[COLOR white]Conheça a seção: 
+[B]SÉRIES EM LANÇAMENTO
+[COLOR black].[/COLOR]
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Dedicada aos conteúdos novos na categoria SÉRIES EM LANÇAMENTO. Disponibiliza conteúdo em diversos servidores.
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
+[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
+[COLOR black].[/COLOR]
+Encontrou erros ? 
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]SERVER LS - SÉRIES[/B][/COLOR]</name>
+<externallink>https://luminart.online/Lumi-Files/1-SKIN/3B-SEL-CAT-SRS-LS.txt</externallink>
 <thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/04-SUB-MENUs/04-SRSs/01-SRS/02-LS/LS-SEL-SRS-ICO.png</thumbnail>
 <fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 <info>[COLOR white]Conheça a seção: 
-[B]SERVER LS
-SÉRIES POR GÊNERO
+[B]SERVER LS - SÉRIES
 [COLOR black].[/COLOR]
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Séries no SERVER LS. Conteúdo em servidor contratado.Clique no item escolhido, e aguarde 40s que o link abre.
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalhos para séries no SERVER LS. Disponibiliza conteúdo em servidor contratado.Clique no item escolhido, e aguarde 40s que o link abre.
 [COLOR black].[/COLOR]
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
 [B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
@@ -31,18 +51,18 @@ Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]DESENHOS[COLOR yellow] -> [COLOR white][COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://luminart.online/Lumi-Files/B-SRS/03-DSHs/01-BUILD/1-SEL-DSH-LS.txt</externallink>
-<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/04-SUB-MENUs/04-SRSs/02-DSH/LS-SEL-DSH-ICO.png</thumbnail>
+<name>[COLOR white][B]TORRENT - SÉRIES[/B][/COLOR]</name>
+<externallink>https://luminart.online/Lumi-Files/1-SKIN/3B-SEL-SRS-LS.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/04-SUB-MENUs/04-SRSs/01-SRS/03-TOR/TOR-SEL-SRS-ICO.png</thumbnail>
 <fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 <info>[COLOR white]Conheça a seção: 
-[B]DESENHOS
+[B]TORRENT - SÉRIES
 [COLOR black].[/COLOR]
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Desenhos no SERVER LS. Conteúdo em servidor contratado.Clique no item escolhido, e aguarde 40s que o link abre.
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalhos a séries em Torrents. Utiliza o ELEMENTUN e precisa de semeadores para serem eficientes.
 [COLOR black].[/COLOR]
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
 [B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
@@ -54,16 +74,15 @@ Avise o SUPORTE AO USUÁRIO.
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR white][B]NOVELAS[COLOR yellow] -> [COLOR white][COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://luminart.online/Lumi-Files/B-SRS/00-BUILD-SRS/02-LS/03-NVL/3B1-SEL-NVL.txt</externallink>	
-<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/04-SUB-MENUs/04-SRSs/03-NVL/LS-SEL-NVL-ICO.png</thumbnail>
+
+<name>[COLOR white][B]SERVER ALT - SÉRIES[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/3D-SEL-SRS-ALT-ALL</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/04-SUB-MENUs/04-SRSs/01-SRS/04-ALT/ALT-SEL-SRS-ICO.png</thumbnail>
 <fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 <info>[COLOR white]Conheça a seção: 
-[B]NOVELAS
+[B]SERVER ALT - SÉRIES
 [COLOR black].[/COLOR]
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Novelas no SERVER LS. Conteúdo em servidor contratado.Clique no item escolhido, e aguarde 40s que o link abre.
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalhos a servidores alternativos. Utiliza listas IPTV e seus links são instáveis , podem cair. Reporte erros ao SUPORTE.
 [COLOR black].[/COLOR]
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
 [B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
@@ -74,33 +93,12 @@ Avise o SUPORTE AO USUÁRIO.
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]ANIMES[COLOR yellow] -> [COLOR white][COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://luminart.online/Lumi-Files/B-SRS/00-BUILD-SRS/02-LS/04-ANMs/3B1-SEL-ANMs-LS.txt</externallink>
-<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/04-SUB-MENUs/04-SRSs/04-ANMs/LS-SEL-ANMs-ICO.png</thumbnail>
-<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
-<info>[COLOR white]Conheça a seção: 
-[B]ANIMES
-[COLOR black].[/COLOR]
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Animes no SERVER LS. Conteúdo em servidor contratado.Clique no item escolhido, e aguarde 40s que o link abre.
-[COLOR black].[/COLOR]
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
-[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
-[COLOR black].[/COLOR]
-Encontrou erros ? 
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR black].[/COLOR]</name>
-<externallink>https://luminart.online/Lumi-Files/1-SKIN/3B-SEL-CAT-SRS-LS.txt</externallink>
+<externallink>https://luminart.online/Lumi-Files/1-SKIN/3-SEL-SRS-ALL.txt</externallink>
 <thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-ICONE.png</thumbnail>
 <fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 </channel>
@@ -110,7 +108,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR orange][B]MENU DE RETORNO[/B][/COLOR]</name>
-<externallink>https://luminart.online/Lumi-Files/1-SKIN/3B-SEL-CAT-SRS-LS.txt</externallink>
+<externallink>https://luminart.online/Lumi-Files/1-SKIN/3-SEL-SRS-ALL.txt</externallink>
 <thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/RET-SEL-ITEM.png</thumbnail>
 <fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 </channel>
