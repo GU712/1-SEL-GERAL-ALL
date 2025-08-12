@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXOB[/B][/COLOR]</name>
+<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
 <externallink>https://luminart.online/Lumi-Files/1-SKIN/5A-FLM-NOST.txt</externallink>
 <thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/SEL-ITEM-FLM.png</thumbnail>				
 <fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>		
@@ -11,7 +11,8 @@ E DIVIRTA-SE </info>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-
+<channels>
+<channel>
 <name>[COLOR white][B]Anos 20 (Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://luminart.online/Lumi-Files/D-NOST/5A-FLM/5A2-SEL-NOST-FLM-20.txt</externallink>
 <thumbnail>https://luminart.online/Lumi-Files/2-IMG/05-INST/5A-IFLM-NOST/ICO-ANOS-20-FLM.png</thumbnail>
@@ -258,7 +259,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]FILMES[/B][/COLOR]</name>
-<externallink>https://luminart.online/Lumi-Files/1-SKIN/2-SEL-FLM-ALL.txt</externallink>
+<externallink>https://luminart.online/Lumi-Files/1-SKIN/2-SEL-FLMs-ALL.txt</externallink>
 <thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/RET-MENU-FLM.png</thumbnail>
 <fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 <info>[COLOR white]Atalho para a seção de:  
