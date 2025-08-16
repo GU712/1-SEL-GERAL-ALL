@@ -92,9 +92,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]NOVIDADES DA SEMANA[/B][/COLOR]</name>
-<externallink>https://luminart.online/BACK/Lumi-Files/1-SKIN/7-SEL-NEWS.txt</externallink>
-<thumbnail>https://luminart.online/BACK/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/RET-MENU-NEWS.png</thumbnail>
-<fanart>https://luminart.online/BACK/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
+<externallink>https://luminart.online/Lumi-Files/1-SKIN/7-SEL-NEWS.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/RET-MENU-NEWS.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 <info>[COLOR white]Atalho para a seção de:  
 [B]NOVIDADES DA SEMANA
 [COLOR black].[/COLOR]
@@ -112,7 +112,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]NOSTALGIA[/B][/COLOR]</name>
-<externallink>https://luminart.online/BACK/Lumi-Files/1-SKIN/5-SEL-NOST.txt</externallink>
+<externallink>https://luminart.online/Lumi-Files/1-SKIN/5-SEL-NOST.txt</externallink>
 <thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/RET-MENU-NSTLG.png</thumbnail>
 <fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 <info>[COLOR white]Atalho para a seção de:  
@@ -132,9 +132,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]ESPECIAIS[/B][/COLOR]</name>
-<externallink>https://luminart.online/BACK/Lumi-Files/1-SKIN/4-SEL-ESP.txt</externallink>
-<thumbnail>https://luminart.online/BACK/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/RET-MENU-SPCS.png</thumbnail>
-<fanart>https://luminart.online/BACK/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
+<externallink>https://luminart.online/Lumi-Files/1-SKIN/4-SEL-ESP.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/RET-MENU-SPCS.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 <info>[COLOR white]Atalho para a seção de:  
 [B]ESPECIAIS
 [COLOR black].[/COLOR]
@@ -152,9 +152,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]SÉRIES[/B][/COLOR]</name>
-<externallink>https://luminart.online/BACK/Lumi-Files/1-SKIN/3-SEL-SRS-ALL.txt</externallink>
-<thumbnail>https://luminart.online/BACK/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/RET-MENU-SRS.png</thumbnail>
-<fanart>https://luminart.online/BACK/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
+<externallink>https://luminart.online/Lumi-Files/1-SKIN/3-SEL-SRS-ALL.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/RET-MENU-SRS.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 <info>[COLOR white]Atalho para a seção de:  
 [B]SÉRIES
 [COLOR black].[/COLOR]
@@ -172,9 +172,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]FILMES[/B][/COLOR]</name>
-<externallink>https://luminart.online/BACK/Lumi-Files/1-SKIN/2-SEL-FLMs-ALL.txt</externallink>
-<thumbnail>https://luminart.online/BACK/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/RET-MENU-FLM.png</thumbnail>
-<fanart>https://luminart.online/BACK/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
+<externallink>https://luminart.online/Lumi-Files/1-SKIN/2-SEL-FLMs-ALL.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/RET-MENU-FLM.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 <info>[COLOR white]Atalho para a seção de:  
 [B]FILMES
 [COLOR black].[/COLOR]
@@ -192,9 +192,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]MENU GERAL[/B][/COLOR]</name>
-<externallink>https://luminart.online/BACK/Lumi-Files/1-SKIN/1-CATEGORIAS-ALL.txt</externallink>
-<thumbnail>https://luminart.online/BACK/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/RET-MENU-GRL.png</thumbnail>
-<fanart>https://luminart.online/BACK/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
+<externallink>https://luminart.online/Lumi-Files/1-SKIN/1-CATEGORIAS-ALL.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/RET-MENU-GRL.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
 <info>[COLOR white]Atalho para a seção de:  
 [B]MENU GERAL
 [COLOR black].[/COLOR]
