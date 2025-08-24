@@ -1,4 +1,4 @@
-<item><title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>				
+<item><title>[COLOR orange][B]SELECIONE UM ITEM ABAIXOB[/B][/COLOR]</title>				
 <link>NOLINK</link>				
 <thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/SEL-ITEM-FLM.png</thumbnail>
 <fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
@@ -8,6 +8,32 @@ E DIVIRTA-SE </info>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<item>
+<originaltitle>Mission: Impossible - The Final Reckoning</originaltitle>
+<sorttitle>Missão: Impossível - O Acerto Final</sorttitle>
+year>2025</year>
+<rating>tmdb - 7,20/10</rating>
+<runtime>169</runtime>
+<certification>BR:12 / BR:BR-12</certification>
+<id>tt9603208</id>
+<tmdbid>575265</tmdbid>
+<added>20-08-2025</added>
+<trailer></trailer/>
+<edition>FHD DUAL LEG TOR</edition>
+<title>[COLOR white][B]Missão: Impossível - O Acerto Final (2025) - FHD DUAL LEG TOR[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2d1228a86af044cf24f743c0f0849024f6a89de7</link>
+<thumbnail>https://image.tmdb.org/t/p/original/cxcwecY0CnG1vHX58WOJjmCVDnl.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/xOuhhbQ3Nzznt5MjRdLBJb0CmDE.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme:
+[B]Missão: Impossível - O Acerto Final
+[COLOR orange]EDIÇÃO[COLOR yellow] -> [COLOR white]FHD DUAL LEG TOR
+[COLOR orange]ANO:[COLOR yellow] -> [COLOR white]2025
+[COLOR orange]NOTA:[COLOR yellow] -> [COLOR white]tmdb - 7,20/10
+[COLOR orange]GÊNERO:[COLOR yellow] -> [COLOR white]Ação, Aventura, Thriller
+[COLOR orange]SINOPSE:[COLOR yellow] -> [COLOR white]Depois de escapar de um acidente de trem calamitoso, Ethan percebe que a Entidade está escondida a bordo de um antigo submarino russo, mas um inimigo do seu passado chamado Gabriel também está no encalço.
+[/B][/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <originaltitle>The Zone of Interest</originaltitle>
