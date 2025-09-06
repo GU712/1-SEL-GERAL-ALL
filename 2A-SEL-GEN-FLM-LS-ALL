@@ -1,6 +1,6 @@
 <channels>
 <channel>				
-<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXOB[/B][/COLOR]</name>				
+<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>				
 <externallink>https://luminart.online/Lumi-Files/1-SKIN/2B-SEL-FLM-LS.txt</externallink>			
 <thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/SEL-ITEM-FLM.png</thumbnail>				
 <fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>				
@@ -13,7 +13,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]FILMES LISTA FULL[COLOR yellow] -> [COLOR white][COLOR orange]LS[/B][/COLOR]</name>
+<name>[COLOR white][B]LISTA FULL[COLOR yellow] -> [COLOR white][COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://luminart.online/Lumi-Files/A-FLM/00-BUILD-FLM/2B-LS/00-CAT/2B3-SEL-FLM-LS-AaZ-ALL.txt</externallink>
 <thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/04-SUB-MENUs/03-FLMs/02-LS/SEL-ALF-FLM-FULL-ICO.png</thumbnail>
 <fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
@@ -35,7 +35,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]FILMES LISTA ALFABETICA[COLOR yellow] -> [COLOR white][COLOR orange]LS[/B][/COLOR]</name>
+<name>[COLOR white][B]LISTA ALFABETICA[COLOR yellow] -> [COLOR white][COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://luminart.online/Lumi-Files/A-FLM/00-BUILD-FLM/2B-LS/00-CAT/2B2-SEL-FLM-LS-AaZ.txt</externallink>
 <thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/04-SUB-MENUs/03-FLMs/02-LS/SEL-ALF-FLM-ICO.png</thumbnail>
 <fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
@@ -57,7 +57,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]FILMES POR GÊNERO[COLOR yellow] -> [COLOR white][COLOR orange]LS[/B][/COLOR]</name>
+<name>[COLOR white][B]LISTA POR GÊNERO[COLOR yellow] -> [COLOR white][COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://luminart.online/Lumi-Files/A-FLM/00-BUILD-FLM/2B-LS/00-CAT/2B1-SEL-FLM-LS-GEN.txt</externallink>
 <thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/04-SUB-MENUs/03-FLMs/02-LS/SEL-GEN-FLM-ICO.png</thumbnail>
 <fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
@@ -66,6 +66,29 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 FILMES POR GÊNERO
 [COLOR black].[/COLOR]
 [COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Filmes no SERVER LS - ORDENADAS POR GÊNERO. Conteúdo em servidor contratado.Clique no item escolhido, e aguarde 40s que o link abre.
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
+[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
+[COLOR black].[/COLOR]
+Encontrou erros ? 
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]LISTA DE COLEÇÕES[COLOR yellow] -> [COLOR white][COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://luminart.online/Lumi-Files/A-FLM/00-BUILD-FLM/2B-LS/00-CAT/2B4-SEL-COL-FLM-LS.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/04-SUB-MENUs/03-FLMs/02-LS/SEL-GEN-COL-ICO.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>
+<info>[COLOR white]Conheça a seção: 
+[B]SERVER LS
+FILMES POR GÊNERO
+[COLOR black].[/COLOR]
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Coleções de Filmes no SERVER LS - ORDENADAS POR GÊNERO. Conteúdo em servidor contratado.Clique no item escolhido, e aguarde 40s que o link abre.
 [COLOR black].[/COLOR]
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
 [B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
