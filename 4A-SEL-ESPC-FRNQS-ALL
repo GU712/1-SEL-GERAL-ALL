@@ -13,14 +13,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]The Best Of -> ANIMAÇÃO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://luminart.online/Lumi-Files/C-ESPC/4A-FRNQ/4A2-ABAS/03-SEL-ESP-ANM.txt</externallink>
-<thumbnail>https://luminart.online/Lumi-Files/2-IMG/04-IESP/01-ABAS/ABA-ANIMASAO-ICO.png<thumbnail>
-<fanart>https://luminart.online/Lumi-Files/2-IMG/04-IESP/01-ABAS/ABA-ANIMASAO-FAN.png</fanart>
+<name>[COLOR white][B]The Best Of -> COLEÇÕES[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://luminart.online/Lumi-Files/C-ESPC/4A-FRNQ/00-BUILD/4A1D-SEL-COL-ESP-GEN.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/04-IESP/01-ABAS/ICO-COL-ESP-GEN.png<thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/04-IESP/01-ABAS/FAN-COL-ESP-GEN.png</fanart>
 <info>[COLOR white]Conheça o Melhor de: 
-[B]ANIMAÇÃO
+[B]GÊNEROS
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ANIMAÇÃO
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]GÊNEROS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
 [/B][COLOR black].[/COLOR]
 Encontrou erros ?
@@ -78,63 +78,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [B]PERSONAGENS
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]PERSONAGENS
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-[/B][COLOR black].[/COLOR]
-Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]The Best Of -> SUPER-HERÓIS[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://luminart.online/Lumi-Files/C-ESPC/4A-FRNQ/4A2-ABAS/06-SEL-ESP-HERO.txt</externallink>
-<thumbnail>https://luminart.online/Lumi-Files/2-IMG/04-IESP/01-ABAS/ABA-HERO-ICO.png</thumbnail>
-<fanart>https://luminart.online/Lumi-Files/2-IMG/04-IESP/01-ABAS/ABA-HERO-FAN.png</fanart>
-<info>[COLOR white]Conheça o Melhor de: 
-[B]SUPER-HERÓIS
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUPER-HERÓIS
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-[/B][COLOR black].[/COLOR]
-Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]The Best Of -> ARTES MARCIAIS[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://luminart.online/Lumi-Files/A-FLM/01-ACA/C-COL-ESP-ACA/C002-ARTES-MARCIAIS/C02-SEL-Artes.Marciais.txt</externallink>
-<thumbnail>https://luminart.online/Lumi-Files/2-IMG/04-IESP/01-ABAS/ABA-ARTES-MARCIAIS-ICO.png</thumbnail>
-<fanart>https://luminart.online/Lumi-Files/2-IMG/04-IESP/01-ABAS/ABA-ARTES-MARCIAIS-FAN.png</fanart>
-<info>[COLOR white]Conheça o Melhor de: 
-[B]ARTES MARCIAIS
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ARTES MARCIAIS
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-[/B][COLOR black].[/COLOR]
-Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]The Best Of -> FICÇÃO E FANTASIA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://luminart.online/Lumi-Files/C-ESPC/4A-FRNQ/4A2-ABAS/02-SEL-ESP-FCFN.txt</externallink>
-<thumbnail>https://luminart.online/Lumi-Files/2-IMG/04-IESP/01-ABAS/ABA-FICSAO-ICO.png</thumbnail>
-<fanart>https://luminart.online/Lumi-Files/2-IMG/04-IESP/01-ABAS/ABA-FICSAO-FAN.png</fanart>
-<info>[COLOR white]Conheça o Melhor da: 
-[B]FICÇÃO E FANTASIA
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
 [/B][COLOR black].[/COLOR]
 Encontrou erros ?
