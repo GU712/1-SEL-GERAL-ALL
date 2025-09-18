@@ -1,6 +1,6 @@
 <channels>
 <channel>				
-<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>				
+<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXOB[/B][/COLOR]</name>				
 <externallink>https://luminart.online/Lumi-Files/1-SKIN/7B-SRS-NEWS.txt</externallink>			
 <thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/SEL-ITEM-SRS.png</thumbnail>				
 <fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>				
@@ -10,6 +10,28 @@ E DIVIRTA-SE[/B]</info>
 </channels>			
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>	
+<name>[COLOR white][B]Guerreiros do Sol (2025) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://luminart.online/Lumi-Files/B-SRS/01-SRSs/09-CRDR/063-SRS-Guerreiros.do.Sol.2025.txt</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/51PSm1PXoRAhvfNc6VPHsIXmr2D.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/s1bycw0nj3fFgpvH2WMxz8gFj7N.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Guerreiros do Sol
+[COLOR orange]STATUS:[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANO:[COLOR yellow] -> [COLOR white]2025
+[COLOR orange]NOTA:[COLOR yellow] -> [COLOR white]8.2
+[COLOR orange]INFO:[COLOR yellow] -> [COLOR white]01 TEMP - 45 EPs
+[COLOR orange]GÊNERO:[COLOR yellow] -> [COLOR white]Crime, Drama, Ação
+[COLOR orange]SINOPSE:[COLOR yellow] -> [COLOR white]A história de dois sertanejos, Josué e Rosa, e como eles se encontram para se tornar um dos mais famosos casais de cangaceiros de todos os tempos.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>	
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>	
@@ -58,13 +80,13 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Outlander: Sangue do Meu Sangue (2025) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://luminart.online/Lumi-Files/B-SRS/01-SRSs/02-EPC/016-SRS-Outlander.Sangue.do.Meu.Sangue.2025.txt</externallink>
+<name>[COLOR white][B]Outlander: Sangue do Meu Sangue (2025) - COMPLETA[COLOR yellow] -> [COLOR orange]LS11[/B][/COLOR]</name>
+<externallink>https://luminart.online/Lumi-Files/B-SRS/01-SRSs/09-CRDR/065-SRS-Outlander.Sangue.do.Meu.Sangue.2025.txt</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/A3lIkRtGyoeFdHJlHnl9ox1aa6g.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/xG5RH59Mak2hf3FijJ9dauibNHt.jpg</fanart>
 <info>[COLOR white]Assista aqui a mini-série:  
 [B]Outlander: Sangue do Meu Sangue
-[COLOR orange]STATUS:[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]STATUS:[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
 [COLOR orange]ANO:[COLOR yellow] -> [COLOR white]2025
 [COLOR orange]NOTA:[COLOR yellow] -> [COLOR white]8.9
 [COLOR orange]INFO:[COLOR yellow] -> [COLOR white]01 TEMP - 06 EPs
@@ -80,22 +102,24 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]A Paranormal (2005) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://luminart.online/Lumi-Files/B-SRS/01-SRSs/09-CRDR/C-MST/001-SRS-A.Paranormal.2005.txt</externallink>
+<name>[COLOR white][B]A Paranormal (2005-2010) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://luminart.online/Lumi-Files/B-SRS/01-SRSs/11-SPTR/030-SRS-A.Paranormal.2005.txt</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/w27IIhZJ57hYo8HOCABUtuxFMrG.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/v02zawJhHai8qrabdqYwQ5uJTLg.jpg</fanart>
-<info>[COLOR white]Assista aqui a mini-série:  
+<fanart>https://image.tmdb.org/t/p/original/hsOWxlCbAyx2P0SgvYxWUszuCnQ.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
 [B]A Paranormal
-[COLOR orange]STATUS:[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANO:[COLOR yellow] -> [COLOR white]2005
-[COLOR orange]NOTA:[COLOR yellow] -> [COLOR white]7.5
-[COLOR orange]INFO:[COLOR yellow] -> [COLOR white]07 TEMP - 130 EPs
-[COLOR orange]GÊNERO:[COLOR yellow] -> [COLOR white]Mistério, Crime, Drama
-[COLOR orange]SINOPSE:[COLOR yellow] -> [COLOR white]Allison, uma jovem mulher, luta para entender seus sonhos e visões de pessoas mortas desde a infância. Ela é dedicada aos três filhos, marido, curso de direito e ao estágio na promotoria. Seu desafio é convencer seu chefe, Devalos, e outros no departamento de que seus poderes psíquicos podem ajudar na solução de crimes, cujos mistérios só podem ser esclarecidos pelos que vivem além do túmulo.
-[COLOR black].[/COLOR]	
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]SÉRIE ATUALIZANDO
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2005 a 2010
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUSPENSE
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]07 TEMPs - 130 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Allison, uma jovem mulher, luta para entender seus sonhos e visões 
+de pessoas mortas desde a infância.Seu desafio é convencer seu chefe, Devalos, e outros no departamento de que seus 
+poderes psíquicos podem ajudar na solução de crimes, cujos mistérios só podem ser esclarecidos pelos que vivem além do túmulo.
+[/B][COLOR black].[/COLOR]
 Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
-[/B][/COLOR]</info>	
+[/COLOR]</info>
+</channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -119,7 +143,7 @@ Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
