@@ -1,6 +1,6 @@
 <channels>
 <channel>				
-<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXOB[/B][/COLOR]</name>				
+<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>				
 <externallink>https://luminart.online/Lumi-Files/1-SKIN/7B-SRS-NEWS.txt</externallink>			
 <thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/SEL-ITEM-SRS.png</thumbnail>				
 <fanart>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/LS-FAN-2.png</fanart>				
@@ -12,23 +12,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
-<channel>	
-<name>[COLOR white][B]Pecado Mortal (2013) - COMPLETA[COLOR yellow] -> [COLOR orange]LS4[/B][/COLOR]</name>
-<externallink>https://luminart.online/Lumi-Files/B-SRS/04-NVLs/A-NVL-SRS/055-SRS-LS4-Pecado.Mortal.2013.txt</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/mnKJPeTMS9xLRtgJvrbf9tuRBfL.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/7l0PFrbB1wPG4y8VifauCMl747N.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]Pecado Mortal
-[COLOR orange]STATUS:[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANO:[COLOR yellow] -> [COLOR white]2013
-[COLOR orange]NOTA:[COLOR yellow] -> [COLOR white]4.5
-[COLOR orange]INFO:[COLOR yellow] -> [COLOR white]01 TEMP - 176 EPs
-[COLOR orange]GÊNERO:[COLOR yellow] -> [COLOR white]Crime, Drama
-[COLOR orange]SINOPSE:[COLOR yellow] -> [COLOR white]Uma intrigante história sobre o poder e os poderosos revela a ascensão do tráfico de drogas no Rio de Janeiro e o declínio do jogo do bicho no fim da década de 1970.
+<channel>
+<name>[COLOR white][B]Parque dos Dinossauros (07 Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://luminart.online/Lumi-Files/A-FLM/10-FCFN/B-COL-FLM-FCFN/B009-COL-Parque.dos.Dinossauros.txt</externallink>
+<thumbnail>https://luminart.online/Lumi-Files/2-IMG/02-IFLM/10-IFCFN/COL-JURASSIC-ICO.png</thumbnail>
+<fanart>https://luminart.online/Lumi-Files/2-IMG/02-IFLM/10-IFCFN/COL-JURASSIC-FAN.png</fanart>
+<info>[COLOR white]Conheça a coleção: 
+[B]Parque dos Dinossauros
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
 [/B][COLOR black].[/COLOR]
 Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>	
+[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -47,6 +44,28 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]INFO:[COLOR yellow] -> [COLOR white]03 TEMP - 42 EPs
 [COLOR orange]GÊNERO:[COLOR yellow] -> [COLOR white]Crime, Drama
 [COLOR orange]SINOPSE:[COLOR yellow] -> [COLOR white]Bastante determinada, ﻿Robyn McCall é uma mãe solteira que utiliza suas habilidades incríveis como ex-agente da CIA para ajudar as pessoas que mais precisam.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>	
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>	
+<name>[COLOR white][B]Pecado Mortal (2013) - COMPLETA[COLOR yellow] -> [COLOR orange]LS4[/B][/COLOR]</name>
+<externallink>https://luminart.online/Lumi-Files/B-SRS/04-NVLs/A-NVL-SRS/055-SRS-LS4-Pecado.Mortal.2013.txt</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/mnKJPeTMS9xLRtgJvrbf9tuRBfL.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/7l0PFrbB1wPG4y8VifauCMl747N.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Pecado Mortal
+[COLOR orange]STATUS:[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANO:[COLOR yellow] -> [COLOR white]2013
+[COLOR orange]NOTA:[COLOR yellow] -> [COLOR white]4.5
+[COLOR orange]INFO:[COLOR yellow] -> [COLOR white]01 TEMP - 176 EPs
+[COLOR orange]GÊNERO:[COLOR yellow] -> [COLOR white]Crime, Drama
+[COLOR orange]SINOPSE:[COLOR yellow] -> [COLOR white]Uma intrigante história sobre o poder e os poderosos revela a ascensão do tráfico de drogas no Rio de Janeiro e o declínio do jogo do bicho no fim da década de 1970.
 [/B][COLOR black].[/COLOR]
 Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
@@ -316,7 +335,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]The Chi (2018-2025) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://luminart.online/Lumi-Files/A-FLM/09-CRDR/5-SRS-CRDR/C064-SRS-The.Chi.2018-ALL.txt</externallink>
+<externallink>https://luminart.online/Lumi-Files/B-SRS/01-SRSs/09-CRDR/064-SRS-The.Chi.2018.txt</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/niD8X5pEXpmRUDhSPdDOgI3Gw5Q.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/2sHgX6xtMoqI7MWUECSIluhvMq8.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
